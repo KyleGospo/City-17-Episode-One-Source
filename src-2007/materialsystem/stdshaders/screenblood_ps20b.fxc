@@ -1,0 +1,28 @@
+// Includes
+#include "common_ps_fxc.h"
+
+sampler		sceneSampler	: register( s0 );
+sampler2D	BloodSplatter	: register( s1 );
+
+float		seed			: register( c0 );
+float		density			: register( c1 );
+float		size			: register( c2 );
+float		shininess		: register( c3 );
+float3		diffuseColor	: register( c4 );
+float3		specularColor	: register( c5 );
+
+float4 main(float2 texCoord  : TEXCOORD0) : COLOR
+{
+	float2 texCoordWarp = (tex2D(BloodSplatter, texCoord + float2(seed + 0.25f, seed - 0.25f)) * 2.0f - 1) * size;
+	float scaledNoise = saturate((tex2D(BloodSplatter, (texCoord * size) + texCoordWarp + float2(seed, -seed)).w - density));
+	scaledNoise = lerp(0.2f, 0.8f, scaledNoise) - 0.2f;
+
+	float3 normals = normalize(float3(ddx(scaledNoise), ddy(scaledNoise), 0.1f));
+	float3 normalMap = (normalize(float3(ddx(scaledNoise), ddy(scaledNoise), 0.8f)) + 1.0f) * 0.5f;
+
+	float3 screenColor = saturate(tex2D(sceneSampler, texCoord).xyz - scaledNoise) + (scaledNoise * diffuseColor); 
+
+	float3 refColor = pow(normals.x, shininess) * specularColor;
+
+	return float4(screenColor + refColor, 1.0f);
+}

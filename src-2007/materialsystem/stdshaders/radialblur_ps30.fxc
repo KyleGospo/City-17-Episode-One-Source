@@ -1,0 +1,32 @@
+// Includes
+#include "common_ps_fxc.h"
+
+#define NSAMPLES 16
+
+sampler2D tex			: register( s0 );
+
+const float BlurStart	: register( c0 );
+const float BlurWidth	: register( c1 );
+const float CX			: register( c2 );
+const float CY			: register( c3 );
+
+// Structs
+struct VS_INPUT
+{
+   	float4 Position   : POSITION;
+    float2 TexCoord0  : TEXCOORD0;
+};
+
+// Main
+float4 main(VS_INPUT IN) : COLOR
+{
+    half4 c = 0;
+    float2 Center = float2(CX,CY);
+    // this loop will be unrolled by compiler and the constants precalculated:
+    for(int i=0; i<NSAMPLES; i++) {
+    	float scale = BlurStart + BlurWidth*(i/(float) (NSAMPLES-1.0));
+    	c += tex2D(tex, IN.TexCoord0.xy*scale + Center );
+    }
+    c /= NSAMPLES;
+    return c;
+}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/city17_source/!svn/ver/124/SourceCode/source/src/materialsystem
+END
+shader_dll_verify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shader_dll_verify.cpp
+END
+IShaderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/IShaderSystem.h
+END
+lightmappedadv.zip
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/128/SourceCode/source/src/materialsystem/lightmappedadv.zip
+END
+shader_dll_verify.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shader_dll_verify.h
+END

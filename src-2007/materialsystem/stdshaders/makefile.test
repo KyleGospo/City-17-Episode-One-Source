@@ -1,0 +1,42 @@
+default:  fxctmp9_tmp\SDK_spritecard_ps20.inc shaders\fxc\SDK_spritecard_ps20.vcs fxctmp9_tmp\SDK_spritecard_ps20b.inc shaders\fxc\SDK_spritecard_ps20b.vcs fxctmp9_tmp\SDK_spritecard_vs11.inc shaders\fxc\SDK_spritecard_vs11.vcs fxctmp9_tmp\SDK_spritecard_vs20.inc shaders\fxc\SDK_spritecard_vs20.vcs fxctmp9_tmp\SDK_spritecard_ps11.inc shaders\fxc\SDK_spritecard_ps11.vcs
+
+fxctmp9_tmp\SDK_spritecard_ps20.inc shaders\fxc\SDK_spritecard_ps20.vcs: SDK_spritecard_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl ..\..\devtools\bin\fxc_prep.pl   -source "..\.." SDK_spritecard_ps2x.fxc-----SDK_spritecard_ps20
+	echo SDK_spritecard_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\SDK_spritecard_ps20b.inc shaders\fxc\SDK_spritecard_ps20b.vcs: SDK_spritecard_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl ..\..\devtools\bin\fxc_prep.pl   -source "..\.." SDK_spritecard_ps2x.fxc-----SDK_spritecard_ps20b
+	echo SDK_spritecard_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\SDK_spritecard_vs11.inc shaders\fxc\SDK_spritecard_vs11.vcs: SDK_spritecard_vsxx.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl ..\..\devtools\bin\fxc_prep.pl   -source "..\.." SDK_spritecard_vsxx.fxc-----SDK_spritecard_vs11
+	echo SDK_spritecard_vsxx.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\SDK_spritecard_vs20.inc shaders\fxc\SDK_spritecard_vs20.vcs: SDK_spritecard_vsxx.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl ..\..\devtools\bin\fxc_prep.pl   -source "..\.." SDK_spritecard_vsxx.fxc-----SDK_spritecard_vs20
+	echo SDK_spritecard_vsxx.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\SDK_spritecard_ps11.inc shaders\fxc\SDK_spritecard_ps11.vcs: SDK_spritecard_ps11.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl ..\..\devtools\bin\fxc_prep.pl   -source "..\.." SDK_spritecard_ps11.fxc-----SDK_spritecard_ps11
+	echo SDK_spritecard_ps11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+

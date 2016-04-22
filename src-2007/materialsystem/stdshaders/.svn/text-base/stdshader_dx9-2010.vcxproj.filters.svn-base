@@ -1,0 +1,898 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2cb81499-ed5b-4665-9a6d-9ea3e40659cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Remove me when VAC2 is out">
+      <UniqueIdentifier>{bc60d615-fc5d-47ec-b7b9-f001369f65c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Link Libraries">
+      <UniqueIdentifier>{7fb0b9b5-6b9f-479b-b82e-fe740545bcd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{16f5e8a7-0568-4d28-9199-c4d85d58a20b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader Source">
+      <UniqueIdentifier>{24561397-01da-479c-a7c7-5af27d9d3a9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader Source\fxc">
+      <UniqueIdentifier>{04de5c78-6104-4edf-b8d0-471e8a992c5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader Source\vsh">
+      <UniqueIdentifier>{19ab622a-a6a6-4f9e-bbcc-becb4f933894}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader Source\psh">
+      <UniqueIdentifier>{7459b4cf-e404-4890-a249-c033e0015068}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="aftershock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aftershock_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseVSShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bloom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cable_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cloak_blended_pass_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cloak_dx9_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="core_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dx8fallbacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="emissive_scroll_blended_pass_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eye_refract.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eye_refract_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eyeball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eyeglint_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eyes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eyes_dx8_dx9_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eyes_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flesh_interior_blended_pass_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lightmappedadv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lightmappedadv_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lightmappedreflective.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lightmappedtwotexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="refract.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="refract_dx9_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="screenspace_general.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="skin_dx9_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spritecard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="teeth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="unlitgeneric_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="unlittwotexture_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vertexlitgeneric_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vertexlitgeneric_dx9_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vortwarp_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="water.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="worldtwotextureblend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="worldvertexalpha.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="worldvertextransition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="worldvertextransition_dx8_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tier1\checksum_crc.cpp">
+      <Filter>Source Files\Remove me when VAC2 is out</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tier1\checksum_md5.cpp">
+      <Filter>Source Files\Remove me when VAC2 is out</Filter>
+    </ClCompile>
+    <ClCompile Include="..\shader_dll_verify.cpp">
+      <Filter>Source Files\Remove me when VAC2 is out</Filter>
+    </ClCompile>
+    <ClCompile Include="nudels_blurframe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sun_shafts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lightmappedgeneric_decal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lightmappedgeneric_dx9_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lightmappedgeneric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chromatic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vignetting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\shader_dll_verify.h">
+      <Filter>Source Files\Remove me when VAC2 is out</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseVSShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="commandbuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common_flashlight_fxc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common_fxc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common_hlsl_cpp_consts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common_lightmappedgeneric_fxc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common_pragmas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common_ps_fxc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common_vertexlitgeneric_dx9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common_vs_fxc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cpp_shader_constant_register_map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lightmappedadv_helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="refract_dx9_helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\dx9sdk\lib\d3dx9.lib">
+      <Filter>Link Libraries</Filter>
+    </Library>
+    <Library Include="..\..\lib\public\mathlib.lib">
+      <Filter>Link Libraries</Filter>
+    </Library>
+    <Library Include="..\..\lib\public\shaderlib.lib">
+      <Filter>Link Libraries</Filter>
+    </Library>
+    <Library Include="..\..\lib\public\tier0.lib">
+      <Filter>Link Libraries</Filter>
+    </Library>
+    <Library Include="..\..\lib\public\tier1.lib">
+      <Filter>Link Libraries</Filter>
+    </Library>
+    <Library Include="..\..\lib\public\vstdlib.lib">
+      <Filter>Link Libraries</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lightmappedadv_flashlight_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="lightmappedadv_flashlight_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="nudels_blurframe_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_aftershock_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_aftershock_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_cable_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_cable_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_cloak_blended_pass_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_cloak_blended_pass_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_cloak_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_cloak_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_core_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_core_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_emissive_scroll_blended_pass_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_emissive_scroll_blended_pass_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eye_refract_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eye_refract_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eyeglint_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eyeglint_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eyes_flashlight_inc.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eyes_flashlight_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eyes_flashlight_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eyes_flashlight_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_eyes_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_Eyes_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_flashlight_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_flesh_interior_blended_pass_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_flesh_interior_blended_pass_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_decal_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_decal_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_flashlight_vs11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_flashlight_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_lightingonly_overbright2_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_lightingonly_vs11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedreflective_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_lightmappedreflective_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_refract_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_Refract_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_skin_ps20b.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_skin_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_splinecard_vsxx.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_spritecard_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_spritecard_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_spritecard_vsxx.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_teeth_bump_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_teeth_bump_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_teeth_flashlight_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_teeth_flashlight_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_teeth_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_teeth_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_lightingonly_vs11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_MaskBaseByDetailAlpha_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_notexture_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_notexture_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_unlittwotexture_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_unlittwotexture_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_vertexlit_and_unlit_generic_bump_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_vertexlit_and_unlit_generic_bump_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_vertexlit_and_unlit_generic_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_vertexlit_and_unlit_generic_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_vertexlit_lighting_only_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_lightingonly_overbright2_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_vortwarp_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_vortwarp_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_water_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_Water_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_WaterCheap_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_WaterCheap_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_worldtwotextureblend_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_WorldVertexAlpha_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition_vs20.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_writevertexalphatodestalpha_ps11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="SDK_writevertexalphatodestalpha_vs11.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="macros.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_emissive_scroll_blended_pass_dx8_vs11.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_eyes.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_eyes_flashlight_vs11.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BaseTexture.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BaseTextureBlend.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedEnvmap.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedEnvmap_ps14.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap_base_ps14.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap_blend_ps14.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_Decal.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_inc.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_LightingOnly.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_VertexColor.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_vs11.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_inc.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_LightingOnly.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_vs11.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_UnlitTwoTexture.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_flashlight_vs11.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_inc.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_SelfIllumOnly.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_vs11.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexAlpha.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition_Seamless.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition_vs14.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="unlittwotexture_inc.vsh">
+      <Filter>Shader Source\vsh</Filter>
+    </None>
+    <None Include="SDK_emissive_scroll_blended_pass_dx8_ps11.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_Eyes.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_eyes_flashlight2_ps11.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_AddEnvMapMaskNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_AddEnvMapNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_basealphamaskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BaseTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_basetextureblend.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedEnvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedEnvmap_ps14.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap_base_ps14.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap_blend_ps14.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_Decal.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_Detail.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_DetailNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_DetailSelfIlluminated.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_envmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_EnvMapNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_EnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_LightingOnly_Overbright2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_maskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_MaskedEnvMapNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_MaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_MultiplyByLighting.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_multiplybylightingbasealphamaskedselfillum.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_multiplybylightingbasenotexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_MultiplyByLightingNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_MultiplyByLightingSelfIllum.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_NoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_SelfIlluminated.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_selfilluminatedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_SelfIlluminatedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_lightmappedgeneric_selfilluminatedmaskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_LightmappedGeneric_SSBumpmappedLightmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_BaseAlphaMaskedEnvMap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_unlitgeneric_basetimesdetail.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_Detail.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_DetailEnvMap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_DetailEnvMapMask.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_DetailEnvMapMaskNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_DetailEnvMapNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_DetailNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_EnvMap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_EnvMapMask.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_EnvMapMaskNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_EnvMapNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitGeneric_NoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_UnlitTwoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_basealphamaskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_Detail.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_Detail_additive.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_Detail_additive_selfillum.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_Detail_LerpBase.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_detailbasealphamaskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_detailenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_DetailEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_detailmaskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_DetailMaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_DetailNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_DetailSelfIlluminated.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_detailselfilluminatedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_detailselfilluminatedmaskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_envmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_EnvMapNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmapV2_ps14.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_EnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_lightingonly_overbright2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_maskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_MaskedEnvMapNoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_MaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_NoTexture.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_SelfIlluminated.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_selfilluminatedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_SelfIlluminatedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_vertexlitgeneric_selfilluminatedmaskedenvmap.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_VertexLitGeneric_SelfIllumOnly.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldTwoTextureBlend.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldTwoTextureBlend_DetailAlpha.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldTwoTextureBlend_SelfIlluminated.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexAlpha.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition_BlendBase2.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition_Editor.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition_ps14.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="SDK_WorldVertexTransition_Seamless.psh">
+      <Filter>Shader Source\psh</Filter>
+    </None>
+    <None Include="buildsdkshaders.bat" />
+    <None Include="buildshaders.bat" />
+    <None Include="..\..\devtools\bin\fxc_prep.pl" />
+    <None Include="..\..\devtools\bin\psh_prep.pl" />
+    <None Include="..\..\devtools\bin\updateshaders.pl" />
+    <None Include="..\..\devtools\bin\valve_perl_helpers.pl" />
+    <None Include="..\..\devtools\bin\vsh_prep.pl" />
+    <None Include="nudels_blurframe_ps2x.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+    <None Include="sun_shafts_ps30.fxc">
+      <Filter>Shader Source\fxc</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="stdshader_dx9_20b.txt">
+      <Filter>Shader Source</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="stdshader_dx9_30.txt">
+      <Filter>Shader Source</Filter>
+    </CustomBuildStep>
+  </ItemGroup>
+</Project>

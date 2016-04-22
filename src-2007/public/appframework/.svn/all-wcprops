@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/82/SourceCode/source/src/public/appframework
+END
+IAppSystemGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/82/SourceCode/source/src/public/appframework/IAppSystemGroup.h
+END
+VguiMatSysApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/82/SourceCode/source/src/public/appframework/VguiMatSysApp.h
+END
+AppFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/82/SourceCode/source/src/public/appframework/AppFramework.h
+END
+IAppSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/82/SourceCode/source/src/public/appframework/IAppSystem.h
+END
+tier2app.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/82/SourceCode/source/src/public/appframework/tier2app.h
+END
+tier3app.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/82/SourceCode/source/src/public/appframework/tier3app.h
+END

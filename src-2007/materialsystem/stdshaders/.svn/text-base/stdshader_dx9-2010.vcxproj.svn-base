@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectName>stdshader_dx9-2010</ProjectName>
+    <ProjectGuid>{C8D2DC83-E117-7576-7B43-10C844264C51}</ProjectGuid>
+    <RootNamespace>stdshader_dx9-2005</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Debug_dx9\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Debug_dx9\</IntDir>
+    <PreLinkEventUseInBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</PreLinkEventUseInBuild>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Release_dx9\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Release_dx9\</IntDir>
+    <PreLinkEventUseInBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</PreLinkEventUseInBuild>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</GenerateManifest>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">game_shader_dx9</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">game_shader_dx9</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <CustomBuildStep>
+      <Message>Publishing to target directory (c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\)...</Message>
+      <Command>if exist "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll" attrib -r "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll"
+copy "$(TargetPath)" "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll"
+if exist "$(TargetDir)"game_shader_dx9.map copy "$(TargetDir)"game_shader_dx9.map "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.map"
+</Command>
+      <Outputs>c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll;%(Outputs)</Outputs>
+    </CustomBuildStep>
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>..\..\common;..\..\public;..\..\public\tier0;..\..\public\tier1;fxctmp9;vshtmp9;..\..\dx9sdk\include;C:\Program Files %28x86%29\Microsoft SDKs\Windows\v7.0A\Include;C:\Program Files %28x86%29\Microsoft DirectX SDK %28November 2008%29\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_WIN32;_DEBUG;DEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;STDSHADER_DX9_DLL_EXPORT;FAST_MATERIALVAR_ACCESS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <MinimalRebuild>true</MinimalRebuild>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ProgramDataBaseFileName>$(IntDir)</ProgramDataBaseFileName>
+      <GenerateXMLDocumentationFiles>false</GenerateXMLDocumentationFiles>
+      <BrowseInformation>
+      </BrowseInformation>
+      <BrowseInformationFile>$(IntDir)</BrowseInformationFile>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ErrorReporting>Prompt</ErrorReporting>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>version.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ShowProgress>NotSet</ShowProgress>
+      <OutputFile>$(OutDir)game_shader_dx9.dll</OutputFile>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <AdditionalLibraryDirectories>..\..\lib\common;..\..\lib\public;C:\Program Files %28x86%29\Microsoft DirectX SDK %28November 2008%29\Lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreSpecificDefaultLibraries>libc;libcd;libcmt;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(IntDir)$(TargetName).pdb</ProgramDatabaseFile>
+      <GenerateMapFile>true</GenerateMapFile>
+      <MapFileName>$(IntDir)$(TargetName).map</MapFileName>
+      <SubSystem>Windows</SubSystem>
+      <BaseAddress>
+      </BaseAddress>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <TargetMachine>MachineX86</TargetMachine>
+      <LinkErrorReporting>PromptImmediately</LinkErrorReporting>
+      <AdditionalOptions>/LTCG %(AdditionalOptions)</AdditionalOptions>
+    </Link>
+    <Manifest>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </Manifest>
+    <Xdcmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </Xdcmake>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>$(OutDir)stdshader_dx9.bsc</OutputFile>
+    </Bscmake>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <CustomBuildStep>
+      <Message>Publishing to target directory (c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\)...</Message>
+      <Command>if exist "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll" attrib -r "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll"
+copy "$(TargetPath)" "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll"
+if exist "$(TargetDir)"game_shader_dx9.map copy "$(TargetDir)"game_shader_dx9.map "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.map"
+</Command>
+      <Outputs>c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll;%(Outputs)</Outputs>
+    </CustomBuildStep>
+    <ClCompile>
+      <Optimization>Full</Optimization>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <WholeProgramOptimization>true</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>..\..\common;..\..\public;..\..\public\tier0;..\..\public\tier1;fxctmp9;vshtmp9;..\..\dx9sdk\include;C:\Program Files %28x86%29\Microsoft SDKs\Windows\v7.0A\Include;C:\Program Files %28x86%29\Microsoft DirectX SDK %28November 2008%29\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_WIN32;NDEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;STDSHADER_DX9_DLL_EXPORT;FAST_MATERIALVAR_ACCESS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <EnableEnhancedInstructionSet>StreamingSIMDExtensions</EnableEnhancedInstructionSet>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ProgramDataBaseFileName>$(IntDir)</ProgramDataBaseFileName>
+      <GenerateXMLDocumentationFiles>false</GenerateXMLDocumentationFiles>
+      <BrowseInformation>
+      </BrowseInformation>
+      <BrowseInformationFile>$(IntDir)</BrowseInformationFile>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ErrorReporting>Prompt</ErrorReporting>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>version.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ShowProgress>NotSet</ShowProgress>
+      <OutputFile>$(OutDir)game_shader_dx9.dll</OutputFile>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <AdditionalLibraryDirectories>..\..\lib\common;..\..\lib\public;C:\Program Files %28x86%29\Microsoft DirectX SDK %28November 2008%29\Lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreSpecificDefaultLibraries>libc;libcd;libcmtd;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(IntDir)$(TargetName).pdb</ProgramDatabaseFile>
+      <GenerateMapFile>true</GenerateMapFile>
+      <MapFileName>$(IntDir)$(TargetName).map</MapFileName>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <BaseAddress>
+      </BaseAddress>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <TargetMachine>MachineX86</TargetMachine>
+      <LinkErrorReporting>PromptImmediately</LinkErrorReporting>
+      <AdditionalOptions>/LTCG %(AdditionalOptions)</AdditionalOptions>
+    </Link>
+    <Manifest>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </Manifest>
+    <Xdcmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </Xdcmake>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>$(OutDir)stdshader_dx9.bsc</OutputFile>
+    </Bscmake>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="aftershock.cpp" />
+    <ClCompile Include="aftershock_helper.cpp" />
+    <ClCompile Include="BaseVSShader.cpp" />
+    <ClCompile Include="Bloom.cpp" />
+    <ClCompile Include="cable_dx9.cpp" />
+    <ClCompile Include="chromatic.cpp" />
+    <ClCompile Include="cloak_blended_pass_helper.cpp" />
+    <ClCompile Include="cloak_dx9_helper.cpp" />
+    <ClCompile Include="core_dx9.cpp" />
+    <ClCompile Include="dx8fallbacks.cpp" />
+    <ClCompile Include="emissive_scroll_blended_pass_helper.cpp" />
+    <ClCompile Include="eye_refract.cpp" />
+    <ClCompile Include="eye_refract_helper.cpp" />
+    <ClCompile Include="eyeball.cpp" />
+    <ClCompile Include="eyeglint_dx9.cpp" />
+    <ClCompile Include="eyes.cpp" />
+    <ClCompile Include="eyes_dx8_dx9_helper.cpp" />
+    <ClCompile Include="eyes_dx9.cpp" />
+    <ClCompile Include="flesh_interior_blended_pass_helper.cpp" />
+    <ClCompile Include="lightmappedadv.cpp" />
+    <ClCompile Include="lightmappedadv_helper.cpp" />
+    <ClCompile Include="lightmappedgeneric.cpp" />
+    <ClCompile Include="lightmappedgeneric_decal.cpp" />
+    <ClCompile Include="lightmappedgeneric_dx9_helper.cpp" />
+    <ClCompile Include="lightmappedreflective.cpp" />
+    <ClCompile Include="lightmappedtwotexture.cpp" />
+    <ClCompile Include="nudels_blurframe.cpp" />
+    <ClCompile Include="refract.cpp" />
+    <ClCompile Include="refract_dx9_helper.cpp" />
+    <ClCompile Include="screenspace_general.cpp" />
+    <ClCompile Include="skin_dx9_helper.cpp" />
+    <ClCompile Include="spritecard.cpp" />
+    <ClCompile Include="sun_shafts.cpp" />
+    <ClCompile Include="teeth.cpp" />
+    <ClCompile Include="unlitgeneric_dx9.cpp" />
+    <ClCompile Include="unlittwotexture_dx9.cpp" />
+    <ClCompile Include="vertexlitgeneric_dx9.cpp" />
+    <ClCompile Include="vertexlitgeneric_dx9_helper.cpp" />
+    <ClCompile Include="vignetting.cpp" />
+    <ClCompile Include="vortwarp_dx9.cpp" />
+    <ClCompile Include="water.cpp" />
+    <ClCompile Include="worldtwotextureblend.cpp" />
+    <ClCompile Include="worldvertexalpha.cpp" />
+    <ClCompile Include="worldvertextransition.cpp" />
+    <ClCompile Include="worldvertextransition_dx8_helper.cpp" />
+    <ClCompile Include="..\..\tier1\checksum_crc.cpp" />
+    <ClCompile Include="..\..\tier1\checksum_md5.cpp" />
+    <ClCompile Include="..\shader_dll_verify.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\shader_dll_verify.h" />
+    <ClInclude Include="BaseVSShader.h" />
+    <ClInclude Include="commandbuilder.h" />
+    <ClInclude Include="common_flashlight_fxc.h" />
+    <ClInclude Include="common_fxc.h" />
+    <ClInclude Include="common_hlsl_cpp_consts.h" />
+    <ClInclude Include="common_lightmappedgeneric_fxc.h" />
+    <ClInclude Include="common_pragmas.h" />
+    <ClInclude Include="common_ps_fxc.h" />
+    <ClInclude Include="common_vertexlitgeneric_dx9.h" />
+    <ClInclude Include="common_vs_fxc.h" />
+    <ClInclude Include="cpp_shader_constant_register_map.h" />
+    <ClInclude Include="lightmappedadv_helper.h" />
+    <ClInclude Include="refract_dx9_helper.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\dx9sdk\lib\d3dx9.lib" />
+    <Library Include="..\..\lib\public\mathlib.lib" />
+    <Library Include="..\..\lib\public\shaderlib.lib" />
+    <Library Include="..\..\lib\public\tier0.lib" />
+    <Library Include="..\..\lib\public\tier1.lib" />
+    <Library Include="..\..\lib\public\vstdlib.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="lightmappedadv_flashlight_2x3.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </CustomBuildStep>
+    <CustomBuildStep Include="stdshader_dx9_20b.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </CustomBuildStep>
+    <CustomBuildStep Include="stdshader_dx9_30.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </CustomBuildStep>
+    <None Include="lightmappedadv_flashlight_ps2x.fxc" />
+    <None Include="lightmappedadv_flashlight_vs20.fxc" />
+    <None Include="nudels_blurframe_ps2x.fxc" />
+    <None Include="nudels_blurframe_vs20.fxc" />
+    <None Include="SDK_aftershock_ps2x.fxc" />
+    <None Include="SDK_aftershock_vs20.fxc" />
+    <None Include="SDK_cable_ps2x.fxc" />
+    <None Include="SDK_cable_vs20.fxc" />
+    <None Include="SDK_cloak_blended_pass_ps2x.fxc" />
+    <None Include="SDK_cloak_blended_pass_vs20.fxc" />
+    <None Include="SDK_cloak_ps2x.fxc" />
+    <None Include="SDK_cloak_vs20.fxc" />
+    <None Include="SDK_core_ps2x.fxc" />
+    <None Include="SDK_core_vs20.fxc" />
+    <None Include="SDK_emissive_scroll_blended_pass_ps2x.fxc" />
+    <None Include="SDK_emissive_scroll_blended_pass_vs20.fxc" />
+    <None Include="SDK_eye_refract_ps2x.fxc" />
+    <None Include="SDK_eye_refract_vs20.fxc" />
+    <None Include="SDK_eyeglint_ps2x.fxc" />
+    <None Include="SDK_eyeglint_vs20.fxc" />
+    <None Include="SDK_eyes_flashlight_inc.fxc" />
+    <None Include="SDK_eyes_flashlight_ps11.fxc" />
+    <None Include="SDK_eyes_flashlight_ps2x.fxc" />
+    <None Include="SDK_eyes_flashlight_vs20.fxc" />
+    <None Include="SDK_eyes_ps2x.fxc" />
+    <None Include="SDK_Eyes_vs20.fxc" />
+    <None Include="SDK_flashlight_ps2x.fxc" />
+    <None Include="SDK_flesh_interior_blended_pass_ps2x.fxc" />
+    <None Include="SDK_flesh_interior_blended_pass_vs20.fxc" />
+    <None Include="SDK_lightmappedgeneric_decal_ps2x.fxc" />
+    <None Include="SDK_lightmappedgeneric_decal_vs20.fxc" />
+    <None Include="SDK_lightmappedgeneric_flashlight_vs11.fxc" />
+    <None Include="SDK_lightmappedgeneric_flashlight_vs20.fxc" />
+    <None Include="SDK_lightmappedgeneric_lightingonly_overbright2_ps11.fxc" />
+    <None Include="SDK_lightmappedgeneric_lightingonly_vs11.fxc" />
+    <None Include="SDK_lightmappedgeneric_ps11.fxc" />
+    <None Include="SDK_lightmappedgeneric_ps2x.fxc" />
+    <None Include="SDK_lightmappedgeneric_vs20.fxc" />
+    <None Include="SDK_lightmappedreflective_ps2x.fxc" />
+    <None Include="SDK_lightmappedreflective_vs20.fxc" />
+    <None Include="SDK_refract_ps2x.fxc" />
+    <None Include="SDK_Refract_vs20.fxc" />
+    <None Include="SDK_skin_ps20b.fxc" />
+    <None Include="SDK_skin_vs20.fxc" />
+    <None Include="SDK_splinecard_vsxx.fxc" />
+    <None Include="SDK_spritecard_ps11.fxc" />
+    <None Include="SDK_spritecard_ps2x.fxc" />
+    <None Include="SDK_spritecard_vsxx.fxc" />
+    <None Include="SDK_teeth_bump_ps2x.fxc" />
+    <None Include="SDK_teeth_bump_vs20.fxc" />
+    <None Include="SDK_teeth_flashlight_ps2x.fxc" />
+    <None Include="SDK_teeth_flashlight_vs20.fxc" />
+    <None Include="SDK_teeth_ps2x.fxc" />
+    <None Include="SDK_teeth_vs20.fxc" />
+    <None Include="SDK_unlitgeneric_lightingonly_vs11.fxc" />
+    <None Include="SDK_UnlitGeneric_MaskBaseByDetailAlpha_ps11.fxc" />
+    <None Include="SDK_unlitgeneric_notexture_ps11.fxc" />
+    <None Include="SDK_unlitgeneric_notexture_ps2x.fxc" />
+    <None Include="SDK_unlitgeneric_ps11.fxc" />
+    <None Include="SDK_unlitgeneric_ps2x.fxc" />
+    <None Include="SDK_unlitgeneric_vs20.fxc" />
+    <None Include="SDK_unlittwotexture_ps2x.fxc" />
+    <None Include="SDK_unlittwotexture_vs20.fxc" />
+    <None Include="SDK_vertexlit_and_unlit_generic_bump_ps2x.fxc" />
+    <None Include="SDK_vertexlit_and_unlit_generic_bump_vs20.fxc" />
+    <None Include="SDK_vertexlit_and_unlit_generic_ps2x.fxc" />
+    <None Include="SDK_vertexlit_and_unlit_generic_vs20.fxc" />
+    <None Include="SDK_vertexlit_lighting_only_ps2x.fxc" />
+    <None Include="SDK_vertexlitgeneric_lightingonly_overbright2_ps11.fxc" />
+    <None Include="SDK_vortwarp_ps2x.fxc" />
+    <None Include="SDK_vortwarp_vs20.fxc" />
+    <None Include="SDK_water_ps2x.fxc" />
+    <None Include="SDK_Water_vs20.fxc" />
+    <None Include="SDK_WaterCheap_ps2x.fxc" />
+    <None Include="SDK_WaterCheap_vs20.fxc" />
+    <None Include="SDK_worldtwotextureblend_ps2x.fxc" />
+    <None Include="SDK_WorldVertexAlpha_ps2x.fxc" />
+    <None Include="SDK_WorldVertexTransition_ps2x.fxc" />
+    <None Include="SDK_WorldVertexTransition_vs20.fxc" />
+    <None Include="SDK_writevertexalphatodestalpha_ps11.fxc" />
+    <None Include="SDK_writevertexalphatodestalpha_vs11.fxc" />
+    <None Include="macros.vsh" />
+    <None Include="SDK_emissive_scroll_blended_pass_dx8_vs11.vsh" />
+    <None Include="SDK_eyes.vsh" />
+    <None Include="SDK_eyes_flashlight_vs11.vsh" />
+    <None Include="SDK_LightmappedGeneric_BaseTexture.vsh" />
+    <None Include="SDK_LightmappedGeneric_BaseTextureBlend.vsh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedEnvmap.vsh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedEnvmap_ps14.vsh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap.vsh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap_base_ps14.vsh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap_blend_ps14.vsh" />
+    <None Include="SDK_LightmappedGeneric_Decal.vsh" />
+    <None Include="SDK_lightmappedgeneric_inc.vsh" />
+    <None Include="SDK_LightmappedGeneric_LightingOnly.vsh" />
+    <None Include="SDK_LightmappedGeneric_VertexColor.vsh" />
+    <None Include="SDK_lightmappedgeneric_vs11.vsh" />
+    <None Include="SDK_unlitgeneric_inc.vsh" />
+    <None Include="SDK_UnlitGeneric_LightingOnly.vsh" />
+    <None Include="SDK_unlitgeneric_vs11.vsh" />
+    <None Include="SDK_UnlitTwoTexture.vsh" />
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vsh" />
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vsh" />
+    <None Include="SDK_vertexlitgeneric_flashlight_vs11.vsh" />
+    <None Include="SDK_vertexlitgeneric_inc.vsh" />
+    <None Include="SDK_VertexLitGeneric_SelfIllumOnly.vsh" />
+    <None Include="SDK_vertexlitgeneric_vs11.vsh" />
+    <None Include="SDK_WorldVertexAlpha.vsh" />
+    <None Include="SDK_WorldVertexTransition.vsh" />
+    <None Include="SDK_WorldVertexTransition_Seamless.vsh" />
+    <None Include="SDK_WorldVertexTransition_vs14.vsh" />
+    <None Include="sun_shafts_ps30.fxc" />
+    <None Include="unlittwotexture_inc.vsh" />
+    <None Include="SDK_emissive_scroll_blended_pass_dx8_ps11.psh" />
+    <None Include="SDK_Eyes.psh" />
+    <None Include="SDK_eyes_flashlight2_ps11.psh" />
+    <None Include="SDK_LightmappedGeneric.psh" />
+    <None Include="SDK_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.psh" />
+    <None Include="SDK_LightmappedGeneric_AddEnvMapMaskNoTexture.psh" />
+    <None Include="SDK_LightmappedGeneric_AddEnvMapNoTexture.psh" />
+    <None Include="SDK_lightmappedgeneric_basealphamaskedenvmap.psh" />
+    <None Include="SDK_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.psh" />
+    <None Include="SDK_LightmappedGeneric_BaseTexture.psh" />
+    <None Include="SDK_lightmappedgeneric_basetextureblend.psh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedEnvmap.psh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedEnvmap_ps14.psh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap.psh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap_base_ps14.psh" />
+    <None Include="SDK_LightmappedGeneric_BumpmappedLightmap_blend_ps14.psh" />
+    <None Include="SDK_LightmappedGeneric_Decal.psh" />
+    <None Include="SDK_LightmappedGeneric_Detail.psh" />
+    <None Include="SDK_LightmappedGeneric_DetailNoTexture.psh" />
+    <None Include="SDK_LightmappedGeneric_DetailSelfIlluminated.psh" />
+    <None Include="SDK_lightmappedgeneric_envmap.psh" />
+    <None Include="SDK_LightmappedGeneric_EnvMapNoTexture.psh" />
+    <None Include="SDK_LightmappedGeneric_EnvMapV2.psh" />
+    <None Include="SDK_LightmappedGeneric_LightingOnly_Overbright2.psh" />
+    <None Include="SDK_lightmappedgeneric_maskedenvmap.psh" />
+    <None Include="SDK_LightmappedGeneric_MaskedEnvMapNoTexture.psh" />
+    <None Include="SDK_LightmappedGeneric_MaskedEnvMapV2.psh" />
+    <None Include="SDK_LightmappedGeneric_MultiplyByLighting.psh" />
+    <None Include="SDK_lightmappedgeneric_multiplybylightingbasealphamaskedselfillum.psh" />
+    <None Include="SDK_lightmappedgeneric_multiplybylightingbasenotexture.psh" />
+    <None Include="SDK_LightmappedGeneric_MultiplyByLightingNoTexture.psh" />
+    <None Include="SDK_LightmappedGeneric_MultiplyByLightingSelfIllum.psh" />
+    <None Include="SDK_LightmappedGeneric_NoTexture.psh" />
+    <None Include="SDK_LightmappedGeneric_SelfIlluminated.psh" />
+    <None Include="SDK_lightmappedgeneric_selfilluminatedenvmap.psh" />
+    <None Include="SDK_LightmappedGeneric_SelfIlluminatedEnvMapV2.psh" />
+    <None Include="SDK_lightmappedgeneric_selfilluminatedmaskedenvmap.psh" />
+    <None Include="SDK_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.psh" />
+    <None Include="SDK_LightmappedGeneric_SSBumpmappedLightmap.psh" />
+    <None Include="SDK_UnlitGeneric.psh" />
+    <None Include="SDK_UnlitGeneric_BaseAlphaMaskedEnvMap.psh" />
+    <None Include="SDK_unlitgeneric_basetimesdetail.psh" />
+    <None Include="SDK_UnlitGeneric_Detail.psh" />
+    <None Include="SDK_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.psh" />
+    <None Include="SDK_UnlitGeneric_DetailEnvMap.psh" />
+    <None Include="SDK_UnlitGeneric_DetailEnvMapMask.psh" />
+    <None Include="SDK_UnlitGeneric_DetailEnvMapMaskNoTexture.psh" />
+    <None Include="SDK_UnlitGeneric_DetailEnvMapNoTexture.psh" />
+    <None Include="SDK_UnlitGeneric_DetailNoTexture.psh" />
+    <None Include="SDK_UnlitGeneric_EnvMap.psh" />
+    <None Include="SDK_UnlitGeneric_EnvMapMask.psh" />
+    <None Include="SDK_UnlitGeneric_EnvMapMaskNoTexture.psh" />
+    <None Include="SDK_UnlitGeneric_EnvMapNoTexture.psh" />
+    <None Include="SDK_UnlitGeneric_NoTexture.psh" />
+    <None Include="SDK_UnlitTwoTexture.psh" />
+    <None Include="SDK_VertexLitGeneric.psh" />
+    <None Include="SDK_vertexlitgeneric_basealphamaskedenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.psh" />
+    <None Include="SDK_VertexLitGeneric_Detail.psh" />
+    <None Include="SDK_VertexLitGeneric_Detail_additive.psh" />
+    <None Include="SDK_VertexLitGeneric_Detail_additive_selfillum.psh" />
+    <None Include="SDK_VertexLitGeneric_Detail_LerpBase.psh" />
+    <None Include="SDK_vertexlitgeneric_detailbasealphamaskedenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.psh" />
+    <None Include="SDK_vertexlitgeneric_detailenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_DetailEnvMapV2.psh" />
+    <None Include="SDK_vertexlitgeneric_detailmaskedenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_DetailMaskedEnvMapV2.psh" />
+    <None Include="SDK_VertexLitGeneric_DetailNoTexture.psh" />
+    <None Include="SDK_VertexLitGeneric_DetailSelfIlluminated.psh" />
+    <None Include="SDK_vertexlitgeneric_detailselfilluminatedenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.psh" />
+    <None Include="SDK_vertexlitgeneric_detailselfilluminatedmaskedenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.psh" />
+    <None Include="SDK_vertexlitgeneric_envmap.psh" />
+    <None Include="SDK_VertexLitGeneric_EnvMapNoTexture.psh" />
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmapV2.psh" />
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.psh" />
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.psh" />
+    <None Include="SDK_VertexLitGeneric_EnvmappedBumpmapV2_ps14.psh" />
+    <None Include="SDK_VertexLitGeneric_EnvMapV2.psh" />
+    <None Include="SDK_vertexlitgeneric_lightingonly_overbright2.psh" />
+    <None Include="SDK_vertexlitgeneric_maskedenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_MaskedEnvMapNoTexture.psh" />
+    <None Include="SDK_VertexLitGeneric_MaskedEnvMapV2.psh" />
+    <None Include="SDK_VertexLitGeneric_NoTexture.psh" />
+    <None Include="SDK_VertexLitGeneric_SelfIlluminated.psh" />
+    <None Include="SDK_vertexlitgeneric_selfilluminatedenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_SelfIlluminatedEnvMapV2.psh" />
+    <None Include="SDK_vertexlitgeneric_selfilluminatedmaskedenvmap.psh" />
+    <None Include="SDK_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.psh" />
+    <None Include="SDK_VertexLitGeneric_SelfIllumOnly.psh" />
+    <None Include="SDK_WorldTwoTextureBlend.psh" />
+    <None Include="SDK_WorldTwoTextureBlend_DetailAlpha.psh" />
+    <None Include="SDK_WorldTwoTextureBlend_SelfIlluminated.psh" />
+    <None Include="SDK_WorldVertexAlpha.psh" />
+    <None Include="SDK_WorldVertexTransition.psh" />
+    <None Include="SDK_WorldVertexTransition_BlendBase2.psh" />
+    <None Include="SDK_WorldVertexTransition_Editor.psh" />
+    <None Include="SDK_WorldVertexTransition_ps14.psh" />
+    <None Include="SDK_WorldVertexTransition_Seamless.psh" />
+    <None Include="buildsdkshaders.bat" />
+    <None Include="buildshaders.bat" />
+    <None Include="..\..\devtools\bin\fxc_prep.pl" />
+    <None Include="..\..\devtools\bin\psh_prep.pl" />
+    <None Include="..\..\devtools\bin\updateshaders.pl" />
+    <None Include="..\..\devtools\bin\valve_perl_helpers.pl" />
+    <None Include="..\..\devtools\bin\vsh_prep.pl" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,23 @@
+// Includes
+#include "common_vs_fxc.h"
+
+const float2 TexelOffsets				: register(SHADER_SPECIFIC_CONST_0);
+const float CX							: register(SHADER_SPECIFIC_CONST_1);
+const float CY							: register(SHADER_SPECIFIC_CONST_2);
+
+// Structs
+struct VS_OUTPUT
+{
+   	float4 Position   : POSITION;
+    float2 TexCoord0  : TEXCOORD0;
+};
+
+VS_OUTPUT main(float4 Position : POSITION, float2 TexCoord : TEXCOORD0)
+{
+    VS_OUTPUT OUT;
+    OUT.Position = Position;
+    // don't want bilinear filtering on original scene:
+    float2 Center = float2(CX,CY);
+    OUT.TexCoord0 = TexCoord + TexelOffsets - Center;
+    return OUT;
+}

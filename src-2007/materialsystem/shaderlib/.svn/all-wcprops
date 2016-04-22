@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/124/SourceCode/source/src/materialsystem/shaderlib
+END
+shaderlib-2008.sln
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderlib-2008.sln
+END
+BaseShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/BaseShader.cpp
+END
+ShaderDLL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/ShaderDLL.cpp
+END
+shaderlib-2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderlib-2005.vcproj
+END
+shaderlib-2008.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderlib-2008.ncb
+END
+shaderlib-2008.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderlib-2008.vcproj
+END
+UpgradeLog.XML
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/UpgradeLog.XML
+END
+shaderDLL_Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderDLL_Global.h
+END
+shaderlib-2008.suo
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderlib-2008.suo
+END
+shaderlib_cvar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderlib_cvar.cpp
+END
+shaderlib-2008.vcproj.KYLE-Q6600.Kyle Gospodnetich.user
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderlib-2008.vcproj.KYLE-Q6600.Kyle%20Gospodnetich.user
+END
+shaderlib_cvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/shaderlib/shaderlib_cvar.h
+END

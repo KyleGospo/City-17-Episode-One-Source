@@ -1,0 +1,88 @@
+//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//
+// Purpose: 
+//
+//=============================================================================//
+#include "cbase.h"
+#include "model_types.h"
+#include "vcollide.h"
+#include "vcollide_parse.h"
+#include "solidsetdefaults.h"
+#include "bone_setup.h"
+#include "engine/ivmodelinfo.h"
+#include "physics.h"
+#include "c_breakableprop.h"
+#include "view.h"
+
+// L4D glow
+#include "city17/ge_screeneffects.h"
+
+// memdbgon must be the last include file in a .cpp file!!!
+#include "tier0/memdbgon.h"
+
+IMPLEMENT_CLIENTCLASS_DT(C_BreakableProp, DT_BreakableProp, CBreakableProp)
+	RecvPropBool(RECVINFO( m_bReceiveProjected )),
+	RecvPropBool(RECVINFO( m_bEnableGlow )),
+	RecvPropInt(RECVINFO( m_GlowColor ), 0, RecvProxy_IntToColor32 ),
+END_RECV_TABLE()
+
+//-----------------------------------------------------------------------------
+// Purpose: 
+//-----------------------------------------------------------------------------
+C_BreakableProp::C_BreakableProp( void )
+{
+	m_takedamage = DAMAGE_YES;
+	m_bClientGlow = false;
+
+	m_pEntGlowEffect = (CEntGlowEffect*)g_pScreenSpaceEffects->GetScreenSpaceEffect("ge_entglow");
+}
+
+bool C_BreakableProp::ShouldReceiveProjectedTextures( int flags )
+{
+	return m_bReceiveProjected;
+}
+
+void C_BreakableProp::PostDataUpdate( DataUpdateType_t updateType )
+{
+	BaseClass::PostDataUpdate( updateType );
+ 
+	color32 col = m_GlowColor;
+	// Did we change glow states?
+	if ( m_bClientGlow != m_bEnableGlow )
+	{
+		if ( m_bEnableGlow )
+		{
+			// Register us with the effect
+			m_pEntGlowEffect->RegisterEnt( this, Color(col.r, col.g, col.b, col.a) );
+		}
+		else
+		{
+			// Stop glowing
+			m_pEntGlowEffect->DeregisterEnt( this );
+		}
+	
+		m_bClientGlow = m_bEnableGlow;
+	}
+	else
+	{
+		// Maybe we changed color? Set it anyway (not a costly function at all)
+		m_pEntGlowEffect->SetEntColor( this, Color(col.r, col.g, col.b, col.a) );
+	}
+}
+
+//-----------------------------------------------------------------------------
+// Purpose: 
+//-----------------------------------------------------------------------------
+void C_BreakableProp::SetFadeMinMax( float fademin, float fademax )
+{
+	m_fadeMinDist = fademin;
+	m_fadeMaxDist = fademax;
+}
+
+//-----------------------------------------------------------------------------
+// Copy fade from another breakable prop
+//-----------------------------------------------------------------------------
+void C_BreakableProp::CopyFadeFrom( C_BreakableProp *pSource )
+{
+	m_flFadeScale = pSource->m_flFadeScale;
+}

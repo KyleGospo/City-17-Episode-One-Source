@@ -1,0 +1,1619 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/121/SourceCode/source/src/game/server/hl2
+END
+grenade_beam.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_beam.h
+END
+npc_manhack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_manhack.cpp
+END
+weapon_ar2.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_ar2.h
+END
+grenade_homer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_homer.h
+END
+hl2_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_player.h
+END
+func_tank.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/func_tank.h
+END
+assassin_smoke.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/assassin_smoke.h
+END
+weapon_357.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_357.cpp
+END
+grenade_tripwire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_tripwire.cpp
+END
+cbasespriteprojectile.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/cbasespriteprojectile.h
+END
+weapon_ar1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_ar1.cpp
+END
+npc_launcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_launcher.cpp
+END
+item_suit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_suit.cpp
+END
+npc_ichthyosaur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_ichthyosaur.cpp
+END
+npc_bullsquid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/127/SourceCode/source/src/game/server/hl2/npc_bullsquid.cpp
+END
+weapon_slam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_slam.cpp
+END
+npc_manhack.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_manhack.h
+END
+ai_behavior_police.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_police.h
+END
+npc_barnacle.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_barnacle.h
+END
+vehicle_jeep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_jeep.cpp
+END
+combine_mine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/combine_mine.cpp
+END
+npc_antliongrub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_antliongrub.cpp
+END
+weapon_frag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_frag.cpp
+END
+antlion_maker.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/antlion_maker.h
+END
+rotorwash.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/rotorwash.h
+END
+grenade_tripwire.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_tripwire.h
+END
+weapon_alyxgun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_alyxgun.cpp
+END
+ai_behavior_functank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_functank.cpp
+END
+weapon_ar3.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_ar3.h
+END
+ai_behavior_police.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_police.cpp
+END
+npc_antlion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/npc_antlion.cpp
+END
+hl2_playerlocaldata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_playerlocaldata.cpp
+END
+item_ammo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_ammo.cpp
+END
+antlion_dust.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/antlion_dust.h
+END
+weapon_crowbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_crowbar.cpp
+END
+npc_hydra.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_hydra.h
+END
+npc_PoisonZombie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_PoisonZombie.cpp
+END
+npc_barney.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_barney.cpp
+END
+npc_vortigaunt_episodic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_vortigaunt_episodic.cpp
+END
+npc_metropolice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_metropolice.cpp
+END
+antlion_maker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/antlion_maker.cpp
+END
+npc_combinecamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_combinecamera.cpp
+END
+ai_spotlight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_spotlight.cpp
+END
+vehicle_jeep.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_jeep.h
+END
+npc_basescanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_basescanner.h
+END
+npc_kleiner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_kleiner.cpp
+END
+weapon_physcannon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_physcannon.cpp
+END
+npc_breen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_breen.cpp
+END
+npc_turret_floor.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_turret_floor.h
+END
+npc_attackchopper.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_attackchopper.h
+END
+hl2_player.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_player.cpp.bak
+END
+npc_headcrab.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_headcrab.h
+END
+npc_missiledefense.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_missiledefense.cpp
+END
+cbasehelicopter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/cbasehelicopter.h
+END
+antlion_dust.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/antlion_dust.cpp
+END
+grenade_brickbat.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_brickbat.h
+END
+weapon_manhack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_manhack.cpp
+END
+ai_behavior_holster.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_holster.h
+END
+npc_spotlight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_spotlight.cpp
+END
+weapon_molotov.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_molotov.h
+END
+weapon_tripwire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_tripwire.cpp
+END
+weapon_smg1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_smg1.cpp
+END
+vehicle_airboat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_airboat.cpp
+END
+grenade_tripmine.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_tripmine.h
+END
+npc_citizen17.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_citizen17.h
+END
+npc_zombie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_zombie.cpp
+END
+npc_combinedropship.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_combinedropship.cpp
+END
+npc_metropolice.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_metropolice.h
+END
+grenade_pathfollower.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_pathfollower.cpp.bak
+END
+ai_goal_police.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_goal_police.h
+END
+vehicle_crane.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_crane.h
+END
+basehlcombatweapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/basehlcombatweapon.cpp
+END
+npc_combines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_combines.cpp
+END
+npc_antlion.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_antlion.cpp.bak
+END
+vehicle_apc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_apc.cpp
+END
+Func_Monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/Func_Monitor.cpp
+END
+info_darknessmode_lightsource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/info_darknessmode_lightsource.cpp
+END
+npc_fastzombie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_fastzombie.cpp
+END
+npc_enemyfinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_enemyfinder.cpp
+END
+item_dynamic_resupply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_dynamic_resupply.cpp
+END
+weapon_stunstick.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_stunstick.h
+END
+prop_combine_ball.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/prop_combine_ball.h
+END
+vehicle_viewcontroller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_viewcontroller.cpp
+END
+npc_strider.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_strider.h
+END
+npc_combine.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_combine.h
+END
+weapon_pistol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/server/hl2/weapon_pistol.cpp
+END
+env_starfield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/env_starfield.cpp
+END
+weapon_extinguisher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_extinguisher.cpp
+END
+vehicle_jetski.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_jetski.cpp
+END
+npc_scanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_scanner.cpp
+END
+weapon_medkit.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_medkit.h
+END
+weapon_sniperrifle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_sniperrifle.cpp
+END
+weapon_ar2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_ar2.cpp
+END
+weapon_thumper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_thumper.cpp
+END
+grenade_pathfollower.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_pathfollower.h
+END
+citadel_effects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/citadel_effects.cpp
+END
+ai_allymanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_allymanager.cpp
+END
+ai_behavior_functank.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_functank.h
+END
+vehicle_apc.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_apc.h
+END
+info_darknessmode_lightsource.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/info_darknessmode_lightsource.h
+END
+vehicle_cannon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_cannon.cpp
+END
+vehicle_airboat.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_airboat.cpp.bak
+END
+npc_fisherman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_fisherman.cpp
+END
+weapon_smg1.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_smg1.cpp.bak
+END
+npc_apcdriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_apcdriver.cpp
+END
+energy_wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/energy_wave.h
+END
+grenade_energy.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_energy.h
+END
+npc_basescanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_basescanner.cpp
+END
+cbasespriteprojectile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/cbasespriteprojectile.cpp
+END
+npc_vortigaunt_episodic.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_vortigaunt_episodic.h
+END
+npc_bullseye.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_bullseye.h
+END
+ar2_explosion.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ar2_explosion.h
+END
+npc_assassin.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_assassin.h
+END
+weapon_citizenpackage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_citizenpackage.cpp
+END
+grenade_pathfollower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_pathfollower.cpp
+END
+cbasehelicopter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/cbasehelicopter.cpp
+END
+weapon_physcannon.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_physcannon.h
+END
+weapon_shotgun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_shotgun.cpp
+END
+npc_alyx_episodic.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_alyx_episodic.h
+END
+hl_playermove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl_playermove.cpp
+END
+grenade_satchel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_satchel.cpp
+END
+grenade_ar2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/grenade_ar2.cpp
+END
+grenade_tripmine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_tripmine.cpp
+END
+npc_houndeye.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/125/SourceCode/source/src/game/server/hl2/npc_houndeye.cpp
+END
+extinguisherjet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/extinguisherjet.cpp
+END
+item_antidote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_antidote.cpp
+END
+npc_antlionguard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/npc_antlionguard.cpp
+END
+grenade_homer.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_homer.cpp.bak
+END
+weapon_citizenpackage.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_citizenpackage.h
+END
+weapon_rpg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_rpg.cpp
+END
+weapon_alyxgun.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_alyxgun.h
+END
+npc_combine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_combine.cpp
+END
+npc_strider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_strider.cpp
+END
+weapon_crowbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_crowbar.h
+END
+npc_turret_ceiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_turret_ceiling.cpp
+END
+npc_BaseZombie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_BaseZombie.cpp
+END
+weapon_smg2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_smg2.cpp
+END
+weapon_irifle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_irifle.cpp
+END
+ai_behavior_operator.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_operator.h
+END
+npc_scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_scanner.h
+END
+npc_rebelzombie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/npc_rebelzombie.cpp
+END
+hl2_ai_network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_ai_network.cpp
+END
+grenade_spit.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/126/SourceCode/source/src/game/server/hl2/grenade_spit.h
+END
+npc_citizen17.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_citizen17.cpp
+END
+script_intro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/script_intro.cpp
+END
+ai_interactions.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_interactions.h
+END
+ai_behavior_operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_operator.cpp
+END
+npc_assassin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_assassin.cpp
+END
+ar2_explosion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ar2_explosion.cpp
+END
+npc_bullseye.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_bullseye.cpp
+END
+item_security.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_security.cpp
+END
+look_door.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/look_door.cpp
+END
+npc_alyx_episodic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_alyx_episodic.cpp
+END
+weapon_ar3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/server/hl2/weapon_ar3.cpp
+END
+grenade_homer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_homer.cpp
+END
+npc_playercompanion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_playercompanion.cpp
+END
+env_speaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/env_speaker.cpp
+END
+npc_rollermine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_rollermine.cpp
+END
+npc_strider.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_strider.cpp.bak
+END
+npc_stalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_stalker.h
+END
+weapon_crossbow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_crossbow.cpp
+END
+npc_BaseZombie.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_BaseZombie.cpp.bak
+END
+grenade_ar2.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_ar2.h
+END
+weapon_cguard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_cguard.cpp
+END
+npc_combinedropship.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_combinedropship.cpp.bak
+END
+proto_sniper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/proto_sniper.cpp
+END
+npc_turret.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_turret.cpp
+END
+extinguisherjet.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/extinguisherjet.h
+END
+npc_turret_floor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_turret_floor.cpp
+END
+weapon_bugbait.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_bugbait.cpp
+END
+item_battery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_battery.cpp
+END
+item_itemcrate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_itemcrate.cpp
+END
+npc_manhack.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_manhack.cpp.bak
+END
+hl2_player.h.bak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_player.h.bak
+END
+npc_monk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_monk.cpp
+END
+grenade_brickbat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_brickbat.cpp
+END
+weapon_rpg.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_rpg.h
+END
+npc_barnacle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_barnacle.cpp
+END
+env_speaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/env_speaker.h
+END
+hl2_client.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_client.cpp.bak
+END
+weapon_flaregun.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_flaregun.h
+END
+npc_alyx.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_alyx.h
+END
+ai_goal_police.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_goal_police.cpp
+END
+hl2_eventlog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_eventlog.cpp
+END
+item_healthkit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_healthkit.cpp
+END
+hl2_gamestats.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_gamestats.h
+END
+grenade_bugbait.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_bugbait.cpp
+END
+grenade_spit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/127/SourceCode/source/src/game/server/hl2/grenade_spit.cpp
+END
+npc_combines.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_combines.h
+END
+prop_combine_ball.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/prop_combine_ball.cpp
+END
+npc_hydra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_hydra.cpp
+END
+func_tank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/func_tank.cpp
+END
+item_longjump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_longjump.cpp
+END
+npc_crow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_crow.cpp
+END
+hl2_playerlocaldata.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_playerlocaldata.h
+END
+te_gaussexplosion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/te_gaussexplosion.cpp
+END
+grenade_satchel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_satchel.h
+END
+npc_blob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/127/SourceCode/source/src/game/server/hl2/npc_blob.cpp
+END
+vehicle_jeep.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_jeep.cpp.bak
+END
+point_apc_controller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/point_apc_controller.cpp
+END
+npc_houndeye.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_houndeye.h
+END
+weapon_medkit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_medkit.cpp
+END
+ai_spotlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_spotlight.h
+END
+func_bulletshield.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/func_bulletshield.h
+END
+monster_dummy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/monster_dummy.cpp
+END
+grenade_ar2.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_ar2.cpp.bak
+END
+grenade_bugbait.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_bugbait.h
+END
+npc_turret_ground.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_turret_ground.h
+END
+grenade_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_frag.h
+END
+weapon_slam.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_slam.h
+END
+grenade_energy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/121/SourceCode/source/src/game/server/hl2/grenade_energy.cpp
+END
+npc_crow.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_crow.h
+END
+weapon_tripwire.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_tripwire.h
+END
+hl2_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/hl2_client.cpp
+END
+prop_thumper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/prop_thumper.cpp
+END
+npc_BaseZombie.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_BaseZombie.h
+END
+vehicle_crane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_crane.cpp
+END
+rotorwash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/rotorwash.cpp
+END
+grenade_molotov.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_molotov.h
+END
+grenade_beam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_beam.cpp
+END
+weapon_brickbat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_brickbat.cpp
+END
+func_bulletshield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/func_bulletshield.cpp
+END
+func_recharge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/func_recharge.cpp
+END
+weapon_rpg.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_rpg.cpp.bak
+END
+grenade_spit.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_spit.cpp.bak
+END
+hl2_player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/hl2_player.cpp
+END
+ai_behavior_actbusy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_actbusy.cpp
+END
+basehlcombatweapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/basehlcombatweapon.h
+END
+npc_turret_ground.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_turret_ground.cpp
+END
+npc_eli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_eli.cpp
+END
+weapon_flaregun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_flaregun.cpp
+END
+npc_attackchopper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/npc_attackchopper.cpp
+END
+env_headcrabcanister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/env_headcrabcanister.cpp
+END
+weapon_annabelle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_annabelle.cpp
+END
+hl2_triggers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_triggers.cpp
+END
+vehicle_apc.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_apc.cpp.bak
+END
+weapon_brickbat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_brickbat.h
+END
+npc_zombine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_zombine.cpp
+END
+npc_cranedriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_cranedriver.cpp
+END
+npc_playercompanion.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_playercompanion.h
+END
+npc_stalker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_stalker.cpp
+END
+ai_behavior_actbusy.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_actbusy.h
+END
+ai_behavior_holster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/ai_behavior_holster.cpp
+END
+weapon_molotov.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_molotov.cpp
+END
+npc_bullsquid.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_bullsquid.h
+END
+npc_dog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_dog.cpp
+END
+weapon_binoculars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_binoculars.cpp
+END
+npc_mossman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_mossman.cpp
+END
+npc_rollermine.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_rollermine.h
+END
+trigger_super_armor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/trigger_super_armor.cpp
+END
+npc_gman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_gman.cpp
+END
+env_alyxemp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/env_alyxemp.cpp
+END
+npc_antliongrub.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_antliongrub.h
+END
+combine_mine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/combine_mine.h
+END
+info_teleporter_countdown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/info_teleporter_countdown.cpp
+END
+weapon_gauss.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_gauss.h
+END
+weapon_stunstick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_stunstick.cpp
+END
+vehicle_prisoner_pod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/vehicle_prisoner_pod.cpp
+END
+grenade_frag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_frag.cpp
+END
+npc_antlion.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_antlion.h
+END
+npc_combinegunship.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_combinegunship.cpp
+END
+item_dynamic_resupply.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/item_dynamic_resupply.h
+END
+weapon_immolator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/weapon_immolator.cpp
+END
+npc_alyx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/npc_alyx.cpp
+END
+assassin_smoke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/assassin_smoke.cpp
+END
+script_intro.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/script_intro.h
+END
+grenade_molotov.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/grenade_molotov.cpp
+END
+npc_headcrab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/server/hl2/npc_headcrab.cpp
+END
+hl2_gamestats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2/hl2_gamestats.cpp
+END

@@ -1,0 +1,114 @@
+//============ Copyright © 2009, Gear Software, All rights reserved. =============
+//
+// Purpose: 
+//
+// $NoKeywords: $
+//================================================================================
+
+#include "BaseVSShader.h"
+
+#include "SDK_screenspaceeffect_vs20.inc"
+#include "sun_shafts_ps30.inc"
+
+BEGIN_VS_SHADER_FLAGS( SUN_SHAFTS, "Help for sunshafts", SHADER_NOT_EDITABLE )
+	BEGIN_SHADER_PARAMS
+		SHADER_PARAM( SUNBUFFER, SHADER_PARAM_TYPE_TEXTURE, "_rt_SunBufferQuarter", "" )
+		SHADER_PARAM( LIGHTVECTOR, SHADER_PARAM_TYPE_VEC2, "[1 1]", "" )
+		SHADER_PARAM( DENSITY, SHADER_PARAM_TYPE_FLOAT, "1.0", "" )
+		SHADER_PARAM( DECAY, SHADER_PARAM_TYPE_FLOAT, "0.99", "" )
+		SHADER_PARAM( WEIGHT, SHADER_PARAM_TYPE_FLOAT, "1.0", "" )
+		SHADER_PARAM( EXPOSURE, SHADER_PARAM_TYPE_FLOAT, "0.15", "" )
+	END_SHADER_PARAMS
+
+	SHADER_INIT
+	{
+		if( params[SUNBUFFER]->IsDefined() )
+		{
+			LoadTexture( SUNBUFFER );
+		}
+		if( !params[LIGHTVECTOR]->IsDefined() )
+		{
+			params[LIGHTVECTOR]->SetVecValue( 1.0f, 1.0f );
+		}
+		if( !params[DENSITY]->IsDefined() )
+		{
+			params[DENSITY]->SetFloatValue( 1.0f );
+		}
+		if( !params[DECAY]->IsDefined() )
+		{
+			params[DECAY]->SetFloatValue( 0.99f );
+		}
+		if( !params[WEIGHT]->IsDefined() )
+		{
+			params[WEIGHT]->SetFloatValue( 1.0f );
+		}
+		if( !params[EXPOSURE]->IsDefined() )
+		{
+			params[EXPOSURE]->SetFloatValue( 0.15f );
+		}
+	}
+	
+	SHADER_FALLBACK
+	{
+		// Requires DX9 + above
+		if ( !g_pHardwareConfig->SupportsShaderModel_3_0() )
+		{
+			Assert( 0 );
+			return "Wireframe";
+		}
+		return 0;
+	}
+
+	SHADER_DRAW
+	{
+		SHADOW_STATE
+		{
+			pShaderShadow->EnableDepthWrites( false );
+
+			pShaderShadow->EnableTexture( SHADER_SAMPLER0, true );
+			int fmt = VERTEX_POSITION;
+			pShaderShadow->VertexShaderVertexFormat( fmt, 1, 0, 0 );
+
+			// Pre-cache shaders
+			DECLARE_STATIC_VERTEX_SHADER( sdk_screenspaceeffect_vs20 );
+			SET_STATIC_VERTEX_SHADER( sdk_screenspaceeffect_vs20 );
+
+			DECLARE_STATIC_PIXEL_SHADER( sun_shafts_ps30 );
+			SET_STATIC_PIXEL_SHADER( sun_shafts_ps30 );
+		}
+
+		DYNAMIC_STATE
+		{
+			BindTexture( SHADER_SAMPLER0, SUNBUFFER, -1 );
+
+			pShaderAPI->SetPixelShaderConstant( 0, params[LIGHTVECTOR]->GetVecValue() );
+
+			float fDensity[4];
+			fDensity[0] = params[DENSITY]->GetFloatValue();
+			fDensity[1] = fDensity[2] = fDensity[3] = fDensity[0];
+			pShaderAPI->SetPixelShaderConstant( 1, fDensity );
+
+			float fDecay[4];
+			fDecay[0] = params[DECAY]->GetFloatValue();
+			fDecay[1] = fDecay[2] = fDecay[3] = fDecay[0];
+			pShaderAPI->SetPixelShaderConstant( 2, fDecay );
+
+			float fWeight[4];
+			fWeight[0] = params[WEIGHT]->GetFloatValue();
+			fWeight[1] = fWeight[2] = fWeight[3] = fWeight[0];
+			pShaderAPI->SetPixelShaderConstant( 3, fWeight );
+
+			float fExposure[4];
+			fExposure[0] = params[EXPOSURE]->GetFloatValue();
+			fExposure[1] = fExposure[2] = fExposure[3] = fExposure[0];
+			pShaderAPI->SetPixelShaderConstant( 4, fExposure );
+
+			DECLARE_DYNAMIC_VERTEX_SHADER( sdk_screenspaceeffect_vs20 );
+			SET_DYNAMIC_VERTEX_SHADER( sdk_screenspaceeffect_vs20 );
+
+			DECLARE_DYNAMIC_PIXEL_SHADER( sun_shafts_ps30 );
+			SET_DYNAMIC_PIXEL_SHADER( sun_shafts_ps30 );
+		}
+		Draw();
+	}
+END_SHADER

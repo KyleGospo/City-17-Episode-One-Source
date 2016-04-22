@@ -1,0 +1,85 @@
+﻿Build started 11/30/2010 4:54:26 PM.
+     1>Project "C:\city17_source\SourceCode\source\src\materialsystem\stdshaders\stdshader_dx9-2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release_dx9\stdshader_dx9-2010.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\common /I..\..\public /I..\..\public\tier0 /I..\..\public\tier1 /Ifxctmp9 /Ivshtmp9 /I..\..\dx9sdk\include /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Include" /I"C:\Program Files (x86)\Microsoft DirectX SDK (November 2008)\Include" /Zi /nologo /W4 /WX- /Ox /Ob2 /Oi /Ot /Oy- /GL /D WIN32 /D _WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D STDSHADER_DX9_DLL_EXPORT /D FAST_MATERIALVAR_ACCESS /D _WINDLL /D _MBCS /GF /Gm- /MT /GS- /Gy /arch:SSE /fp:fast /Zc:wchar_t /Zc:forScope /GR /Fo"Release_dx9\\" /Fd"Release_dx9\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt refract_dx9_helper.cpp spritecard.cpp water.cpp
+         refract_dx9_helper.cpp
+         spritecard.cpp
+         water.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release_dx9\game_shader_dx9.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\lib\common /LIBPATH:..\..\lib\public /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (November 2008)\Lib\x86" version.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd /MANIFEST:NO /DEBUG /PDB:"Release_dx9\game_shader_dx9.pdb" /MAP:"Release_dx9\game_shader_dx9.map" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"Release_dx9\game_shader_dx9.lib" /MACHINE:X86 /DLL Release_dx9\aftershock.obj
+         Release_dx9\aftershock_helper.obj
+         Release_dx9\BaseVSShader.obj
+         Release_dx9\Bloom.obj
+         Release_dx9\cable_dx9.obj
+         Release_dx9\chromatic.obj
+         Release_dx9\cloak_blended_pass_helper.obj
+         Release_dx9\cloak_dx9_helper.obj
+         Release_dx9\core_dx9.obj
+         Release_dx9\dx8fallbacks.obj
+         Release_dx9\emissive_scroll_blended_pass_helper.obj
+         Release_dx9\eye_refract.obj
+         Release_dx9\eye_refract_helper.obj
+         Release_dx9\eyeball.obj
+         Release_dx9\eyeglint_dx9.obj
+         Release_dx9\eyes.obj
+         Release_dx9\eyes_dx8_dx9_helper.obj
+         Release_dx9\eyes_dx9.obj
+         Release_dx9\flesh_interior_blended_pass_helper.obj
+         Release_dx9\lightmappedadv.obj
+         Release_dx9\lightmappedadv_helper.obj
+         Release_dx9\lightmappedgeneric.obj
+         Release_dx9\lightmappedgeneric_decal.obj
+         Release_dx9\lightmappedgeneric_dx9_helper.obj
+         Release_dx9\lightmappedreflective.obj
+         Release_dx9\lightmappedtwotexture.obj
+         Release_dx9\nudels_blurframe.obj
+         Release_dx9\refract.obj
+         Release_dx9\refract_dx9_helper.obj
+         Release_dx9\screenspace_general.obj
+         Release_dx9\skin_dx9_helper.obj
+         Release_dx9\spritecard.obj
+         Release_dx9\sun_shafts.obj
+         Release_dx9\teeth.obj
+         Release_dx9\unlitgeneric_dx9.obj
+         Release_dx9\unlittwotexture_dx9.obj
+         Release_dx9\vertexlitgeneric_dx9.obj
+         Release_dx9\vertexlitgeneric_dx9_helper.obj
+         Release_dx9\vignetting.obj
+         Release_dx9\vortwarp_dx9.obj
+         Release_dx9\water.obj
+         Release_dx9\worldtwotextureblend.obj
+         Release_dx9\worldvertexalpha.obj
+         Release_dx9\worldvertextransition.obj
+         Release_dx9\worldvertextransition_dx8_helper.obj
+         Release_dx9\checksum_crc.obj
+         Release_dx9\checksum_md5.obj
+         Release_dx9\shader_dll_verify.obj
+         ..\..\dx9sdk\lib\d3dx9.lib
+         ..\..\lib\public\mathlib.lib
+         ..\..\lib\public\shaderlib.lib
+         ..\..\lib\public\tier0.lib
+         ..\..\lib\public\tier1.lib
+         ..\..\lib\public\vstdlib.lib /LTCG 
+            Creating library Release_dx9\game_shader_dx9.lib and object Release_dx9\game_shader_dx9.exp
+         Generating code
+         Finished generating code
+         stdshader_dx9-2010.vcxproj -> C:\city17_source\SourceCode\source\src\materialsystem\stdshaders\Release_dx9\game_shader_dx9.dll
+       CustomBuildStep:
+         Description: Publishing to target directory (c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\)...
+         if exist "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll" attrib -r "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll"
+         copy "C:\city17_source\SourceCode\source\src\materialsystem\stdshaders\Release_dx9\game_shader_dx9.dll" "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.dll"
+         if exist "C:\city17_source\SourceCode\source\src\materialsystem\stdshaders\Release_dx9\"game_shader_dx9.map copy "C:\city17_source\SourceCode\source\src\materialsystem\stdshaders\Release_dx9\"game_shader_dx9.map "c:\program files (x86)\steam\steamapps\SourceMods\city17\bin\game_shader_dx9.map"
+         
+         :VCEnd
+                 1 file(s) copied.
+                 1 file(s) copied.
+       FinalizeBuildStatus:
+         Deleting file "Release_dx9\stdshader_dx9-2010.unsuccessfulbuild".
+         Touching "Release_dx9\stdshader_dx9-2010.lastbuildstate".
+     1>Done Building Project "C:\city17_source\SourceCode\source\src\materialsystem\stdshaders\stdshader_dx9-2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.03

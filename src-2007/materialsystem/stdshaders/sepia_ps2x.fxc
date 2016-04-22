@@ -1,0 +1,21 @@
+#include "common_ps_fxc.h"
+
+sampler TextureSampler : register( s0 );
+
+struct VS_OUTPUT
+{
+	float4 Position   : POSITION;
+	float2 TexCoord0  : TEXCOORD0;
+};
+
+half4 main(VS_OUTPUT IN) : COLOR
+{
+    float4 color = tex2D(TextureSampler, IN.TexCoord0);
+ 
+    float4 outputColor = color;
+    outputColor.r = (color.r * 0.393) + (color.g * 0.769) + (color.b * 0.189);
+    outputColor.g = (color.r * 0.349) + (color.g * 0.686) + (color.b * 0.168);    
+    outputColor.b = (color.r * 0.272) + (color.g * 0.534) + (color.b * 0.131);
+ 
+    return outputColor;
+}

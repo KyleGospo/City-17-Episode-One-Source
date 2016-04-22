@@ -1,0 +1,6 @@
+..\..\..\..\..\..\PROGRA~2\Steam\steamapps\kyle777777\sourcesdk\bin\orangebox\bin\shadercompile.exe 
+..\..\..\..\..\..\PROGRA~2\Steam\steamapps\kyle777777\sourcesdk\bin\orangebox\bin\shadercompile_dll.dll 
+..\..\..\..\..\..\PROGRA~2\Steam\steamapps\kyle777777\sourcesdk\bin\orangebox\bin\tier0.dll 
+..\..\..\..\..\..\PROGRA~2\Steam\steamapps\kyle777777\sourcesdk\bin\orangebox\bin\vstdlib.dll 
+..\..\devtools\bin\d3dx9_33.dll 
+..\..\dx10sdk\utilities\dx9_30\dx_proxy.dll 

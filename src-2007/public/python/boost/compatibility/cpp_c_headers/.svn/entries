@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://kyle-q6600/svn/city17_source/SourceCode/source/src/public/python/boost/compatibility/cpp_c_headers
+https://kyle-q6600/svn/city17_source
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+788d6a98-827f-9b4f-afa2-376c1abb2583
+
+csignal
+file
+
+
+
+add
+
+cstdlib
+file
+
+
+
+add
+
+cstdio
+file
+
+
+
+add
+
+cstdarg
+file
+
+
+
+add
+
+cctype
+file
+
+
+
+add
+
+cerrno
+file
+
+
+
+add
+
+cmath
+file
+
+
+
+add
+
+ctime
+file
+
+
+
+add
+
+clocale
+file
+
+
+
+add
+
+climits
+file
+
+
+
+add
+
+cassert
+file
+
+
+
+add
+
+csetjmp
+file
+
+
+
+add
+
+cwchar
+file
+
+
+
+add
+
+cfloat
+file
+
+
+
+add
+
+cstring
+file
+
+
+
+add
+
+cstddef
+file
+
+
+
+add
+
+cwctype
+file
+
+
+
+add
+

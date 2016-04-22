@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/fmod
+END
+fmod_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/fmod/fmod_manager.cpp
+END
+ambient_generic_fmod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/fmod/ambient_generic_fmod.cpp
+END
+fmod_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/fmod/fmod_manager.h
+END

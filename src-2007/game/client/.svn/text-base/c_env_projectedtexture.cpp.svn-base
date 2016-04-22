@@ -1,0 +1,348 @@
+//====== Copyright © 1996-2003, Valve Corporation, All rights reserved. =======
+//
+// Purpose: 
+//
+//=============================================================================
+
+#include "cbase.h"
+#include "shareddefs.h"
+#include "materialsystem/imesh.h"
+#include "materialsystem/imaterial.h"
+#include "view.h"
+#include "iviewrender.h"
+#include "view_shared.h"
+#include "texture_group_names.h"
+#include "c_baseentity.h"
+#include "tier0/vprof.h"
+#include "tier0/icommandline.h"
+
+// memdbgon must be the last include file in a .cpp file!!!
+#include "tier0/memdbgon.h"
+
+extern ConVar r_flashlightdepthtexture;
+extern ConVar r_dynamic_shadow_mode;
+extern ConVar r_dynamicshadows_use_c17_improvements;
+
+static ConVar mat_slopescaledepthbias_shadowmap( "mat_slopescaledepthbias_shadowmap", "3.0", FCVAR_CHEAT );
+static ConVar mat_depthbias_shadowmap(	"mat_depthbias_shadowmap", "0.00001", FCVAR_CHEAT  );
+
+//-----------------------------------------------------------------------------
+// Purpose: 
+//-----------------------------------------------------------------------------
+class C_EnvProjectedTexture : public C_BaseEntity
+{
+	DECLARE_CLASS( C_EnvProjectedTexture, C_BaseEntity );
+public:
+	DECLARE_CLIENTCLASS();
+
+	bool	ShouldDraw( void );
+
+	virtual void OnDataChanged( DataUpdateType_t updateType );
+	void	ShutDownLightHandle( void );
+
+	virtual void Simulate();
+
+	void	UpdateLight( /*bool bForceUpdate*/ void );
+
+	C_EnvProjectedTexture();
+	~C_EnvProjectedTexture();
+
+private:
+
+	ClientShadowHandle_t m_LightHandle;
+
+	EHANDLE	m_hTargetEntity;
+
+	bool	m_bState;
+	float	m_flLightFOV;
+	float	m_flLightHorFOV;
+	bool	m_bEnableShadows;
+	bool	m_bLightOnlyTarget;
+	bool	m_bLightWorld;
+	bool	m_bCameraSpace;
+	bool	m_bAtten;
+	bool	m_bClientWantsShadows;
+	Vector	m_LinearFloatLightColor;
+	float	m_flAmbient;
+	float	m_flNearZ;
+	float	m_flFarZ;
+	float	m_flBlur;
+	float	m_flAtten;
+	char	m_SpotlightTextureName[ MAX_PATH ];
+	char	m_SpotlightDX8TextureName[ MAX_PATH ];
+	int		m_nSpotlightTextureFrame;
+	int		m_nShadowQuality;
+	float	m_flQuadratic;
+};
+
+IMPLEMENT_CLIENTCLASS_DT( C_EnvProjectedTexture, DT_EnvProjectedTexture, CEnvProjectedTexture )
+	RecvPropEHandle( RECVINFO( m_hTargetEntity )	),
+	RecvPropBool(	 RECVINFO( m_bState )			),
+	RecvPropFloat(	 RECVINFO( m_flLightFOV )		),
+	RecvPropFloat(	 RECVINFO( m_flLightHorFOV )	),
+	RecvPropBool(	 RECVINFO( m_bEnableShadows )	),
+	RecvPropBool(	 RECVINFO( m_bLightOnlyTarget ) ),
+	RecvPropBool(	 RECVINFO( m_bLightWorld )		),
+	RecvPropBool(	 RECVINFO( m_bCameraSpace )		),
+	RecvPropBool(	 RECVINFO( m_bAtten )			),
+	RecvPropVector(	 RECVINFO( m_LinearFloatLightColor )		),
+	RecvPropFloat(	 RECVINFO( m_flAmbient )		),
+	RecvPropString(  RECVINFO( m_SpotlightTextureName ) ),
+	RecvPropString(  RECVINFO( m_SpotlightDX8TextureName ) ),
+	RecvPropInt(	 RECVINFO( m_nSpotlightTextureFrame ) ),
+	RecvPropFloat(	 RECVINFO( m_flNearZ )	),
+	RecvPropFloat(	 RECVINFO( m_flFarZ )	),
+	RecvPropFloat(	 RECVINFO( m_flBlur )	),
+	RecvPropFloat(	 RECVINFO( m_flAtten )	),
+	RecvPropInt(	 RECVINFO( m_nShadowQuality )	),
+	RecvPropFloat(	 RECVINFO( m_flQuadratic )	),
+END_RECV_TABLE()
+
+C_EnvProjectedTexture::C_EnvProjectedTexture( void )
+{
+	m_LightHandle = CLIENTSHADOW_INVALID_HANDLE;
+	
+	if( r_dynamic_shadow_mode.GetInt() == 2 )
+		m_bClientWantsShadows = true;
+	else
+		m_bClientWantsShadows = false;
+}
+
+C_EnvProjectedTexture::~C_EnvProjectedTexture( void )
+{
+	ShutDownLightHandle();
+}
+
+bool C_EnvProjectedTexture::ShouldDraw( void )
+{
+	//No need to check camera space lights for visibility, as they should always be in a visible leaf and close enough to the player.
+	if( m_bCameraSpace )
+		return true;
+
+	//Trace forward to the nearest opaque brush face to get a good leaf test vector.
+	Vector vForward;
+	GetVectors( &vForward, NULL, NULL );
+
+	Vector vTraceStart = GetAbsOrigin();
+	Vector vTraceEnd = GetAbsOrigin() + vForward;
+
+	trace_t tr;
+	CTraceFilterWorldOnly filter;
+
+	UTIL_TraceLine( vTraceStart, vTraceEnd, CONTENTS_SOLID && CONTENTS_OPAQUE, &filter, &tr );
+
+	//Test to see if the player is close enough to the light to actually see the light's projection. This is based entirely on it's FarZ.
+	C_BasePlayer *pPlayer = C_BasePlayer::GetLocalPlayer();
+	if( pPlayer )
+	{
+		Vector vDistance;
+		VectorSubtract( tr.endpos, pPlayer->EyePosition(), vDistance );
+
+		float fDistance = vDistance.LengthSqr();
+		//If distance is greater than the light's FarZ (With some breathing room just incase), cease to render.
+		//FarZ determines how far away a light can be seen by the player, AND how far the light travels from it's source in stock Valve code.
+		if( fDistance > Square(m_flFarZ + 256.0f) )
+			return false;
+	}
+
+	//If we're close enough to a light to see it's projection, check to see if it's end vector is in a visible leaf.
+	int LeafNum = enginetrace->GetLeafContainingPoint( tr.endpos );
+	return render->AreAnyLeavesVisible( &LeafNum,1 );
+}
+
+void C_EnvProjectedTexture::ShutDownLightHandle( void )
+{
+	// Clear out the light
+	if( m_LightHandle != CLIENTSHADOW_INVALID_HANDLE )
+	{
+		g_pClientShadowMgr->DestroyFlashlight( m_LightHandle );
+		m_LightHandle = CLIENTSHADOW_INVALID_HANDLE;
+	}
+}
+
+//-----------------------------------------------------------------------------
+// Purpose: 
+// Input  : updateType - 
+//-----------------------------------------------------------------------------
+void C_EnvProjectedTexture::OnDataChanged( DataUpdateType_t updateType )
+{
+	UpdateLight( /*true*/ );
+	BaseClass::OnDataChanged( updateType );
+}
+
+void C_EnvProjectedTexture::UpdateLight( /*bool bForceUpdate*/ void )
+{
+	//If we're not on, our projection can't be seen, or we don't support DX7 or higher, shut down.
+	if ( m_bState == false || !ShouldDraw() || engine->GetDXSupportLevel() < 70 )
+	{
+		if ( m_LightHandle != CLIENTSHADOW_INVALID_HANDLE )
+		{
+			ShutDownLightHandle();
+		}
+
+		/*C_BasePlayer *pPlayer = C_BasePlayer::GetLocalPlayer();
+		if( pPlayer )
+		{
+			pPlayer->RefreshFlashlight();
+		}*/
+
+		return;
+	}
+
+	VPROF_BUDGET( "C_EnvProjectedTexture::UpdateLight", "Projected Textures" );
+
+	Vector vForward, vRight, vUp, vPos = GetAbsOrigin();
+	FlashlightState_t state;
+
+	if ( m_hTargetEntity != NULL )
+	{
+		if ( m_bCameraSpace )
+		{
+			const QAngle &angles = GetLocalAngles();
+
+			C_BasePlayer *pPlayer = C_BasePlayer::GetLocalPlayer();
+			if( pPlayer )
+			{
+				const QAngle playerAngles = pPlayer->GetAbsAngles();
+				
+				Vector vPlayerForward, vPlayerRight, vPlayerUp;
+				AngleVectors( playerAngles, &vPlayerForward, &vPlayerRight, &vPlayerUp );
+
+            	matrix3x4_t	mRotMatrix;
+				AngleMatrix( angles, mRotMatrix );
+
+				VectorITransform( vPlayerForward, mRotMatrix, vForward );
+				VectorITransform( vPlayerRight, mRotMatrix, vRight );
+				VectorITransform( vPlayerUp, mRotMatrix, vUp );
+
+				float dist = (m_hTargetEntity->GetAbsOrigin() - GetAbsOrigin()).Length();
+				vPos = m_hTargetEntity->GetAbsOrigin() - vForward*dist;
+
+				VectorNormalize( vForward );
+				VectorNormalize( vRight );
+				VectorNormalize( vUp );
+			}
+		}
+		/*else
+		{
+			vForward = m_hTargetEntity->GetAbsOrigin() - GetAbsOrigin();
+			VectorNormalize( vForward );
+
+			// JasonM - unimplemented
+			Assert (0);
+
+			//Quaternion q = DirectionToOrientation( dir );
+
+
+			//
+			// JasonM - set up vRight, vUp
+			//
+
+//			VectorNormalize( vRight );
+//			VectorNormalize( vUp );
+		}*/
+		else
+		{
+			Vector vecToTarget = m_hTargetEntity->GetAbsOrigin() - GetAbsOrigin();
+			QAngle vecAngles;
+			VectorAngles( vecToTarget, vecAngles );
+			AngleVectors( vecAngles, &vForward, &vRight, &vUp );
+		}
+	}
+	else
+	{
+		AngleVectors( GetAbsAngles(), &vForward, &vRight, &vUp );
+	}
+
+	state.m_fHorizontalFOVDegrees = abs( m_flLightHorFOV );
+	state.m_fVerticalFOVDegrees = abs( m_flLightFOV );
+
+	state.m_vecLightOrigin = vPos;
+	BasisToQuaternion( vForward, vRight, vUp, state.m_quatOrientation );
+
+	state.m_fQuadraticAtten = m_flQuadratic;
+	state.m_fLinearAtten = 100;
+	//state.m_fConstantAtten = 0.0f;
+
+	if( m_bAtten )
+	{
+		state.m_fConstantAtten = 0.0f;
+	}
+	else
+	{
+		state.m_fConstantAtten = 1.0f;
+	}
+
+	state.m_Color[0] = m_LinearFloatLightColor.x;
+	state.m_Color[1] = m_LinearFloatLightColor.y;
+	state.m_Color[2] = m_LinearFloatLightColor.z;
+	//state.m_Color[3] = 0.0f; // fixme: need to make ambient work m_flAmbient;
+	state.m_Color[3] = m_flAmbient;
+	state.m_NearZ = m_flNearZ;
+	state.m_FarZ = m_flFarZ;
+	state.m_flShadowSlopeScaleDepthBias = mat_slopescaledepthbias_shadowmap.GetFloat();
+	state.m_flShadowDepthBias = mat_depthbias_shadowmap.GetFloat();
+	//state.m_bEnableShadows = m_bEnableShadows;
+	if( m_bEnableShadows && r_flashlightdepthtexture.GetBool() && m_bClientWantsShadows )
+	{
+		state.m_bEnableShadows = true;
+		state.m_pSpotlightTexture = materials->FindTexture( m_SpotlightTextureName, TEXTURE_GROUP_OTHER, false );
+	}
+	else
+	{
+		state.m_bEnableShadows = false;
+		state.m_pSpotlightTexture = materials->FindTexture( m_SpotlightDX8TextureName, TEXTURE_GROUP_OTHER, false );
+	}
+	state.m_nSpotlightTextureFrame = m_nSpotlightTextureFrame;
+	if( r_dynamicshadows_use_c17_improvements.GetBool() )
+	{
+		state.m_flShadowFilterSize = m_flBlur;
+		state.m_flShadowAtten = m_flAtten;
+	}
+	else
+	{
+		state.m_flShadowFilterSize = 3.0f;
+		state.m_flShadowAtten = 0.35f;
+	}
+
+	state.m_nShadowQuality = m_nShadowQuality; // Allow entity to affect shadow quality
+
+	if( m_LightHandle == CLIENTSHADOW_INVALID_HANDLE )
+	{
+		m_LightHandle = g_pClientShadowMgr->CreateFlashlight( state );
+	}
+	else
+	{
+		//if ( m_hTargetEntity != NULL || bForceUpdate == true )
+		//{
+		if( m_hTargetEntity != NULL || GetRootMoveParent() != NULL )
+		{
+			g_pClientShadowMgr->UpdateFlashlightState( m_LightHandle, state );
+		}
+		//}
+	}
+
+	if( m_bLightOnlyTarget )
+	{
+		g_pClientShadowMgr->SetFlashlightTarget( m_LightHandle, m_hTargetEntity );
+	}
+	else
+	{
+		g_pClientShadowMgr->SetFlashlightTarget( m_LightHandle, NULL );
+	}
+
+	g_pClientShadowMgr->SetFlashlightLightWorld( m_LightHandle, m_bLightWorld );
+
+	//if ( bForceUpdate == false )
+	//{
+		g_pClientShadowMgr->UpdateProjectedTexture( m_LightHandle, true );
+	//}
+}
+
+void C_EnvProjectedTexture::Simulate( void )
+{
+	UpdateLight( /*false*/ );
+
+	BaseClass::Simulate();
+}
+

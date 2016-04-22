@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/HDAL/include/hdl
+END
+hdlExports.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/HDAL/include/hdl/hdlExports.h
+END
+hdlConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/HDAL/include/hdl/hdlConstants.h
+END
+hdlErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/HDAL/include/hdl/hdlErrors.h
+END
+hdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/HDAL/include/hdl/hdl.h
+END

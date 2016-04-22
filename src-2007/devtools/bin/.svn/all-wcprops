@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin
+END
+fxc_prep.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/fxc_prep.pl
+END
+splitdiff3.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/splitdiff3.pl
+END
+fix_particle_operator_names.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/fix_particle_operator_names.pl
+END
+d3dx10_33.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/d3dx10_33.dll
+END
+checkshaderchecksums.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/checkshaderchecksums.pl
+END
+copyshaderincfiles.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/copyshaderincfiles.pl
+END
+uniqifylist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/uniqifylist.pl
+END
+psh_prep.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/psh_prep.pl
+END
+valve_perl_helpers.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/valve_perl_helpers.pl
+END
+shaderinfo.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/shaderinfo.pl
+END
+buildshaderlist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/buildshaderlist.pl
+END
+copyshaders.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/copyshaders.pl
+END
+vsh_prep.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/vsh_prep.pl
+END
+updateshaders.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/updateshaders.pl
+END
+d3dx9_33.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/devtools/bin/d3dx9_33.dll
+END

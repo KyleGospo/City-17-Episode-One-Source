@@ -1,0 +1,39 @@
+#include "common_ps_fxc.h"
+
+uniform sampler2D sceneSampler	: register( s0 );
+uniform	sampler2D vignetSampler : register( s1 );
+
+const float	VignetPower	: register(c0);
+const float	VignetRadius	: register(c1);
+const float	VignetStrength	: register(c2);
+
+struct VS_OUTPUT
+{
+   	float4 Position   : POSITION;
+    float2 TexCoord0  : TEXCOORD0;
+    float2 TexCoord1  : TEXCOORD1;
+};
+
+half4 vignet(VS_OUTPUT IN) : COLOR
+{
+	half4 result = (1,1,1,0);
+	float ycoord = IN.TexCoord1.y-0.5;
+	float xcoord = IN.TexCoord1.x-0.5;
+	float radius = sqrt(pow(ycoord,2)+pow(xcoord,2));
+	radius = saturate(pow(radius,VignetPower));
+	result.rgb = 1-(radius-VignetRadius);
+	result.a = 1.0;
+	return result;
+}
+
+half4 main(VS_OUTPUT IN,
+			  uniform sampler2D sceneSampler,
+			  uniform sampler2D vignetSampler) : COLOR
+{   
+
+	half4 base = tex2D(sceneSampler, IN.TexCoord1);
+	half4 result = base;
+	half4 vignet = tex2D(vignetSampler, IN.TexCoord1);
+	result.rgb*=lerp(vignet.rgb,(1,1,1),1-VignetStrength);
+	return result;
+}

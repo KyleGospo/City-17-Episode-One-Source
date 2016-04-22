@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common
+END
+MySqlDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/MySqlDatabase.h
+END
+cmdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/cmdlib.h
+END
+wadlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/wadlib.c
+END
+scratchpad_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/scratchpad_helpers.h
+END
+map_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/map_shared.cpp
+END
+scriplib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/scriplib.cpp
+END
+tools_minidump.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/tools_minidump.h
+END
+wadlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/wadlib.h
+END
+mpi_stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/mpi_stats.h
+END
+filesystem_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/filesystem_tools.h
+END
+polylib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/polylib.cpp
+END
+bsplib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/bsplib.cpp
+END
+consolewnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/consolewnd.cpp
+END
+utilmatlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/utilmatlib.h
+END
+physdll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/physdll.cpp
+END
+mstristrip.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/mstristrip.h
+END
+vmpi_tools_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/vmpi_tools_shared.h
+END
+pacifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/pacifier.h
+END
+MySqlDatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/MySqlDatabase.cpp
+END
+cmdlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/cmdlib.cpp
+END
+scratchpad_helpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/scratchpad_helpers.cpp
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/threads.h
+END
+tools_minidump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/tools_minidump.cpp
+END
+mpi_stats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/mpi_stats.cpp
+END
+filesystem_tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/filesystem_tools.cpp
+END
+ISQLDBReplyTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/ISQLDBReplyTarget.h
+END
+utilmatlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/utilmatlib.cpp
+END
+map_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/map_shared.h
+END
+scriplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/scriplib.h
+END
+polylib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/polylib.h
+END
+mstristrip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/mstristrip.cpp
+END
+bsplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/bsplib.h
+END
+consolewnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/41/SourceCode/source/src/utils/common/consolewnd.h
+END
+vmpi_tools_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/vmpi_tools_shared.cpp
+END
+pacifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/pacifier.cpp
+END
+physdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/physdll.h
+END
+movie.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/movie.h
+END
+qfiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/qfiles.h
+END
+threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/42/SourceCode/source/src/utils/common/threads.cpp
+END

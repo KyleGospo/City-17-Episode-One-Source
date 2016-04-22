@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk
+END
+weapon_shotgun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_shotgun.cpp
+END
+sdk_weapon_melee.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_weapon_melee.cpp
+END
+sdk_playeranimstate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_playeranimstate.cpp
+END
+sdk_fx_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_fx_shared.cpp
+END
+sdk_weapon_melee.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_weapon_melee.h
+END
+sdk_usermessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_usermessages.cpp
+END
+sdk_playeranimstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_playeranimstate.h
+END
+weapon_crowbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_crowbar.cpp
+END
+sdk_shareddefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_shareddefs.cpp
+END
+sdk_fx_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_fx_shared.h
+END
+weapon_mp5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_mp5.cpp
+END
+weapon_basesdkgrenade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_basesdkgrenade.cpp
+END
+sdk_shareddefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_shareddefs.h
+END
+weapon_grenade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_grenade.cpp
+END
+weapon_basesdkgrenade.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_basesdkgrenade.h
+END
+sdk_basegrenade_projectile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_basegrenade_projectile.cpp
+END
+sdk_player_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_player_shared.cpp
+END
+weapon_grenade.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_grenade.h
+END
+weapon_pistol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_pistol.cpp
+END
+sdk_weapon_parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_weapon_parse.cpp
+END
+sdk_gamerules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_gamerules.cpp
+END
+sdk_gamemovement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_gamemovement.cpp
+END
+weapon_sdkbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_sdkbase.cpp
+END
+sdk_basegrenade_projectile.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_basegrenade_projectile.h
+END
+sdk_playerclass_info_parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_playerclass_info_parse.cpp
+END
+sdk_player_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_player_shared.h
+END
+sdk_weapon_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_weapon_parse.h
+END
+sdk_gamerules.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_gamerules.h
+END
+weapon_sdkbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/weapon_sdkbase.h
+END
+sdk_playerclass_info_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/sdk/sdk_playerclass_info_parse.h
+END

@@ -1,0 +1,62 @@
+//========= Copyright © 2009, Gear Software & Nvidia GPU Gems 3, All rights reserved. ============//
+
+#define NUM_SAMPLES 64
+
+// Includes
+#include "common_ps_fxc.h"
+
+// Texture Samplers ===============================================================================
+sampler2D TextureMask		: register( s0 );
+
+// Shaders Constants and Globals ==================================================================
+float2		gScreenLightPos	: register( c0 );
+float		gDensity		: register( c1 );
+float		gDecay			: register( c2 );
+float		gWeight			: register( c3 );
+float		gExposure		: register( c4 );
+
+// Structs ========================================================================================
+struct PS_INPUT
+{
+	float2 texCoord				: TEXCOORD0;
+};
+
+// Main ===========================================================================================
+float4 main( PS_INPUT IN, 
+       uniform sampler2D TextureMask,
+       uniform float2 ScreenLightPos,
+       uniform float Density,
+       uniform float Decay,
+       uniform float Weight,
+       uniform float Exposure ) : COLOR0
+{
+       float2 TexCoord = IN.texCoord;
+       float2 DeltaTexCoord = ( TexCoord.xy - ScreenLightPos.xy );
+       float Len = length( DeltaTexCoord );
+       DeltaTexCoord *= 1.0 / NUM_SAMPLES * Density;
+       float3 Color = tex2D( TextureMask, TexCoord );
+       float IlluminationDecay = 1.0;
+       for( int i = 0; i < NUM_SAMPLES; ++i )
+       {
+             TexCoord -= DeltaTexCoord;
+             float3 Sample = tex2D( TextureMask, TexCoord );
+             Sample *= IlluminationDecay * Weight;
+             Color += Sample;
+             IlluminationDecay *= Decay;      
+       }
+       return float4( Color * Exposure, 1.0 );
+}
+
+technique Technique1
+{
+    pass p0
+    {
+       PixelShader = compile ps_3_0 PixelShaderFunction(
+                    gTextureMask,
+                    gScreenLightPos,
+                    gDensity,
+                    gDecay,
+                    gWeight,
+                    gExposure );
+    }
+}

@@ -1,0 +1,1 @@
+..\..\..\game\hl2\shaders\fxc\model_skin_ps30.vcs

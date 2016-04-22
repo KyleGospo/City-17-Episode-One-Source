@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://kyle-q6600/svn/city17_source/SourceCode/source/src/public/python/boost/interprocess
+https://kyle-q6600/svn/city17_source
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+788d6a98-827f-9b4f-afa2-376c1abb2583
+
+indexes
+dir
+
+
+
+add
+
+mem_algo
+dir
+
+
+
+add
+
+detail
+dir
+
+
+
+add
+
+allocators
+dir
+
+
+
+add
+
+containers
+dir
+
+
+
+add
+
+ipc
+dir
+
+
+
+add
+
+smart_ptr
+dir
+
+
+
+add
+
+sync
+dir
+
+
+
+add
+
+streams
+dir
+
+
+
+add
+

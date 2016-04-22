@@ -1,0 +1,15 @@
+default:  fxctmp9_tmp\model_skin_ps30.inc shaders\fxc\model_skin_ps30.vcs
+
+fxctmp9_tmp\model_skin_ps30.inc shaders\fxc\model_skin_ps30.vcs: model_skin_ps30.fxc common_fxc.h common_lightmappedgeneric_fxc_bio.h common_ps_fxc.h common_vertexlitgeneric_dx9_bio.h common_parallax.h common_pragmas.h common_hlsl_cpp_consts.h common_flashlight_fxc_bio.h common_ps_fxc_bio.h
+	perl ..\..\devtools\bin\fxc_prep.pl   -source "..\.." model_skin_ps30.fxc-----model_skin_ps30
+	echo model_skin_ps30.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_lightmappedgeneric_fxc_bio.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9_bio.h>> filestocopy.txt
+	echo common_parallax.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_flashlight_fxc_bio.h>> filestocopy.txt
+	echo common_ps_fxc_bio.h>> filestocopy.txt
+

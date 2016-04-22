@@ -1,0 +1,37 @@
+//
+// Standard shaders collection
+//
+//  These shaders are compiled as the following shader models:
+//	    _ps20.vcs
+//	    _ps20b.vcs
+//	    _vs20.vcs
+//
+
+//vignetting_ps2x.fxc
+//chromatic_ps2x.fxc
+//unsharp_ps2x.fxc
+//unsharp_vs20.fxc
+//unsharp_blur_ps2x.fxc
+//unsharp_blur_vs20.fxc
+//sepia_ps2x.fxc
+//noise_ps2x.fxc
+//screenwater_ps2x.fxc
+//screenwater_vs20.fxc
+//gaussianx_ps2x.fxc
+//gaussiany_ps2x.fxc
+//radialgaussianx_ps2x.fxc
+//radialgaussiany_ps2x.fxc
+//lightmappedadv_flashlight_ps2x.fxc
+//lightmappedadv_flashlight_vs20.fxc
+//screenspace_simple_vs20.fxc
+//c17_showz_ps2x.fxc
+//color_clipping_ps2x.fxc
+//complements_ps20b.fxc
+//desaturate_ps2x.fxc
+//bleach_bypass_ps2x.fxc
+//cubic_distortion_ps2x.fxc
+//negative_ps2x.fxc
+//nightvision_ps2x.fxc
+
+SDK_Water_ps2x.fxc
+SDK_Water_vs20.fxc

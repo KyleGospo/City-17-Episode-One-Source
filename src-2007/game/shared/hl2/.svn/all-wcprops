@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/122/SourceCode/source/src/game/shared/hl2
+END
+hl2_gamerules.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl2_gamerules.h
+END
+citadel_effects_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/citadel_effects_shared.h
+END
+hl2_vehicle_radar.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl2_vehicle_radar.h
+END
+hl_gamemovement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl_gamemovement.cpp
+END
+hl2_usermessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl2_usermessages.cpp
+END
+hl_gamemovement.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl_gamemovement.h
+END
+survival_gamerules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/survival_gamerules.cpp
+END
+env_headcrabcanister_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/env_headcrabcanister_shared.cpp
+END
+achievements_hl2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/achievements_hl2.cpp
+END
+hl2_shareddefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl2_shareddefs.h
+END
+env_alyxemp_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/env_alyxemp_shared.h
+END
+basehlcombatweapon_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/shared/hl2/basehlcombatweapon_shared.cpp
+END
+hl2_gamerules.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl2_gamerules.cpp.bak
+END
+env_headcrabcanister_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/env_headcrabcanister_shared.h
+END
+hl_movedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl_movedata.h
+END
+hl2_gamerules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/122/SourceCode/source/src/game/shared/hl2/hl2_gamerules.cpp
+END
+basehlcombatweapon_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/shared/hl2/basehlcombatweapon_shared.h
+END
+hl2_player_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2/hl2_player_shared.h
+END

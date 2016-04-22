@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic
+END
+c_npc_puppet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/c_npc_puppet.cpp
+END
+episodic_screenspaceeffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/episodic_screenspaceeffects.h
+END
+c_vehicle_jeep_episodic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/c_vehicle_jeep_episodic.cpp
+END
+c_prop_coreball.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/c_prop_coreball.cpp
+END
+c_vort_charge_token.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/c_vort_charge_token.cpp
+END
+c_prop_scalable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/c_prop_scalable.cpp
+END
+c_weapon_hopwire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/c_weapon_hopwire.cpp
+END
+c_npc_advisor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/c_npc_advisor.cpp
+END
+episodic_screenspaceeffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/episodic_screenspaceeffects.cpp
+END
+flesh_internal_material_proxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/episodic/flesh_internal_material_proxy.cpp
+END

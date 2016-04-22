@@ -1,0 +1,6 @@
+default:  fxctmp9_tmp\c17_depth_vs20.inc shaders\fxc\c17_depth_vs20.vcs
+
+fxctmp9_tmp\c17_depth_vs20.inc shaders\fxc\c17_depth_vs20.vcs: c17_depth_vs20.fxc 
+	perl ..\..\devtools\bin\fxc_prep.pl   -source "..\.." c17_depth_vs20.fxc-----c17_depth_vs20
+	echo c17_depth_vs20.fxc>> filestocopy.txt
+

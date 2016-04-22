@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework
+END
+itoolsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework/itoolsystem.h
+END
+ienginetool.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework/ienginetool.h
+END
+itooldictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework/itooldictionary.h
+END
+iclientenginetools.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework/iclientenginetools.h
+END
+itoolentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework/itoolentity.h
+END
+itoolframework.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework/itoolframework.h
+END
+iserverenginetools.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework/iserverenginetools.h
+END
+toolframework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/toolframework/toolframework.cpp
+END

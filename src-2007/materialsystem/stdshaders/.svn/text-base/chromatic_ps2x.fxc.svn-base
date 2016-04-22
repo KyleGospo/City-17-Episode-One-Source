@@ -1,0 +1,16 @@
+#include "common_ps_fxc.h"
+
+sampler fb	: register( s0 ); //frontbuffer
+
+const HALF focusoffset	: register(c0);
+
+float4 main( HALF2 texcoord : TEXCOORD ) : COLOR
+{   
+	float offset = focusoffset/1000;
+	float3 result = tex2D(fb, texcoord).xyz;
+	result.r = tex2D(fb, texcoord+float2(offset,0)).r;
+	result.g = tex2D(fb, texcoord-float2(offset,0)).g;
+	result.b = tex2D(fb, texcoord-float2(offset,0)).b;
+
+	return float4(result,1);
+}

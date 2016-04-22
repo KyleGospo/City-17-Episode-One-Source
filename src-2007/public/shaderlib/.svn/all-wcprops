@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/107/SourceCode/source/src/public/shaderlib
+END
+cshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/107/SourceCode/source/src/public/shaderlib/cshader.h
+END
+BaseShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/107/SourceCode/source/src/public/shaderlib/BaseShader.h
+END
+ShaderDLL.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/107/SourceCode/source/src/public/shaderlib/ShaderDLL.h
+END

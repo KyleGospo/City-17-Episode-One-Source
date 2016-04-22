@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/Point.h
+END
+ISurfaceV30.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/ISurfaceV30.h
+END
+IImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IImage.h
+END
+ISystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/ISystem.h
+END
+IVguiMatInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IVguiMatInfo.h
+END
+ISurface.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/ISurface.h
+END
+IInputInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IInputInternal.h
+END
+Dar.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/Dar.h
+END
+IClientPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IClientPanel.h
+END
+IPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IPanel.h
+END
+IInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IInput.h
+END
+IVguiMatInfoVar.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IVguiMatInfoVar.h
+END
+VGUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/VGUI.h
+END
+ILocalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/ILocalize.h
+END
+IScheme.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IScheme.h
+END
+IHTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IHTML.h
+END
+Cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/Cursor.h
+END
+IVGui.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IVGui.h
+END
+KeyCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/KeyCode.h
+END
+MouseCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/MouseCode.h
+END
+IBorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vgui/IBorder.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp
+END
+clientmode_hl2mpnormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/clientmode_hl2mpnormal.cpp
+END
+c_hl2mp_player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/c_hl2mp_player.cpp
+END
+c_te_hl2mp_shotgun_shot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/c_te_hl2mp_shotgun_shot.cpp
+END
+hl2mp_hud_chat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/hl2mp_hud_chat.cpp
+END
+clientmode_hl2mpnormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/clientmode_hl2mpnormal.h
+END
+hl2mp_hud_target_id.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/hl2mp_hud_target_id.cpp
+END
+c_hl2mp_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/c_hl2mp_player.h
+END
+hl2mp_hud_chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/hl2mp_hud_chat.h
+END
+hud_deathnotice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/hud_deathnotice.cpp
+END
+hl2mp_hud_team.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/hl2mp_hud_team.cpp
+END

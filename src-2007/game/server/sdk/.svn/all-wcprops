@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk
+END
+sdk_modelentity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_modelentity.cpp
+END
+sdk_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_player.h
+END
+sdk_player_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_player_resource.cpp
+END
+sdk_logicalentity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_logicalentity.cpp
+END
+te_firebullets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/te_firebullets.cpp
+END
+sdk_player_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_player_resource.h
+END
+sdk_bot_temp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_bot_temp.cpp
+END
+te_firebullets.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/te_firebullets.h
+END
+sdk_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_client.cpp
+END
+sdk_bot_temp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_bot_temp.h
+END
+sdk_brushentity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_brushentity.cpp
+END
+sdk_vehicle_jeep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_vehicle_jeep.cpp
+END
+sdk_playermove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_playermove.cpp
+END
+sdk_eventlog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_eventlog.cpp
+END
+sdk_team.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_team.cpp
+END
+sdk_gameinterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_gameinterface.cpp
+END
+sdk_env_sparkler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_env_sparkler.cpp
+END
+sdk_team.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_team.h
+END
+sdk_player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_player.cpp
+END
+sdk_env_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/sdk/sdk_env_message.cpp
+END

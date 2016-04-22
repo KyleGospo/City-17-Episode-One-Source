@@ -1,0 +1,55 @@
+// Includes
+#include "common_vs_fxc.h"
+
+float4x4 mWorldViewProjMatrix;
+float4   vLight;
+const float		fObjectHeight			: register(SHADER_SPECIFIC_CONST_0);
+const float		fTimeStamp				: register(SHADER_SPECIFIC_CONST_1);
+const float3	vWindDirection			: register(SHADER_SPECIFIC_CONST_2);
+const float		fWindStrength			: register(SHADER_SPECIFIC_CONST_3);
+
+   struct VS_INPUT {
+  float3 vPosition : POSITION;
+  float3 vNormal   : NORMAL;
+  float2 TexCoords : TEXCOORD0;
+
+  // This member is needed in Section 7.4.4
+  
+   float3 vObjectPosition : TEXCOORD1;
+};
+
+struct VS_OUTPUT {
+  float4 vPosition : POSITION;
+  float4 vDiffuse  : COLOR;
+  float2 TexCoords : TEXCOORD0;
+};
+struct VS_TEMP {
+  float3 vPosition;
+  float3 vNormal;
+};
+
+VS_OUTPUT main(const VS_INPUT v)
+{
+	VS_OUTPUT o = ( VS_OUTPUT )0;
+	VS_TEMP t = ( VS_TEMP )0;
+
+  // Animate the upper vertices and normals only
+  
+   if (v.TexCoords.y <= 0.1) {  // Or: if(v.TexCoords.y >= 0.9)
+   
+   float3 vObjectTranslation = Translate(v.vObjectPosition,
+                                              fTimeStamp,
+                                              vWindDirection,
+                                              fWindStrength);
+  t.vPosition = v.vPosition + vObjectTranslation;
+  t.vNormal = normalize(v.vNormal * fObjectHeight +
+                           vObjectTranslation);
+  }
+
+  // Output stuff
+  o.vPosition = mul(float4(t.vPosition, 1),
+                      mWorldViewProjMatrix);
+  o.vDiffuse = dot(vLight, t.vNormal);
+  o.TexCoords = v.TexCoords;
+  return o;
+}

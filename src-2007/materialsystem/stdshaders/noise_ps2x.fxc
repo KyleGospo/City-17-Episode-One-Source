@@ -1,0 +1,40 @@
+//========= Copyright © 2009, Gear Software & Nvidia GPU Gems 3, All rights reserved. ============//
+// DYNAMIC:	"SHOWGRAINCONTROL"				"0..1"
+
+// Includes
+#include "common_ps_fxc.h"
+
+sampler			sampScreen			: register( s0 );
+
+float4			Options				: register( c0 );
+float2			NoiseMod			: register( c1 );
+
+// Structs
+struct VS_OUTPUT
+{
+   	float4 Position   : POSITION;
+    float2 TexCoord0  : TEXCOORD0;
+};
+
+// Main
+float4 main( VS_OUTPUT IN ) : COLOR0 
+{
+	float4 cTextureScreen = tex2D( sampScreen, IN.TexCoord0.xy);
+	float3 color = (cTextureScreen.rgb * NoiseMod.x) + NoiseMod.y;
+	float Intens = (1.0 - dot(float3(.2,.7,.1),color)) * Options.x;
+
+#if SHOWGRAINCONTROL
+	return float4(Intens,Intens,Intens,1.0);
+#endif
+	
+	float x = IN.TexCoord0.x * IN.TexCoord0.y * Options.w *  1000;
+	x = fmod(x, 13) * fmod(x, 123);	
+	float dx = fmod(x, 0.01);
+
+	float3 cResult = cTextureScreen.rgb + cTextureScreen.rgb * saturate(0.1f + dx.xxx * 100);
+	float2 sc; sincos(IN.TexCoord0.y * Options.z, sc.x, sc.y);
+	cResult += cTextureScreen.rgb * float3(sc.x, sc.y, sc.x) * Options.y;
+	cResult = lerp(cTextureScreen, cResult, saturate(Intens));
+
+	return float4(cResult, 1.0);
+}

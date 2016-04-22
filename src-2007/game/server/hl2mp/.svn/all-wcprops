@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp
+END
+hl2mp_player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_player.cpp
+END
+hl2mp_gameinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_gameinterface.h
+END
+hl2mp_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_player.h
+END
+grenade_satchel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/grenade_satchel.cpp
+END
+hl2mp_bot_temp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_bot_temp.cpp
+END
+grenade_tripmine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/grenade_tripmine.cpp
+END
+grenade_satchel.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/grenade_satchel.h
+END
+te_hl2mp_shotgun_shot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/te_hl2mp_shotgun_shot.cpp
+END
+hl2mp_cvars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_cvars.cpp
+END
+hl2mp_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_client.cpp
+END
+hl2mp_bot_temp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_bot_temp.h
+END
+grenade_tripmine.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/grenade_tripmine.h
+END
+te_hl2mp_shotgun_shot.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/te_hl2mp_shotgun_shot.h
+END
+hl2mp_cvars.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_cvars.h
+END
+hl2mp_gameinterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/hl2mp/hl2mp_gameinterface.cpp
+END

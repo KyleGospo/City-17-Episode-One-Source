@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel
+END
+dmattributetypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/dmattributetypes.h
+END
+dmvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/dmvar.h
+END
+dmelement.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/dmelement.h
+END
+dmattributevar.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/dmattributevar.h
+END
+attributeflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/attributeflags.h
+END
+dmehandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/dmehandle.h
+END
+dmelementfactoryhelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/dmelementfactoryhelper.h
+END
+idatamodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/idatamodel.h
+END
+dmattribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/dmattribute.h
+END
+dmelementhandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/86/SourceCode/source/src/public/datamodel/dmelementhandle.h
+END

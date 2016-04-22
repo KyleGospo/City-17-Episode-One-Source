@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://kyle-q6600/svn/city17_source/SourceCode/source/src/public/python/boost/math
+https://kyle-q6600/svn/city17_source
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+788d6a98-827f-9b4f-afa2-376c1abb2583
+
+tools
+dir
+
+
+
+add
+
+distributions
+dir
+
+
+
+add
+
+complex
+dir
+
+
+
+add
+
+policies
+dir
+
+
+
+add
+
+special_functions
+dir
+
+
+
+add
+
+constants
+dir
+
+
+
+add
+
+bindings
+dir
+
+
+
+add
+
+concepts
+dir
+
+
+
+add
+

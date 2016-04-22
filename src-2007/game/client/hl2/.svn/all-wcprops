@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2
+END
+hud_blood.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_blood.cpp
+END
+vgui_rootpanel_hl2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/vgui_rootpanel_hl2.cpp
+END
+c_corpse.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_corpse.h
+END
+c_weapon_stunstick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_weapon_stunstick.cpp
+END
+fx_hl2_impacts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/hl2/fx_hl2_impacts.cpp
+END
+hud_poisondamageindicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_poisondamageindicator.cpp
+END
+C_Func_Monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/C_Func_Monitor.cpp
+END
+c_vehicle_prisoner_pod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_vehicle_prisoner_pod.cpp
+END
+c_antlion_dust.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_antlion_dust.cpp
+END
+c_citadel_effects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_citadel_effects.cpp
+END
+c_npc_combinegunship.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_npc_combinegunship.cpp
+END
+c_weapon_crossbow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_weapon_crossbow.cpp
+END
+c_strider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_strider.cpp
+END
+clientmode_hlnormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/clientmode_hlnormal.cpp
+END
+c_basehlplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_basehlplayer.h
+END
+hud_hdrdemo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_hdrdemo.cpp
+END
+c_waterbullet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_waterbullet.cpp
+END
+c_corpse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_corpse.cpp
+END
+hud_autoaim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_autoaim.cpp
+END
+c_func_tankmortar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_func_tankmortar.cpp
+END
+hud_weaponselection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_weaponselection.cpp
+END
+c_basehlcombatweapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_basehlcombatweapon.cpp
+END
+c_basehelicopter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_basehelicopter.h
+END
+fx_antlion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/fx_antlion.cpp
+END
+hud_health.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_health.cpp
+END
+c_hl2_playerlocaldata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_hl2_playerlocaldata.cpp
+END
+c_barnacle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_barnacle.cpp
+END
+fx_bugbait.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/fx_bugbait.cpp
+END
+c_te_concussiveexplosion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_te_concussiveexplosion.cpp
+END
+c_env_alyxtemp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_env_alyxtemp.cpp
+END
+c_energy_wave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_energy_wave.cpp
+END
+c_basehlplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_basehlplayer.cpp
+END
+c_script_intro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_script_intro.cpp
+END
+c_barney.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_barney.cpp
+END
+hl_prediction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hl_prediction.cpp
+END
+hud_quickinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_quickinfo.cpp
+END
+hud_ammo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_ammo.cpp
+END
+c_basehelicopter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_basehelicopter.cpp
+END
+c_weapon_physcannon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_weapon_physcannon.cpp
+END
+hud_radar.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_radar.h
+END
+c_info_teleporter_countdown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_info_teleporter_countdown.cpp
+END
+c_basehlcombatweapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_basehlcombatweapon.h
+END
+hud_suitpower.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_suitpower.h
+END
+c_prop_combine_ball.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_prop_combine_ball.cpp
+END
+c_npc_hydra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_npc_hydra.cpp
+END
+shieldproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/shieldproxy.cpp
+END
+c_npc_rollermine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_npc_rollermine.cpp
+END
+c_weapon_gravitygun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_weapon_gravitygun.cpp
+END
+clientmode_hlnormal.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/clientmode_hlnormal.cpp.bak
+END
+c_hl2_playerlocaldata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_hl2_playerlocaldata.h
+END
+c_vehicle_cannon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_vehicle_cannon.cpp
+END
+c_weapon__stubs_hl2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_weapon__stubs_hl2.cpp
+END
+c_vehicle_airboat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_vehicle_airboat.cpp
+END
+hl2_clientmode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hl2_clientmode.cpp
+END
+hud_radar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_radar.cpp
+END
+c_env_headcrabcanister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_env_headcrabcanister.cpp
+END
+hl_in_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hl_in_main.cpp
+END
+c_vehicle_crane.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_vehicle_crane.h
+END
+hud_suitpower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_suitpower.cpp
+END
+hud_locator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_locator.cpp
+END
+c_npc_manhack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_npc_manhack.cpp
+END
+fx_hl2_tracers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/fx_hl2_tracers.cpp
+END
+c_plasma_beam_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_plasma_beam_node.cpp
+END
+c_basehlplayer.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_basehlplayer.cpp.bak
+END
+hud_battery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_battery.cpp
+END
+hud_bonusprogress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_bonusprogress.cpp
+END
+hud_damageindicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_damageindicator.cpp
+END
+c_prop_combine_ball.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_prop_combine_ball.h
+END
+c_extinguisher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_extinguisher.cpp
+END
+c_te_flare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_te_flare.cpp
+END
+clientmode_hlnormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/clientmode_hlnormal.h
+END
+hud_zoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_zoom.cpp
+END
+c_thumper_dust.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_thumper_dust.cpp
+END
+hud_flashlight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_flashlight.cpp
+END
+c_ar2_explosion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_ar2_explosion.cpp
+END
+c_env_starfield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_env_starfield.cpp
+END
+c_vehicle_crane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_vehicle_crane.cpp
+END
+c_npc_antlionguard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_npc_antlionguard.cpp
+END
+c_rotorwash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/c_rotorwash.cpp
+END
+hud_filmdemo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_filmdemo.cpp
+END
+hud_credits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2/hud_credits.cpp
+END

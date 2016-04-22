@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam
+END
+isteamfriends.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/isteamfriends.h
+END
+steamtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/steamtypes.h
+END
+isteamuserstats.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/isteamuserstats.h
+END
+isteamclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/isteamclient.h
+END
+isteamuser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/isteamuser.h
+END
+steam_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/steam_api.h
+END
+isteamutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/isteamutils.h
+END
+isteamapps.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/isteamapps.h
+END
+isteammatchmaking.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/isteammatchmaking.h
+END
+steamclientpublic.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/steamclientpublic.h
+END
+matchmakingtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/110/SourceCode/source/src/public/steam/matchmakingtypes.h
+END

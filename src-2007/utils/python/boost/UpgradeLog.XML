@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="boostPython">
+</Property><Property Name="Solution File" Value="C:\city17_source\SourceCode\source\src\utils\python\boost\boostPython.sln">
+</Property><Property Name="Date" Value="Tuesday, December 14, 2010">
+</Property><Property Name="Time" Value="13:03 PM">
+</Property></Properties><Event ErrorLevel="0" Project="boostPython" Source="boostPython.vcproj" Description="Converting project file 'C:\city17_source\SourceCode\source\src\utils\python\boost\boostPython.vcproj'.">
+</Event><Event ErrorLevel="1" Project="boostPython" Source="boostPython.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="boostPython" Source="boostPython.vcproj" Description="MSB8012: $(TargetName) ('boost_pythoncore') does not match the Librarian's OutputFile property value 'C:\city17_source\SourceCode\source\src\utils\python\boost\Debug\boost_pythoncore_d.lib' ('boost_pythoncore_d') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="boostPython" Source="boostPython.vcproj" Description="MSB8012: $(TargetPath) ('C:\city17_source\SourceCode\source\src\utils\python\boost\Debug\boost_pythoncore.lib') does not match the Librarian's OutputFile property value 'C:\city17_source\SourceCode\source\src\utils\python\boost\Debug\boost_pythoncore_d.lib' ('C:\city17_source\SourceCode\source\src\utils\python\boost\Debug\boost_pythoncore_d.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="boostPython" Source="boostPython.vcproj" Description="Done converting to new project file 'C:\city17_source\SourceCode\source\src\utils\python\boost\boostPython.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="boostPython" Source="boostPython.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="boostPython.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="boostPython.sln" Description="Converted">
+</Event></UpgradeLog>

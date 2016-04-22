@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk
+END
+c_sdk_player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/c_sdk_player.cpp
+END
+sdk_backgroundpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_backgroundpanel.cpp
+END
+sdk_fx_tracers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_fx_tracers.cpp
+END
+sdk_hud_stamina.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_stamina.h
+END
+sdk_hud_targetid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_targetid.cpp
+END
+sdk_hud_health.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_health.cpp
+END
+sdk_in_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_in_main.cpp
+END
+c_sdk_player_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/c_sdk_player_resource.h
+END
+sdk_hud_damage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_damage.cpp
+END
+sdk_hud_chat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_chat.cpp
+END
+sdk_hud_armor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_armor.cpp
+END
+sdk_hud_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_message.cpp
+END
+sdk_scoreboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_scoreboard.h
+END
+clientmode_sdk.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/clientmode_sdk.h
+END
+hud_sdkdeathnotice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/hud_sdkdeathnotice.cpp
+END
+sdk_hud_ammo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_ammo.cpp
+END
+sdk_hud_stamina.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_stamina.cpp
+END
+c_sdk_env_sparkler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/c_sdk_env_sparkler.cpp
+END
+c_sdk_team.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/c_sdk_team.h
+END
+sdk_fx_impacts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_fx_impacts.cpp
+END
+sdk_hud_weaponselection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_weaponselection.cpp
+END
+sdk_prediction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_prediction.cpp
+END
+c_sdk_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/c_sdk_player.h
+END
+sdk_backgroundpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_backgroundpanel.h
+END
+c_sdk_player_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/c_sdk_player_resource.cpp
+END
+c_te_firebullets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/c_te_firebullets.cpp
+END
+sdk_scoreboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_scoreboard.cpp
+END
+clientmode_sdk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/clientmode_sdk.cpp
+END
+sdk_hud_chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_hud_chat.h
+END
+sdk_fx_weaponfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/sdk_fx_weaponfx.cpp
+END
+c_sdk_team.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/c_sdk_team.cpp
+END

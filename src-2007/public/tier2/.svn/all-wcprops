@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2
+END
+camerautils.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/camerautils.h
+END
+soundutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/soundutils.h
+END
+utlstreambuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/utlstreambuffer.h
+END
+vconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/vconfig.h
+END
+meshutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/meshutils.h
+END
+fileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/fileutils.h
+END
+renderutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/renderutils.h
+END
+beamsegdraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/beamsegdraw.h
+END
+tier2.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/tier2.h
+END
+keybindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/keybindings.h
+END
+p4helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/p4helpers.h
+END
+riff.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/riff.h
+END
+tier2dm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier2/tier2dm.h
+END

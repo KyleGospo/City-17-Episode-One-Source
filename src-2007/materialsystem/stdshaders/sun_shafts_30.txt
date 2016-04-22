@@ -1,0 +1,7 @@
+//
+//  These shaders are compiled as the following shader models:
+//	    _vs30.vcs
+//	    _ps30.vcs
+//
+
+sun_shafts_ps30.fxc

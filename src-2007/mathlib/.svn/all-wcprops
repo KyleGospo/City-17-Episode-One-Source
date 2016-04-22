@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/city17_source/!svn/ver/114/SourceCode/source/src/mathlib
+END
+sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/sse.h
+END
+vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/vector.cpp
+END
+simdvectormatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/simdvectormatrix.cpp
+END
+UpgradeLog.XML
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/UpgradeLog.XML
+END
+bumpvects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/bumpvects.cpp
+END
+IceKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/IceKey.cpp
+END
+mathlib_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib_base.cpp
+END
+noisedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/noisedata.h
+END
+powsse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/powsse.cpp
+END
+polyhedron.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/polyhedron.cpp
+END
+color_conversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/color_conversion.cpp
+END
+halton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/halton.cpp
+END
+mathlib-2008.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2008.vcproj
+END
+ssenoise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/ssenoise.cpp
+END
+sse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/sse.cpp
+END
+mathlib-2008.suo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2008.suo
+END
+imagequant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/imagequant.cpp
+END
+mathlib-2008.vcproj.KYLE-Q6600.Kyle Gospodnetich.user
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2008.vcproj.KYLE-Q6600.Kyle%20Gospodnetich.user
+END
+randsse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/randsse.cpp
+END
+3dnow.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/3dnow.h
+END
+anorms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/anorms.cpp
+END
+quantize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/quantize.cpp
+END
+sseconst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/sseconst.cpp
+END
+lightdesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/lightdesc.cpp
+END
+mathlib-2005.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2005.vcxproj
+END
+mathlib-2008.sln
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2008.sln
+END
+mathlib-2005.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2005.vcxproj.filters
+END
+mathlib-2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2005.vcproj
+END
+mathlib-2008.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2008.ncb
+END
+mathlib-2005.vcproj.KYLE-Q6600.Kyle Gospodnetich.user
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2005.vcproj.KYLE-Q6600.Kyle%20Gospodnetich.user
+END
+sparse_convolution_noise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/sparse_convolution_noise.cpp
+END
+mathlib-2005.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/mathlib-2005.vcxproj.user
+END
+3dnow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/3dnow.cpp
+END
+vmatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/vmatrix.cpp
+END
+datagen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/113/SourceCode/source/src/mathlib/datagen.pl
+END

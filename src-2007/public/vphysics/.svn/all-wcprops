@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics
+END
+object_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/object_hash.h
+END
+friction.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/friction.h
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/stats.h
+END
+player_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/player_controller.h
+END
+performance.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/performance.h
+END
+vehicles.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/vehicles.h
+END
+virtualmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/virtualmesh.h
+END
+collision_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/collision_set.h
+END
+constraints.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/vphysics/constraints.h
+END

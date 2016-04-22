@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls
+END
+ClientScoreBoardDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/ClientScoreBoardDialog.cpp
+END
+buysubmenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/buysubmenu.h
+END
+nf_CvarComboBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/nf_CvarComboBox.cpp
+END
+commandmenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/commandmenu.h
+END
+IconPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/IconPanel.cpp
+END
+mapoverview.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/mapoverview.h
+END
+NavProgress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/NavProgress.cpp
+END
+mouseoverhtmlbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/mouseoverhtmlbutton.h
+END
+baseviewport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/baseviewport.cpp
+END
+teammenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/teammenu.cpp
+END
+vguitextwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/vguitextwindow.h
+END
+spectatorgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/spectatorgui.h
+END
+basemodel_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/basemodel_panel.h
+END
+basemodelpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/basemodelpanel.h
+END
+pd_panel_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/pd_panel_list.h
+END
+intromenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/intromenu.h
+END
+nf_CvarSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/nf_CvarSlider.h
+END
+imagemouseoverbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/imagemouseoverbutton.h
+END
+buymenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/buymenu.h
+END
+buysubmenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/buysubmenu.cpp
+END
+classmenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/classmenu.h
+END
+commandmenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/commandmenu.cpp
+END
+MapOverview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/MapOverview.cpp
+END
+mouseoverpanelbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/mouseoverpanelbutton.h
+END
+clientscoreboarddialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/clientscoreboarddialog.h
+END
+vguitextwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/vguitextwindow.cpp
+END
+SpectatorGUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/SpectatorGUI.cpp
+END
+basemodel_panel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/basemodel_panel.cpp
+END
+basemodelpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/basemodelpanel.cpp
+END
+nf_CvarComboBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/nf_CvarComboBox.h
+END
+IconPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/IconPanel.h
+END
+pd_panel_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/pd_panel_list.cpp
+END
+NavProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/NavProgress.h
+END
+baseviewport.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/baseviewport.h
+END
+intromenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/intromenu.cpp
+END
+teammenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/teammenu.h
+END
+nf_CvarSlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/nf_CvarSlider.cpp
+END
+buymenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/buymenu.cpp
+END
+classmenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/game_controls/classmenu.cpp
+END

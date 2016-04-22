@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include
+END
+sm_api_headtrackercontrols.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_headtrackercontrols.h
+END
+sm_api_filetrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_filetrack.h
+END
+sm_api_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_engine.h
+END
+sm_api_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_string.h
+END
+sm_api_imagetypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_imagetypes.h
+END
+sm_api_headtrackerv1controls.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_headtrackerv1controls.h
+END
+sm_api_facelandmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_facelandmark.h
+END
+sm_api_headtrackerv2controls.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_headtrackerv2controls.h
+END
+sm_api_geomtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_geomtypes.h
+END
+sm_api_headtracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_headtracker.h
+END
+sm_api_cameratypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_cameratypes.h
+END
+sm_api_facetexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_facetexture.h
+END
+sm_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api.h
+END
+sm_api_configure.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_configure.h
+END
+sm_api_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_image.h
+END
+sm_api_facesearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_facesearch.h
+END
+sm_api_logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_logging.h
+END
+sm_api_coordutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_coordutils.h
+END
+sm_api_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_camera.h
+END
+sm_api_videodisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_videodisplay.h
+END
+sm_api_returncodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_returncodes.h
+END
+sm_api_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/facesdk/include/sm_api_time.h
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic
+END
+grenade_hopwire.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/grenade_hopwire.cpp.bak
+END
+ep2_gamestats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ep2_gamestats.cpp
+END
+npc_hunter.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/npc_hunter.cpp.bak
+END
+vehicle_jeep_episodic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/vehicle_jeep_episodic.cpp
+END
+grenade_hopwire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/grenade_hopwire.cpp
+END
+ep1_gamestats.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ep1_gamestats.h
+END
+ep2_gamestats.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ep2_gamestats.h
+END
+npc_hunter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/npc_hunter.cpp
+END
+prop_scalable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/prop_scalable.cpp
+END
+vehicle_jeep_episodic.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/vehicle_jeep_episodic.h
+END
+npc_advisor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/npc_advisor.cpp
+END
+grenade_hopwire.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/grenade_hopwire.h
+END
+npc_combine_cannon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/npc_combine_cannon.cpp
+END
+npc_hunter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/npc_hunter.h
+END
+npc_magnusson.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/npc_magnusson.cpp
+END
+weapon_oldmanharpoon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/weapon_oldmanharpoon.cpp
+END
+weapon_striderbuster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/weapon_striderbuster.cpp
+END
+npc_puppet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/npc_puppet.cpp
+END
+weapon_striderbuster.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/weapon_striderbuster.h
+END
+ai_behavior_passenger_companion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ai_behavior_passenger_companion.cpp
+END
+vehicle_hl2buggy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/vehicle_hl2buggy.cpp
+END
+ai_behavior_passenger_zombie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ai_behavior_passenger_zombie.cpp
+END
+ai_behavior_alyx_injured.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ai_behavior_alyx_injured.cpp
+END
+weapon_hopwire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/weapon_hopwire.cpp
+END
+ai_behavior_passenger_companion.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ai_behavior_passenger_companion.h
+END
+vehicle_hl2buggy.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/vehicle_hl2buggy.h
+END
+ai_behavior_passenger_zombie.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ai_behavior_passenger_zombie.h
+END
+ai_behavior_alyx_injured.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ai_behavior_alyx_injured.h
+END
+ep1_gamestats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/server/episodic/ep1_gamestats.cpp
+END

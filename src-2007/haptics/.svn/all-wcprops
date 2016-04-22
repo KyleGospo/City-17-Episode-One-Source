@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics
+END
+haptic_graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptic_graph.h
+END
+client_haptics.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/client_haptics.h
+END
+haptics_quaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_quaternion.cpp
+END
+vehicle_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/vehicle_effect.h
+END
+haptics_demo_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_demo_ui.h
+END
+carry_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/carry_effect.h
+END
+rumble_haptics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/rumble_haptics.cpp
+END
+haptics_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_main.h
+END
+haptic_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptic_messages.h
+END
+haptics_orientation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_orientation.cpp
+END
+haptic_vgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptic_vgui.h
+END
+footsteps_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/footsteps_effect.h
+END
+haptics_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_common.h
+END
+haptic_demo_ui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptic_demo_ui.cpp
+END
+haptics_stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_stdafx.h
+END
+haptics_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_effect.h
+END
+vgui_falconpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/vgui_falconpanel.cpp
+END
+ThresholdInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/ThresholdInfo.h
+END
+haptics_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_vector.cpp
+END
+ForcesPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/ForcesPage.cpp
+END
+haptics_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_panel.h
+END
+haptics_matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_matrix.cpp
+END
+svr_in_haptics.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/svr_in_haptics.h
+END
+in_haptics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/in_haptics.cpp
+END
+vgui_falconpanel_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/vgui_falconpanel_macros.h
+END
+ControlBoxPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/ControlBoxPage.cpp
+END
+in_haptics_hl2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/in_haptics_hl2.cpp
+END
+MovementPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/MovementPage.cpp
+END
+haptic_graph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptic_graph.cpp
+END
+client_haptics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/client_haptics.cpp
+END
+shared_haptic_registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/shared_haptic_registers.h
+END
+carry_effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/carry_effect.cpp
+END
+HapticPages.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/HapticPages.h
+END
+recoil_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/recoil_effect.h
+END
+svr_haptic_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/svr_haptic_messages.h
+END
+haptics_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_main.cpp
+END
+damage_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/damage_effect.h
+END
+HapticPageBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/HapticPageBase.cpp
+END
+haptic_vgui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptic_vgui.cpp
+END
+haptics_quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_quaternion.h
+END
+ButtonPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/ButtonPage.cpp
+END
+ThresholdInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/ThresholdInfo.cpp
+END
+haptics_panel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_panel.cpp
+END
+acceleration_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/acceleration_effect.h
+END
+haptics_orientation.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_orientation.h
+END
+svr_in_haptics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/svr_in_haptics.cpp
+END
+vgui_falconpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/vgui_falconpanel.h
+END
+haptics_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_vector.h
+END
+haptics_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/haptics_matrix.h
+END
+in_haptics.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/in_haptics.h
+END
+in_haptics_hl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/haptics/in_haptics_hl2.h
+END

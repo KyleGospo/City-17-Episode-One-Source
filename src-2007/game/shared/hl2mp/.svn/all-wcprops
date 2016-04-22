@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp
+END
+weapon_physcannon.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_physcannon.h
+END
+weapon_shotgun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_shotgun.cpp
+END
+weapon_hl2mpbasebasebludgeon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_hl2mpbasebasebludgeon.cpp
+END
+weapon_ar2.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_ar2.h
+END
+hl2mp_playeranimstate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/hl2mp_playeranimstate.cpp
+END
+weapon_rpg.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_rpg.h
+END
+weapon_crowbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_crowbar.cpp
+END
+weapon_slam.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_slam.h
+END
+weapon_hl2mpbasehlmpcombatweapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_hl2mpbasehlmpcombatweapon.h
+END
+weapon_pistol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_pistol.cpp
+END
+weapon_hl2mpbase_machinegun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_hl2mpbase_machinegun.cpp
+END
+hl2mp_player_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/hl2mp_player_shared.cpp
+END
+weapon_hl2mpbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_hl2mpbase.cpp
+END
+weapon_357.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_357.cpp
+END
+weapon_physcannon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_physcannon.cpp
+END
+hl2mp_weapon_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/hl2mp_weapon_parse.h
+END
+hl2mp_gamerules.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/hl2mp_gamerules.h
+END
+weapon_ar2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_ar2.cpp
+END
+weapon_stunstick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_stunstick.cpp
+END
+weapon_rpg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_rpg.cpp
+END
+weapon_slam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_slam.cpp
+END
+weapon_hl2mpbasebasebludgeon.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_hl2mpbasebasebludgeon.h
+END
+weapon_hl2mpbasehlmpcombatweapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_hl2mpbasehlmpcombatweapon.cpp
+END
+hl2mp_playeranimstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/hl2mp_playeranimstate.h
+END
+weapon_crossbow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_crossbow.cpp
+END
+weapon_crowbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_crowbar.h
+END
+weapon_smg1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_smg1.cpp
+END
+hl2mp_weapon_parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/hl2mp_weapon_parse.cpp
+END
+hl2mp_gamerules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/hl2mp_gamerules.cpp
+END
+weapon_frag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_frag.cpp
+END
+weapon_hl2mpbase_machinegun.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_hl2mpbase_machinegun.h
+END
+hl2mp_player_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/hl2mp_player_shared.h
+END
+weapon_hl2mpbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/shared/hl2mp/weapon_hl2mpbase.h
+END

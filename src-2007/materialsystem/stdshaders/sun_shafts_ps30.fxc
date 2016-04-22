@@ -1,0 +1,47 @@
+//========= Copyright © 2009, Gear Software & Nvidia GPU Gems 3, All rights reserved. ============//
+// DYNAMIC:	"QUALITY"				"0..2"
+// DYNAMIC:	"SUNBEHIND"				"0..1"
+
+#if QUALITY == 2
+#define			NUM_SAMPLES 100	//Very High
+#elif QUALITY == 1
+#define			NUM_SAMPLES 50	//High
+#else
+#define			NUM_SAMPLES 25	//Low
+#endif
+
+// Includes
+#include "common_ps_fxc.h"
+
+// Texture Samplers ===============================================================================
+sampler			frameSampler	: register( s0 );
+
+// Shaders Constants and Globals ==================================================================
+half2			ScreenLightPos	: register( c0 );
+half			Density			: register( c1 );
+half			Decay			: register( c2 );
+half			Weight			: register( c3 );
+half			Exposure		: register( c4 );
+
+// Main =============================================================================================
+float4 main(float2 texCoord : TEXCOORD0) : COLOR
+{
+	float2 iTexCoord = texCoord;
+	half2 deltaTexCoord = (iTexCoord - ScreenLightPos.xy);
+	deltaTexCoord *= 1.0f / NUM_SAMPLES * Density;
+	half3 color = tex2D(frameSampler, iTexCoord);
+	half illuminationDecay = 1.0f;
+	for (int i = 0; i < NUM_SAMPLES; i++)
+	{
+#if SUNBEHIND
+		iTexCoord += deltaTexCoord;
+#else
+		iTexCoord -= deltaTexCoord;
+#endif
+		half3 sample = tex2D(frameSampler, iTexCoord);
+		sample *= illuminationDecay * Weight;
+		color += sample;
+		illuminationDecay *= Decay;
+	}
+	return float4( color * Exposure, 1);  
+}

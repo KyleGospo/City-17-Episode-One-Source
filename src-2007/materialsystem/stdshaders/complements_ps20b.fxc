@@ -1,0 +1,107 @@
+// Includes
+#include "common_ps_fxc.h"
+
+sampler2D 		SceneSampler		: register( s0 );
+
+const float3	GuideHue		: register( c0 );
+const float		Amount			: register( c1 );
+const float		Concentrate		: register( c2 );
+const float		DesatCorr		: register( c3 );
+
+float hue_lerp(float h1,
+		   float h2,
+		   float v)
+{
+    float d = abs(h1 - h2);
+    if (d <= 0.5) {
+	return (float)lerp(h1,h2,v);
+    } else if (h1 < h2) {
+	return (float)frac(lerp((h1+1.0),h2,v));
+    } else
+	return (float)frac(lerp(h1,(h2+1.0),v));
+}
+
+float __min_channel(float3 v)
+{
+    float t = (v.x<v.y) ? v.x : v.y;
+    t = (t<v.z) ? t : v.z;
+    return t;
+}
+
+float __max_channel(float3 v)
+{
+    float t = (v.x>v.y) ? v.x : v.y;
+    t = (t>v.z) ? t : v.z;
+    return t;
+}
+
+float3 rgb_to_hsv(float3 RGB)
+{
+    float3 HSV = (0.0).xxx;
+    float minVal = __min_channel(RGB);
+    float maxVal = __max_channel(RGB);
+    float delta = maxVal - minVal;             //Delta RGB value 
+    HSV.z = maxVal;
+    if (delta != 0) {                    // If gray, leave H & S at zero
+       HSV.y = delta / maxVal;
+       float3 delRGB;
+       delRGB = ( ( ( maxVal.xxx - RGB ) / 6.0 ) + ( delta / 2.0 ) ) / delta;
+       if      ( RGB.x == maxVal ) HSV.x = delRGB.z - delRGB.y;
+       else if ( RGB.y == maxVal ) HSV.x = ( 1.0/3.0) + delRGB.x - delRGB.z;
+       else if ( RGB.z == maxVal ) HSV.x = ( 2.0/3.0) + delRGB.y - delRGB.x;
+       if ( HSV.x < 0.0 ) { HSV.x += 1.0; }
+       if ( HSV.x > 1.0 ) { HSV.x -= 1.0; }
+    }
+    return (HSV);
+}
+
+float3 hsv_to_rgb(float3 HSV)
+{
+    float3 RGB = HSV.z;
+    if ( HSV.y != 0 ) {
+       float var_h = HSV.x * 6;
+       float var_i = floor(var_h);   // Or ... var_i = floor( var_h )
+       float var_1 = HSV.z * (1.0 - HSV.y);
+       float var_2 = HSV.z * (1.0 - HSV.y * (var_h-var_i));
+       float var_3 = HSV.z * (1.0 - HSV.y * (1-(var_h-var_i)));
+       if      (var_i == 0) { RGB = float3(HSV.z, var_3, var_1); }
+       else if (var_i == 1) { RGB = float3(var_2, HSV.z, var_1); }
+       else if (var_i == 2) { RGB = float3(var_1, HSV.z, var_3); }
+       else if (var_i == 3) { RGB = float3(var_1, var_2, HSV.z); }
+       else if (var_i == 4) { RGB = float3(var_3, var_1, HSV.z); }
+       else                 { RGB = float3(HSV.z, var_1, var_2); }
+   }
+   return (RGB);
+}
+
+
+float3 hsv_complement(float3 InColor)
+{
+    float3 complement = InColor;
+    complement.x -= 0.5;
+    if (complement.x<0.0) { complement.x += 1.0; } // faster than hsv_safe()
+    return(complement);
+}
+
+float4 main(float2 iTexCoord : TEXCOORD0) : COLOR
+{   
+    float4 rgbaTex = tex2D(SceneSampler, iTexCoord);
+    float3 hsvTex = rgb_to_hsv(rgbaTex.rgb);
+    float3 huePole1 = rgb_to_hsv(GuideHue); // uniform
+    float3 huePole2 = hsv_complement(huePole1); // uniform
+    float dist1 = abs(hsvTex.x - huePole1.x); if (dist1>0.5) dist1 = 1.0-dist1;
+    float dist2 = abs(hsvTex.x - huePole2.x); if (dist2>0.5) dist2 = 1.0-dist2;
+    float dsc = smoothstep(0,DesatCorr,hsvTex.y);
+    float3 newHsv = hsvTex;
+    if (dist1 < dist2) {
+	float c = dsc * Amount * (1.0 - pow((dist1*2.0),1.0/Concentrate));
+	newHsv.x = hue_lerp(hsvTex.x,huePole1.x,c);
+	newHsv.y = lerp(hsvTex.y,huePole1.y,c);
+    } else {
+	float c = dsc * Amount * (1.0 - pow((dist2*2.0),1.0/Concentrate));
+	newHsv.x = hue_lerp(hsvTex.x,huePole2.x,c);
+	newHsv.y = lerp(hsvTex.y,huePole1.y,c);
+    }
+    float3 newRGB = hsv_to_rgb(newHsv);
+    return float4(newRGB.rgb,rgbaTex.a);
+}

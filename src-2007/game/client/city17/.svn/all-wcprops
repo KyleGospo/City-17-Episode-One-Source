@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/122/SourceCode/source/src/game/client/city17
+END
+c17_OptionsSubGameplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/130/SourceCode/source/src/game/client/city17/c17_OptionsSubGameplay.cpp
+END
+ge_screeneffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/ge_screeneffects.h
+END
+c17_AchievementSubPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_AchievementSubPanel.h
+END
+c17_AchievementsSubMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_AchievementsSubMain.cpp
+END
+c17_AchievementsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_AchievementsDialog.cpp
+END
+c17_OptionsSubVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/130/SourceCode/source/src/game/client/city17/c17_OptionsSubVideo.h
+END
+c17_AchievementsSubStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_AchievementsSubStats.cpp
+END
+c17_hud_health.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_hud_health.cpp
+END
+c17_OptionsSubNovint.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_OptionsSubNovint.h
+END
+c17_hud_battery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_hud_battery.cpp
+END
+c17_OptionsSubMaxsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_OptionsSubMaxsi.h
+END
+c17_RenderTargets.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/131/SourceCode/source/src/game/client/city17/c17_RenderTargets.h
+END
+c17_sunshafts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/client/city17/c17_sunshafts.cpp
+END
+ge_screeneffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/ge_screeneffects.cpp
+END
+c17_OptionsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/122/SourceCode/source/src/game/client/city17/c17_OptionsDialog.h
+END
+c17_AchievementSubPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_AchievementSubPanel.cpp
+END
+c17_OptionsSubFaceAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_OptionsSubFaceAPI.h
+END
+c17_hud_ammo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_hud_ammo.cpp
+END
+hud_blur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/hud_blur.cpp
+END
+c17_OptionsSubGameplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_OptionsSubGameplay.h
+END
+c17_OptionsSubVideo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/city17/c17_OptionsSubVideo.cpp
+END
+c17_AchievementsSubMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_AchievementsSubMain.h
+END
+c17_AchievementsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_AchievementsDialog.h
+END
+c17_OptionsSubNovint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_OptionsSubNovint.cpp
+END
+c17_OptionsSubMaxsi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_OptionsSubMaxsi.cpp
+END
+c17_AchievementsSubStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_AchievementsSubStats.h
+END
+c17_RenderTargets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/131/SourceCode/source/src/game/client/city17/c17_RenderTargets.cpp
+END
+c17_hud_health.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_hud_health.h
+END
+c17_OptionsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/122/SourceCode/source/src/game/client/city17/c17_OptionsDialog.cpp
+END
+c17_OptionsSubFaceAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/city17/c17_OptionsSubFaceAPI.cpp
+END
+c17_hud_battery.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/130/SourceCode/source/src/game/client/city17/c17_hud_battery.h
+END
+c17_sunshafts.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/client/city17/c17_sunshafts.h
+END

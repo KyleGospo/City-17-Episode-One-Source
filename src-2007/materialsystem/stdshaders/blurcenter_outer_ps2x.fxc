@@ -1,0 +1,47 @@
+#include "common_ps_fxc.h"
+
+sampler tex	: register( s0 ); //frontbuffer
+
+// some const, tweak for best look
+const float sampleDist	: register( c0 );
+const float sampleStrength	: register( c1 );
+
+float samples[10] =
+{
+	-0.08,
+	-0.05,
+	-0.03,
+	-0.02,
+	-0.01,
+	0.01,
+	0.02,
+	0.03,
+	0.05,
+	0.08,
+};
+
+// Structs
+struct VS_OUTPUT
+{
+   	float4 Position   : POSITION;
+    float2 TexCoord0  : TEXCOORD0;
+};
+
+float4 main( VS_OUTPUT IN ) : COLOR
+{
+	float2 dir = 0.5 - IN.TexCoord0; 
+ 
+    float dist = sqrt(dir.x*dir.x + dir.y*dir.y); 
+    dir = dir/dist; 
+ 
+    float4 color = tex2D(tex,IN.TexCoord0);
+ 
+    for (int i = 0; i < 10; i++)
+    {
+		color += tex2D( tex, IN.TexCoord0 + dir * samples[i] * sampleDist );
+    }
+
+    color *= 1.0/11.0;
+ 
+    return color;
+} 

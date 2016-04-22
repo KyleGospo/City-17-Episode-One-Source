@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/ui
+END
+backgroundpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/ui/backgroundpanel.cpp
+END
+hl2mptextwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/ui/hl2mptextwindow.cpp
+END
+backgroundpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/ui/backgroundpanel.h
+END
+hl2mptextwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/ui/hl2mptextwindow.h
+END
+hl2mpclientscoreboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/ui/hl2mpclientscoreboard.cpp
+END
+hl2mpclientscoreboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hl2mp/ui/hl2mpclientscoreboard.h
+END

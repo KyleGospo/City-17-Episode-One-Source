@@ -1,0 +1,3257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/city17_source/!svn/ver/122/SourceCode/source/src/game/client
+END
+proxyplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/proxyplayer.cpp
+END
+c_te_glassshatter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_glassshatter.cpp
+END
+vgui_fpspanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_fpspanel.cpp
+END
+vgui_debugoverlaypanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_debugoverlaypanel.cpp
+END
+c_sun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_sun.cpp
+END
+hud_vguiscreencursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_vguiscreencursor.cpp
+END
+c_breakableprop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_breakableprop.cpp
+END
+mp3player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/mp3player.cpp
+END
+client_thinklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/client_thinklist.h
+END
+c_info_overlay_accessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_info_overlay_accessor.cpp
+END
+particles_ez.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_ez.cpp
+END
+hud_bitmapnumericdisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_bitmapnumericdisplay.cpp
+END
+text_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/text_message.h
+END
+c_te_sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_sprite.cpp
+END
+clientleafsystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientleafsystem.cpp
+END
+c_smoke_trail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_smoke_trail.cpp
+END
+cdll_bounded_cvars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cdll_bounded_cvars.cpp
+END
+particles_localspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_localspace.cpp
+END
+C_WaterLODControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/C_WaterLODControl.cpp
+END
+c_effects.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_effects.h
+END
+ragdollexplosionenumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ragdollexplosionenumerator.h
+END
+flashlighteffect.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/flashlighteffect.cpp.bak
+END
+vgui_messagechars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_messagechars.cpp
+END
+clienteffectprecachesystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clienteffectprecachesystem.h
+END
+prediction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/prediction.cpp
+END
+iclientmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iclientmode.h
+END
+animatedtextureproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/animatedtextureproxy.cpp
+END
+c_testtraceline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_testtraceline.cpp
+END
+c_te_bubbles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_bubbles.cpp
+END
+c_baseentity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/c_baseentity.cpp
+END
+particlemgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particlemgr.cpp
+END
+view_effects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/view_effects.cpp
+END
+c_vguiscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_vguiscreen.h
+END
+fx_explosion.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_explosion.h
+END
+proxyentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/proxyentity.h
+END
+hud_element_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_element_helper.cpp
+END
+panelmetaclassmgr.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/panelmetaclassmgr.cpp.bak
+END
+particles_simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_simple.cpp
+END
+hudelement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hudelement.h
+END
+clientmode_normal.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientmode_normal.h
+END
+c_basedoor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_basedoor.cpp
+END
+inetgraphpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/inetgraphpanel.h
+END
+viewrender.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/viewrender.cpp.bak
+END
+clientmode_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/client/clientmode_shared.cpp
+END
+cl_animevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cl_animevent.h
+END
+vgui_bitmapimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_bitmapimage.h
+END
+c_te_footprint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_footprint.cpp
+END
+ipresence.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ipresence.h
+END
+hud.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud.h
+END
+vgui_entitypanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_entitypanel.cpp
+END
+c_te_beaments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_beaments.cpp
+END
+c_env_screenoverlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_env_screenoverlay.cpp
+END
+viewangleanim.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/viewangleanim.h
+END
+c_func_dust.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_dust.cpp
+END
+particle_prototype.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_prototype.h
+END
+c_world.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_world.h
+END
+c_te_smoke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_smoke.cpp
+END
+glow_overlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/glow_overlay.cpp
+END
+splinepatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/splinepatch.cpp
+END
+c_soundscape.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_soundscape.h
+END
+c_te_legacytempents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_legacytempents.cpp
+END
+c_te_spritespray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_spritespray.cpp
+END
+fx_envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_envelope.h
+END
+colorcorrectionmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/colorcorrectionmgr.h
+END
+c_func_smokevolume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_smokevolume.cpp
+END
+hud_closecaption.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_closecaption.h
+END
+hud_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_macros.h
+END
+in_forcefeedback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/in_forcefeedback.cpp
+END
+cdll_client_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cdll_client_int.h
+END
+c_baseflex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseflex.cpp
+END
+perfvisualbenchmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/perfvisualbenchmark.cpp
+END
+c_te_largefunnel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_largefunnel.cpp
+END
+dummyproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/dummyproxy.cpp
+END
+c_entityparticletrail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_entityparticletrail.cpp
+END
+c_pixel_visibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_pixel_visibility.h
+END
+ScreenSpaceEffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ScreenSpaceEffects.h
+END
+c_sceneentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_sceneentity.h
+END
+fx_staticline.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_staticline.h
+END
+baseclientrendertargets.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/baseclientrendertargets.h
+END
+c_ai_basehumanoid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_ai_basehumanoid.cpp
+END
+hud_basechat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_basechat.cpp
+END
+c_rope.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_rope.h
+END
+c_func_occluder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_occluder.cpp
+END
+fx_trail.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_trail.h
+END
+train.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/train.cpp
+END
+hud_chat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_chat.cpp
+END
+smoke_fog_overlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/smoke_fog_overlay.h
+END
+cdll_client_int.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cdll_client_int.cpp.bak
+END
+cbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cbase.h
+END
+hud_closecaption.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_closecaption.cpp
+END
+hud_redraw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_redraw.cpp
+END
+networkstringtable_clientdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/networkstringtable_clientdll.h
+END
+c_shadowcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_shadowcontrol.cpp
+END
+vgui_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_int.h
+END
+entity_client_tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/entity_client_tools.cpp
+END
+hud_pdump.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_pdump.h
+END
+c_te_breakmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_breakmodel.cpp
+END
+c_physbox.h.bak
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_physbox.h.bak
+END
+baseclientrendertargets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/baseclientrendertargets.cpp
+END
+c_spotlight_end.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_spotlight_end.cpp
+END
+c_point_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_point_camera.h
+END
+viewpostprocess.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/viewpostprocess.cpp.bak
+END
+vgui_avatarimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_avatarimage.cpp
+END
+fx_discreetline.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_discreetline.h
+END
+playerandobjectenumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/playerandobjectenumerator.h
+END
+ivmodemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ivmodemanager.h
+END
+hud_vehicle.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_vehicle.h
+END
+c_ai_basenpc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_ai_basenpc.cpp
+END
+c_te_armorricochet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_armorricochet.cpp
+END
+view_scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/view_scene.h
+END
+c_te_particlesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_particlesystem.cpp
+END
+c_point_camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_point_camera.cpp
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/input.h
+END
+prediction.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/prediction.h
+END
+particle_simple3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_simple3d.h
+END
+c_props.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_props.h
+END
+achievement_notification_panel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/achievement_notification_panel.cpp
+END
+history_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/history_resource.h
+END
+fx_water.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_water.cpp
+END
+commentary_modelviewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/commentary_modelviewer.cpp
+END
+hud_basetimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_basetimer.h
+END
+animationlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/animationlayer.h
+END
+beamdraw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/beamdraw.cpp
+END
+physpropclientside.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/physpropclientside.cpp
+END
+fx_blood.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_blood.cpp
+END
+c_env_fog_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_env_fog_controller.h
+END
+c_te_muzzleflash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_muzzleflash.cpp
+END
+detailobjectsystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/detailobjectsystem.cpp
+END
+WaterLODMaterialProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/WaterLODMaterialProxy.cpp
+END
+particle_simple3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_simple3d.cpp
+END
+particlemgr.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particlemgr.cpp.bak
+END
+c_basedoor.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_basedoor.h
+END
+c_baseentity.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseentity.cpp.bak
+END
+view.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/view.cpp.bak
+END
+AnimateSpecificTextureProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/AnimateSpecificTextureProxy.cpp
+END
+c_te_particlesystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_particlesystem.h
+END
+c_particle_fire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_particle_fire.cpp
+END
+c_te_explosion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_explosion.cpp
+END
+viewpostprocess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/viewpostprocess.cpp
+END
+c_te_showline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_showline.cpp
+END
+vgui_int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_int.cpp
+END
+death.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/death.cpp
+END
+c_te_beamlaser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_beamlaser.cpp
+END
+clientshadowmgr.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientshadowmgr.cpp.bak
+END
+beamdraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/beamdraw.h
+END
+clientsideeffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientsideeffects.h
+END
+c_baseplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/client/c_baseplayer.cpp
+END
+c_physbox.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_physbox.cpp.bak
+END
+vgui_entityimagepanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_entityimagepanel.h
+END
+client_episodic-2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/client_episodic-2005.vcproj
+END
+iprofiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iprofiling.h
+END
+client_thinklist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/client_thinklist.cpp
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/menu.h
+END
+c_particle_system.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_particle_system.cpp
+END
+c_te_worlddecal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_worlddecal.cpp
+END
+iinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iinput.h
+END
+c_sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_sprite.h
+END
+in_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/in_main.h
+END
+c_hairball.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_hairball.cpp
+END
+viewdebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/viewdebug.cpp
+END
+physics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/physics.cpp
+END
+clientsideeffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientsideeffects.cpp
+END
+ifpspanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ifpspanel.h
+END
+simple_keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/simple_keys.h
+END
+c_team_objectiveresource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_team_objectiveresource.cpp
+END
+c_team.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_team.h
+END
+c_user_message_register.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_user_message_register.h
+END
+lerp_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/lerp_functions.h
+END
+rendertexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/rendertexture.cpp
+END
+cl_mat_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cl_mat_stub.h
+END
+client_episodic-2005.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/118/SourceCode/source/src/game/client/client_episodic-2005.vcxproj.filters
+END
+particles_simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_simple.h
+END
+c_smokestack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_smokestack.cpp
+END
+c_gib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_gib.h
+END
+c_env_projectedtexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/client/c_env_projectedtexture.cpp
+END
+c_plasma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_plasma.cpp
+END
+viewrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/127/SourceCode/source/src/game/client/viewrender.h
+END
+fontabc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fontabc.h
+END
+c_prop_vehicle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_prop_vehicle.cpp
+END
+hud_pdump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_pdump.cpp
+END
+viewangleanim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/viewangleanim.cpp
+END
+physics.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/physics.h
+END
+initializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/initializer.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/stdafx.cpp
+END
+c_entitydissolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_entitydissolve.h
+END
+c_te_sparks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_sparks.cpp
+END
+lamphaloproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/lamphaloproxy.cpp
+END
+c_gib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_gib.cpp
+END
+c_soundscape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_soundscape.cpp
+END
+C_MaterialModifyControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/C_MaterialModifyControl.cpp
+END
+vgui_consolepanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_consolepanel.cpp
+END
+c_hairball.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_hairball.cpp.bak
+END
+IsNPCProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/IsNPCProxy.cpp
+END
+fx_fleck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_fleck.cpp
+END
+hud_basedeathnotice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_basedeathnotice.cpp
+END
+initializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/initializer.cpp
+END
+message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/message.cpp
+END
+cdll_client_int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cdll_client_int.cpp
+END
+text_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/text_message.cpp
+END
+toolframework_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/toolframework_client.cpp
+END
+c17_optionspanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c17_optionspanel.h
+END
+kbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/kbutton.h
+END
+rendertexture.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/rendertexture.cpp.bak
+END
+c_recipientfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_recipientfilter.h
+END
+animatedentitytextureproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/animatedentitytextureproxy.cpp
+END
+menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/menu.cpp
+END
+c_props.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_props.cpp
+END
+iclientshadowmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iclientshadowmgr.h
+END
+toggletextureproxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/toggletextureproxy.h
+END
+movehelper_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/movehelper_client.h
+END
+c_tesla.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_tesla.cpp
+END
+c_ragdoll_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_ragdoll_manager.cpp
+END
+c_te_bloodsprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_bloodsprite.cpp
+END
+cdll_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cdll_util.h
+END
+simple_keys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/simple_keys.cpp
+END
+hud_chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_chat.h
+END
+commentary_modelviewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/commentary_modelviewer.h
+END
+particledraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particledraw.h
+END
+viewdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/viewdebug.h
+END
+spritemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/spritemodel.cpp
+END
+hud_basedeathnotice.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_basedeathnotice.h
+END
+c_te_glowsprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_glowsprite.cpp
+END
+c_physicsprop.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_physicsprop.h
+END
+hud_base_account.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_base_account.h
+END
+fx_interpvalue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_interpvalue.cpp
+END
+c_func_lod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_lod.cpp
+END
+TeamBitmapImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/TeamBitmapImage.h
+END
+c_te_beampoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_beampoints.cpp
+END
+c_te_energysplash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_energysplash.cpp
+END
+prediction_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/prediction_private.h
+END
+basepresence_xbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/basepresence_xbox.cpp
+END
+vgui_bitmapbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_bitmapbutton.cpp
+END
+fx_explosion.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_explosion.cpp.bak
+END
+warp_overlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/warp_overlay.cpp
+END
+c_vehicle_choreo_generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_vehicle_choreo_generic.cpp
+END
+fx_tracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_tracer.cpp
+END
+fx_shelleject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_shelleject.cpp
+END
+c_func_tracktrain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_tracktrain.cpp
+END
+mp3player.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/mp3player.h
+END
+c_func_conveyor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_conveyor.cpp
+END
+ViewConeImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ViewConeImage.cpp
+END
+imessagechars.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/imessagechars.h
+END
+c_te_legacytempents.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_legacytempents.h
+END
+c_prop_vehicle.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_prop_vehicle.h
+END
+weapons_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/weapons_resource.h
+END
+c_particle_smokegrenade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_particle_smokegrenade.cpp
+END
+c_fire_smoke.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_fire_smoke.h
+END
+vgui_bitmappanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_bitmappanel.h
+END
+c_slideshow_display.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_slideshow_display.h
+END
+c_te_basebeam.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_basebeam.h
+END
+c_baseanimating.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseanimating.cpp.bak
+END
+c_colorcorrectionvolume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_colorcorrectionvolume.cpp
+END
+hud_posture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_posture.cpp
+END
+c_lightglow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_lightglow.cpp
+END
+vgui_textmessagepanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_textmessagepanel.cpp
+END
+WorldDimsProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/WorldDimsProxy.cpp
+END
+c_rope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_rope.cpp
+END
+vgui_bitmapbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_bitmapbutton.h
+END
+thermalmaterialproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/thermalmaterialproxy.cpp
+END
+in_mouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/in_mouse.cpp
+END
+particles_attractor.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_attractor.h
+END
+fx_impact.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_impact.h
+END
+lampbeamproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/lampbeamproxy.cpp
+END
+cdll_bounded_cvars.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cdll_bounded_cvars.h
+END
+particles_localspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_localspace.h
+END
+vgui_netgraphpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_netgraphpanel.cpp
+END
+vgui_imagehealthpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_imagehealthpanel.cpp
+END
+weapons_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/weapons_resource.cpp
+END
+fx_water.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_water.h
+END
+c_baseplayer.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseplayer.cpp.bak
+END
+fx_fleck.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_fleck.h
+END
+icliententityinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/icliententityinternal.h
+END
+ViewConeImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ViewConeImage.h
+END
+particle_prototype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_prototype.cpp
+END
+bone_merge_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/bone_merge_cache.h
+END
+c_baseviewmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseviewmodel.h
+END
+c_physbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_physbox.cpp
+END
+hud_lcd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_lcd.cpp
+END
+movehelper_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/movehelper_client.cpp
+END
+toggletextureproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/toggletextureproxy.cpp
+END
+rendertexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/rendertexture.h
+END
+client_episodic-2005.vcproj.KYLE-Q6600.Kyle Gospodnetich.user
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/client_episodic-2005.vcproj.KYLE-Q6600.Kyle%20Gospodnetich.user
+END
+clientleafsystem.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientleafsystem.cpp.bak
+END
+fx_discreetline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_discreetline.cpp
+END
+interpolatedvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/interpolatedvar.h
+END
+view.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/view.h
+END
+c_basecombatcharacter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_basecombatcharacter.cpp
+END
+c_breakableprop.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_breakableprop.h
+END
+hudtexturehandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hudtexturehandle.h
+END
+viewpostprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/viewpostprocess.h
+END
+view_scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/view_scene.cpp
+END
+vgui_imagehealthpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_imagehealthpanel.h
+END
+fx_line.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_line.h
+END
+hltvcamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hltvcamera.h
+END
+fx_quad.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_quad.h
+END
+vgui_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_helpers.h
+END
+geiger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/geiger.cpp
+END
+interpolatedvar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/interpolatedvar.cpp
+END
+c_forcefeedback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_forcefeedback.cpp
+END
+hud_lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_lcd.h
+END
+fx_trail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_trail.cpp
+END
+c_te_beamspline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_beamspline.cpp
+END
+vgui_bitmapimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_bitmapimage.cpp
+END
+c_basecombatweapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/c_basecombatweapon.cpp
+END
+particle_proxies.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_proxies.cpp
+END
+fx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx.cpp
+END
+clientleafsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientleafsystem.h
+END
+c_smoke_trail.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_smoke_trail.h
+END
+view_beams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/view_beams.cpp
+END
+c17_optionspanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c17_optionspanel.cpp
+END
+idebugoverlaypanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/idebugoverlaypanel.h
+END
+c_world.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_world.cpp
+END
+c_fish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_fish.cpp
+END
+functionproxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/functionproxy.h
+END
+c_func_reflective_glass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_reflective_glass.cpp
+END
+fx_sparks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_sparks.cpp
+END
+c_func_dust.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_dust.h
+END
+c_te_projecteddecal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_projecteddecal.cpp
+END
+vgui_game_viewport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_game_viewport.cpp
+END
+detailobjectsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/detailobjectsystem.h
+END
+matrixproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/matrixproxy.cpp
+END
+c_te_bspdecal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_bspdecal.cpp
+END
+playerandobjectenumerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/playerandobjectenumerator.cpp
+END
+cliententitylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cliententitylist.h
+END
+tempent.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/tempent.h
+END
+c_physicsprop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_physicsprop.cpp
+END
+hud_msg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_msg.cpp
+END
+vgui_loadingdiscpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_loadingdiscpanel.cpp
+END
+c_func_areaportalwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_areaportalwindow.cpp
+END
+particles_new.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_new.cpp
+END
+baseanimatedtextureproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/baseanimatedtextureproxy.cpp
+END
+recvproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/recvproxy.cpp
+END
+vgui_game_viewport.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_game_viewport.h
+END
+ProxyHealth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ProxyHealth.cpp
+END
+history_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/history_resource.cpp
+END
+c_te_beamring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_beamring.cpp
+END
+particle_collision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_collision.cpp
+END
+c_te_beamentpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_beamentpoint.cpp
+END
+c_te_beamfollow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_beamfollow.cpp
+END
+achievement_notification_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/achievement_notification_panel.h
+END
+fx_line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_line.cpp
+END
+physics_main_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/physics_main_client.cpp
+END
+c_fire_smoke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_fire_smoke.cpp
+END
+in_joystick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/in_joystick.cpp
+END
+c_env_fog_controller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_env_fog_controller.cpp
+END
+clientmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientmode.h
+END
+clienteffectprecachesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clienteffectprecachesystem.cpp
+END
+c_rumble.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_rumble.h
+END
+hud_crosshair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_crosshair.cpp
+END
+hud_numericdisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_numericdisplay.h
+END
+c_basetempentity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_basetempentity.cpp
+END
+vgui_video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_video.cpp
+END
+c_team_train_watcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_team_train_watcher.cpp
+END
+client_episodic-2005.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/client_episodic-2005.vcxproj.user
+END
+fx_envelope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_envelope.cpp
+END
+c_baseanimatingoverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseanimatingoverlay.h
+END
+vgui_grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_grid.cpp
+END
+bone_merge_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/bone_merge_cache.cpp
+END
+TeamBitmapImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/TeamBitmapImage.cpp
+END
+hud_base_account.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_base_account.cpp
+END
+c_entitydissolve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_entitydissolve.cpp
+END
+c_te_beamringpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_beamringpoint.cpp
+END
+hud_weapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_weapon.cpp
+END
+c_pixel_visibility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_pixel_visibility.cpp
+END
+clientmode_normal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientmode_normal.cpp
+END
+hud_controlpointicons.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_controlpointicons.h
+END
+iviewrender_beams.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iviewrender_beams.h
+END
+c_baseflex.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseflex.h
+END
+perfvisualbenchmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/perfvisualbenchmark.h
+END
+c_env_projectedtexture.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_env_projectedtexture.cpp.bak
+END
+c_team_train_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_team_train_watcher.h
+END
+c_sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_sprite.cpp
+END
+c_playerlocaldata.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_playerlocaldata.h
+END
+smoke_fog_overlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/smoke_fog_overlay.cpp
+END
+c_playerresource.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_playerresource.h
+END
+c_te_playerdecal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_playerdecal.cpp
+END
+iclassmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iclassmap.h
+END
+c_test_proxytoggle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_test_proxytoggle.cpp
+END
+vgui_bitmappanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_bitmappanel.cpp
+END
+c_user_message_register.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_user_message_register.cpp
+END
+c_team.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_team.cpp
+END
+basepresence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/basepresence.cpp
+END
+client_factorylist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/client_factorylist.cpp
+END
+fx_blood.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_blood.h
+END
+c_te_decal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_decal.cpp
+END
+c_te_bloodstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_bloodstream.cpp
+END
+recvproxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/recvproxy.h
+END
+MonitorMaterialProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/MonitorMaterialProxy.cpp
+END
+timedevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/timedevent.h
+END
+hud_controlpointpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_controlpointpanel.cpp
+END
+c_vguiscreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_vguiscreen.cpp
+END
+c_steamjet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_steamjet.cpp
+END
+c_baseentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/c_baseentity.h
+END
+particlemgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particlemgr.h
+END
+splinepatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/splinepatch.h
+END
+vgui_avatarimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_avatarimage.h
+END
+vgui_entityimagepanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_entityimagepanel.cpp
+END
+client_episodic-2005.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/118/SourceCode/source/src/game/client/client_episodic-2005.vcxproj
+END
+c_baseplayer.h.bak
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseplayer.h.bak
+END
+ScreenSpaceEffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ScreenSpaceEffects.cpp
+END
+mathproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/mathproxy.cpp
+END
+weapon_selection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/weapon_selection.cpp
+END
+fx_sparks.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_sparks.h
+END
+c_te_physicsprop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_physicsprop.cpp
+END
+c_impact_effects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/c_impact_effects.cpp
+END
+clientmode_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientmode_shared.h
+END
+hud_basechat.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_basechat.h
+END
+c_basecombatcharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_basecombatcharacter.h
+END
+hltvcamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hltvcamera.cpp
+END
+ragdoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ragdoll.h
+END
+particlesphererenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particlesphererenderer.cpp
+END
+flashlighteffect.h.bak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/flashlighteffect.h.bak
+END
+particle_iterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_iterators.h
+END
+baseanimatedtextureproxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/baseanimatedtextureproxy.h
+END
+c_te_impact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_impact.cpp
+END
+c_te_effect_dispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_effect_dispatch.h
+END
+c_sun.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_sun.h
+END
+colorcorrectionmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/colorcorrectionmgr.cpp
+END
+fx_explosion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_explosion.cpp
+END
+glow_overlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/glow_overlay.h
+END
+gametrace_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/gametrace_client.cpp
+END
+voice_menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/voice_menu.cpp
+END
+c_vehicle_jeep.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_vehicle_jeep.h
+END
+c_sprite_perfmonitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_sprite_perfmonitor.cpp
+END
+c_sceneentity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_sceneentity.cpp
+END
+fx_staticline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_staticline.cpp
+END
+hud_element_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_element_helper.h
+END
+flashlighteffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/client/flashlighteffect.cpp
+END
+classmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/classmap.cpp
+END
+c_physbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_physbox.h
+END
+c_func_rotating.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_rotating.cpp
+END
+vgui_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_video.h
+END
+client_factorylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/client_factorylist.h
+END
+in_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/132/SourceCode/source/src/game/client/in_main.cpp
+END
+hud_basetimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_basetimer.cpp
+END
+animatedoffsettextureproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/animatedoffsettextureproxy.cpp
+END
+vgui_centerstringpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_centerstringpanel.cpp
+END
+fx_quad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_quad.cpp
+END
+c_slideshow_display.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_slideshow_display.cpp
+END
+ivieweffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ivieweffects.h
+END
+hud_animationinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_animationinfo.cpp
+END
+bonetoworldarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/bonetoworldarray.h
+END
+panelmetaclassmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/panelmetaclassmgr.cpp
+END
+particles_new.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_new.h
+END
+entityoriginmaterialproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/entityoriginmaterialproxy.cpp
+END
+flashlighteffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/flashlighteffect.h
+END
+c_baseanimating.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseanimating.h
+END
+hud_voicestatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_voicestatus.cpp
+END
+particle_litsmokeemitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_litsmokeemitter.h
+END
+viewrender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/viewrender.cpp
+END
+c_te_fizz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_fizz.cpp
+END
+proxyentity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/proxyentity.cpp
+END
+hud_squadstatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_squadstatus.cpp
+END
+ragdoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ragdoll.cpp
+END
+c_func_breakablesurf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_breakablesurf.cpp
+END
+functionproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/functionproxy.cpp
+END
+c_baseviewmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseviewmodel.cpp
+END
+iviewrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iviewrender.h
+END
+c_stickybolt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_stickybolt.cpp
+END
+camomaterialproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/camomaterialproxy.cpp
+END
+enginesprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/enginesprite.h
+END
+c_env_particlescript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_env_particlescript.cpp
+END
+c_func_reflective_glass.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_func_reflective_glass.h
+END
+c_basetempentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_basetempentity.h
+END
+c_te_dynamiclight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_dynamiclight.cpp
+END
+c_baseanimatingoverlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseanimatingoverlay.cpp
+END
+particlesphererenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particlesphererenderer.h
+END
+cliententitylist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cliententitylist.cpp
+END
+itextmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/itextmessage.h
+END
+panelmetaclassmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/panelmetaclassmgr.h
+END
+c_env_tonemap_controller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_env_tonemap_controller.cpp
+END
+c_tracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_tracer.cpp
+END
+vgui_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_grid.h
+END
+c_vehicle_jeep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_vehicle_jeep.cpp
+END
+hud_controlpointicons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_controlpointicons.cpp
+END
+c_te_clientprojectile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_clientprojectile.cpp
+END
+c_te_basebeam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_basebeam.cpp
+END
+vgui_basepanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_basepanel.h
+END
+c_recipientfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_recipientfilter.cpp
+END
+iclientvehicle.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iclientvehicle.h
+END
+vguicenterprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vguicenterprint.h
+END
+c_team_objectiveresource.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_team_objectiveresource.h
+END
+alphamaterialproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/alphamaterialproxy.cpp
+END
+c_playerresource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_playerresource.cpp
+END
+particles_attractor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_attractor.cpp
+END
+C_Env_Projected_Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/C_Env_Projected_Texture.h
+END
+fx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx.h
+END
+particle_collision.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_collision.h
+END
+c_baseviewmodel.cpp.bak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseviewmodel.cpp.bak
+END
+c_tracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_tracer.h
+END
+hud_bitmapnumericdisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_bitmapnumericdisplay.h
+END
+c_te_killplayerattachments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_killplayerattachments.cpp
+END
+c_baseplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseplayer.h
+END
+fx_interpvalue.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_interpvalue.h
+END
+texturescrollmaterialproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/texturescrollmaterialproxy.cpp
+END
+playerenumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/playerenumerator.h
+END
+c_baseanimating.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/c_baseanimating.cpp
+END
+basepresence.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/basepresence.h
+END
+particle_litsmokeemitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_litsmokeemitter.cpp
+END
+c_te_effect_dispatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_effect_dispatch.cpp
+END
+vgui_slideshow_display_screen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_slideshow_display_screen.cpp
+END
+timematerialproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/timematerialproxy.cpp
+END
+iconsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iconsole.h
+END
+ihudlcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/ihudlcd.h
+END
+c_movie_explosion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_movie_explosion.cpp
+END
+c_te_bubbletrail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te_bubbletrail.cpp
+END
+vgui_entitypanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_entitypanel.h
+END
+proxypupil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/proxypupil.cpp
+END
+cl_mat_stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cl_mat_stub.cpp
+END
+physpropclientside.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/physpropclientside.h
+END
+iloadingdisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/iloadingdisc.h
+END
+particle_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particle_util.h
+END
+fx_impact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/fx_impact.cpp
+END
+cdll_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/cdll_util.cpp
+END
+c_dynamiclight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_dynamiclight.cpp
+END
+c_tesla.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_tesla.h
+END
+c_basecombatweapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_basecombatweapon.h
+END
+vgui_basepanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/vgui_basepanel.cpp
+END
+hud_numericdisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_numericdisplay.cpp
+END
+c_rumble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_rumble.cpp
+END
+particles_ez.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/particles_ez.h
+END
+c_baseentity.cpp.bak.bak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_baseentity.cpp.bak.bak
+END
+hud_crosshair.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_crosshair.h
+END
+c_colorcorrection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_colorcorrection.cpp
+END
+view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/view.cpp
+END
+in_camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/in_camera.cpp
+END
+hud.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud.cpp
+END
+c_physmagnet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_physmagnet.cpp
+END
+c_effects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_effects.cpp
+END
+hud_hintdisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_hintdisplay.cpp
+END
+clientshadowmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/clientshadowmgr.cpp
+END
+toolframework_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/toolframework_client.h
+END
+c_point_commentary_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_point_commentary_node.cpp
+END
+weapon_selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/weapon_selection.h
+END
+c_te.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_te.cpp
+END
+fx_cube.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/fx_cube.cpp
+END
+EffectsClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/game/client/EffectsClient.cpp
+END
+hud_vehicle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/hud_vehicle.cpp
+END
+c_weapon__stubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_weapon__stubs.h
+END
+clientsideeffects_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/clientsideeffects_test.cpp
+END
+c_impact_effects.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_impact_effects.h
+END
+c_ai_basenpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/c_ai_basenpc.h
+END

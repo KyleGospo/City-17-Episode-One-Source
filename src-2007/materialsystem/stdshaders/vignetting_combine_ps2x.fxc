@@ -1,0 +1,22 @@
+#include "common_ps_fxc.h"
+
+sampler sceneSampler	: register( s0 );
+sampler vignetSampler	: register( s1 );
+
+const float	VignetStrength	: register( c0 );
+
+struct VS_OUTPUT
+{
+   	float4 Position   : POSITION;
+    float2 TexCoord0  : TEXCOORD0;
+};
+
+half4 main(VS_OUTPUT IN) : COLOR
+{   
+	half4 base = tex2D(sceneSampler, IN.TexCoord0);
+	half4 result = base;
+	half4 vignet = tex2D(vignetSampler, IN.TexCoord0);
+	result.rgb*=lerp(vignet.rgb,(1,1,1),1-VignetStrength);
+
+	return result;
+}

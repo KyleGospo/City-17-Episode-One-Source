@@ -1,0 +1,2015 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/129/SourceCode/source/src/materialsystem/stdshaders
+END
+SDK_eye_refract_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eye_refract_vs20.fxc
+END
+SDK_lightmappedgeneric_lightingonly_overbright2_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_lightingonly_overbright2_ps11.fxc
+END
+stdshader_dx9-2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2010.vcxproj.filters
+END
+SDK_lightmappedgeneric_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_ps2x.fxc
+END
+lightmappedadv_flashlight_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedadv_flashlight_ps2x.fxc
+END
+SDK_WorldVertexTransition_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition_vs20.fxc
+END
+chromatic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/chromatic.cpp
+END
+SDK_lightmappedgeneric_selfilluminatedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_selfilluminatedenvmap.psh
+END
+SDK_vertexlitgeneric_detailselfilluminatedmaskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_detailselfilluminatedmaskedenvmap.psh
+END
+SDK_vertexlitgeneric_vs11.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_vs11.vsh
+END
+SDK_Eyes_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_Eyes_vs20.fxc
+END
+SDK_WorldVertexTransition_ps14.psh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition_ps14.psh
+END
+SDK_VertexLitGeneric_EnvMapNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_EnvMapNoTexture.psh
+END
+sun_shafts_ps30.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/sun_shafts_ps30.fxc
+END
+SDK_teeth_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_teeth_vs20.fxc
+END
+SDK_UnlitTwoTexture.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitTwoTexture.vsh
+END
+eye_refract_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eye_refract_helper.cpp
+END
+SDK_teeth_flashlight_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_teeth_flashlight_ps2x.fxc
+END
+SDK_UnlitGeneric_LightingOnly.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_LightingOnly.vsh
+END
+worldvertextransition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/worldvertextransition.cpp
+END
+SDK_refract_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/SDK_refract_ps2x.fxc
+END
+SDK_spritecard_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_spritecard_ps11.fxc
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/clean.bat
+END
+common_pragmas.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/common_pragmas.h
+END
+emissive_scroll_blended_pass_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/emissive_scroll_blended_pass_helper.h
+END
+SDK_eyes_flashlight2_ps11.psh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyes_flashlight2_ps11.psh
+END
+teeth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/teeth.cpp
+END
+SDK_LightmappedGeneric_BumpmappedLightmap_base_ps14.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedLightmap_base_ps14.vsh
+END
+stdshader_dx9-2008.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2008.ncb
+END
+SDK_Eyes.psh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_Eyes.psh
+END
+stdshader_dx9-2010.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2010.sdf
+END
+SDK_VertexLitGeneric_DetailSelfIlluminated.psh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_DetailSelfIlluminated.psh
+END
+SDK_WorldTwoTextureBlend.psh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldTwoTextureBlend.psh
+END
+SDK_lightmappedgeneric_basetextureblend.psh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_basetextureblend.psh
+END
+SDK_vertexlitgeneric_maskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_maskedenvmap.psh
+END
+SDK_flashlight_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_flashlight_ps11.fxc
+END
+SDK_vertexlit_and_unlit_generic_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlit_and_unlit_generic_vs20.fxc
+END
+SDK_eyeglint_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyeglint_vs20.fxc
+END
+lightmappedgeneric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/lightmappedgeneric.cpp
+END
+SDK_VertexLitGeneric_EnvmappedBumpmapV2_ps14.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_EnvmappedBumpmapV2_ps14.psh
+END
+SDK_LightmappedGeneric_BumpmappedEnvmap_ps14.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedEnvmap_ps14.psh
+END
+SDK_lightmappedgeneric_decal_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_decal_vs20.fxc
+END
+SDK_cloak_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_cloak_vs20.fxc
+END
+SDK_WorldVertexAlpha.psh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexAlpha.psh
+END
+vertexlitgeneric_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/vertexlitgeneric_dx9.cpp
+END
+SDK_LightmappedGeneric_BumpmappedLightmap.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedLightmap.vsh
+END
+common_hlsl_cpp_consts.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/common_hlsl_cpp_consts.h
+END
+core_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/materialsystem/stdshaders/core_dx9.cpp
+END
+SDK_eyes_flashlight_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyes_flashlight_ps11.fxc
+END
+flesh_interior_blended_pass_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/flesh_interior_blended_pass_helper.cpp
+END
+SDK_emissive_scroll_blended_pass_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_emissive_scroll_blended_pass_ps2x.fxc
+END
+SDK_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.psh
+END
+SDK_WorldTwoTextureBlend_SelfIlluminated.psh
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldTwoTextureBlend_SelfIlluminated.psh
+END
+SDK_lightmappedgeneric_vs11.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_vs11.vsh
+END
+skin_dx9_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/skin_dx9_helper.cpp
+END
+SDK_vertexlit_lighting_only_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlit_lighting_only_ps2x.fxc
+END
+nudels_blurframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/128/SourceCode/source/src/materialsystem/stdshaders/nudels_blurframe.cpp
+END
+SDK_WaterCheap_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WaterCheap_ps2x.fxc
+END
+SDK_UnlitGeneric.psh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric.psh
+END
+SDK_UnlitGeneric_DetailNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_DetailNoTexture.psh
+END
+SDK_lightmappedgeneric_selfilluminatedmaskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_selfilluminatedmaskedenvmap.psh
+END
+SDK_unlitgeneric_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_vs20.fxc
+END
+filelistgen.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/filelistgen.txt
+END
+SDK_aftershock_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_aftershock_ps2x.fxc
+END
+SDK_VertexLitGeneric_MaskedEnvMapNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_MaskedEnvMapNoTexture.psh
+END
+stdshader_dx9-2010.suo
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2010.suo
+END
+SDK_VertexLitGeneric_SelfIlluminatedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_SelfIlluminatedEnvMapV2.psh
+END
+SDK_vertexlit_and_unlit_generic_bump_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlit_and_unlit_generic_bump_ps2x.fxc
+END
+SDK_unlittwotexture_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlittwotexture_ps2x.fxc
+END
+SDK_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.psh
+END
+chromatic_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/chromatic_ps2x.fxc
+END
+SDK_vertexlitgeneric_detailenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_detailenvmap.psh
+END
+SDK_LightmappedGeneric_BumpmappedLightmap_blend_ps14.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedLightmap_blend_ps14.vsh
+END
+SDK_flesh_interior_blended_pass_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_flesh_interior_blended_pass_vs20.fxc
+END
+UpgradeLog3.XML
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/UpgradeLog3.XML
+END
+SDK_UnlitGeneric_DetailEnvMap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_DetailEnvMap.psh
+END
+aftershock_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/aftershock_helper.h
+END
+SDK_VertexLitGeneric_DetailEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_DetailEnvMapV2.psh
+END
+lightmappedgeneric_ps2_3_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedgeneric_ps2_3_x.h
+END
+SDK_vortwarp_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vortwarp_ps2x.fxc
+END
+SDK_lightmappedgeneric_maskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_maskedenvmap.psh
+END
+SDK_eyes_flashlight_inc.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyes_flashlight_inc.fxc
+END
+emissive_scroll_blended_pass_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/emissive_scroll_blended_pass_helper.cpp
+END
+SDK_cloak_blended_pass_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_cloak_blended_pass_vs20.fxc
+END
+SDK_teeth_bump_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_teeth_bump_ps2x.fxc
+END
+SDK_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.psh
+END
+SDK_spritecard_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/SDK_spritecard_ps2x.fxc
+END
+makefile.stdshader_dx9_20b.copy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/makefile.stdshader_dx9_20b.copy
+END
+unlittwotexture_inc.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/unlittwotexture_inc.vsh
+END
+SDK_UnlitGeneric_NoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_NoTexture.psh
+END
+SDK_UnlitTwoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitTwoTexture.psh
+END
+cloak_dx9_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/cloak_dx9_helper.h
+END
+SDK_emissive_scroll_blended_pass_dx8_vs11.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_emissive_scroll_blended_pass_dx8_vs11.vsh
+END
+SDK_lightmappedreflective_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedreflective_ps2x.fxc
+END
+water.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/water.cpp
+END
+common_vertexlitgeneric_dx9.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/common_vertexlitgeneric_dx9.h
+END
+SDK_UnlitGeneric_MaskBaseByDetailAlpha_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_MaskBaseByDetailAlpha_ps11.fxc
+END
+SDK_vertexlitgeneric_basealphamaskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_basealphamaskedenvmap.psh
+END
+SDK_lightmappedgeneric_lightingonly_vs11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_lightingonly_vs11.fxc
+END
+SDK_VertexLitGeneric_Detail_LerpBase.psh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_Detail_LerpBase.psh
+END
+buildshaders.bat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/buildshaders.bat
+END
+common_ps_fxc.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/common_ps_fxc.h
+END
+cloak_blended_pass_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/cloak_blended_pass_helper.h
+END
+SDK_flashlight_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_flashlight_ps2x.fxc
+END
+spritecard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/spritecard.cpp
+END
+SDK_LightmappedGeneric_BumpmappedLightmap_base_ps14.psh
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedLightmap_base_ps14.psh
+END
+stdshader_dx9-2008.sln
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2008.sln
+END
+SDK_LightmappedGeneric_LightingOnly_Overbright2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_LightingOnly_Overbright2.psh
+END
+SDK_WorldTwoTextureBlend_DetailAlpha.psh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldTwoTextureBlend_DetailAlpha.psh
+END
+SDK_skin_ps20b.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_skin_ps20b.fxc
+END
+SDK_lightmappedgeneric_flashlight_vs11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_flashlight_vs11.fxc
+END
+vertexlitgeneric_dx9_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/vertexlitgeneric_dx9_helper.h
+END
+SDK_VertexLitGeneric_DetailMaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_DetailMaskedEnvMapV2.psh
+END
+lightmappedgeneric_dx9_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedgeneric_dx9_helper.h
+END
+SDK_eyes_flashlight_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyes_flashlight_ps2x.fxc
+END
+SDK_UnlitGeneric_EnvMapNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_EnvMapNoTexture.psh
+END
+vignetting_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/vignetting_vs20.fxc
+END
+emissive_scroll_blended_pass_dx8_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/emissive_scroll_blended_pass_dx8_helper.cpp
+END
+SDK_vertexlitgeneric_lightingonly_overbright2_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_lightingonly_overbright2_ps11.fxc
+END
+unlittwotexture_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/unlittwotexture_dx9.cpp
+END
+cloak_blended_pass_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/cloak_blended_pass_helper.cpp
+END
+common_fxc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/common_fxc.h
+END
+SDK_VertexLitGeneric_MaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_MaskedEnvMapV2.psh
+END
+SDK_LightmappedGeneric_MultiplyByLightingSelfIllum.psh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_MultiplyByLightingSelfIllum.psh
+END
+SDK_LightmappedGeneric_Decal.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_Decal.vsh
+END
+nudels_blurframe_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/128/SourceCode/source/src/materialsystem/stdshaders/nudels_blurframe_ps2x.fxc
+END
+SDK_vertexlitgeneric_selfilluminatedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_selfilluminatedenvmap.psh
+END
+SDK_LightmappedGeneric_BumpmappedLightmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedLightmap.psh
+END
+stdshader_dx9_20b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/129/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9_20b.txt
+END
+SDK_UnlitGeneric_DetailEnvMapNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_DetailEnvMapNoTexture.psh
+END
+SDK_lightmappedgeneric_flashlight_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_flashlight_vs20.fxc
+END
+SDK_VertexLitGeneric_EnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_EnvMapV2.psh
+END
+stdshader_dx9-2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2005.vcproj
+END
+sun_shafts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/133/SourceCode/source/src/materialsystem/stdshaders/sun_shafts.cpp
+END
+SDK_WorldVertexTransition.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition.vsh
+END
+SDK_cable_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_cable_vs20.fxc
+END
+SDK_VertexLitGeneric_SelfIllumOnly.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_SelfIllumOnly.vsh
+END
+SDK_screenspaceeffect_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_screenspaceeffect_vs20.fxc
+END
+SDK_vertexlitgeneric_flashlight_vs11.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_flashlight_vs11.vsh
+END
+SDK_worldtwotextureblend_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_worldtwotextureblend_ps2x.fxc
+END
+SDK_UnlitGeneric_EnvMapMask.psh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_EnvMapMask.psh
+END
+vcslist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/vcslist.txt
+END
+SDK_bloomadd_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_bloomadd_ps11.fxc
+END
+SDK_UnlitGeneric_DetailEnvMapMaskNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_DetailEnvMapMaskNoTexture.psh
+END
+refract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/refract.cpp
+END
+screenspace_general.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/screenspace_general.cpp
+END
+aftershock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/aftershock.cpp
+END
+SDK_WorldVertexTransition_vs14.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition_vs14.vsh
+END
+SDK_unlitgeneric_inc.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_inc.vsh
+END
+inclist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/inclist.txt
+END
+SDK_LightmappedGeneric_MultiplyByLightingNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_MultiplyByLightingNoTexture.psh
+END
+SDK_core_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_core_ps2x.fxc
+END
+SDK_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vsh
+END
+eyes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eyes.cpp
+END
+SDK_WorldVertexAlpha_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexAlpha_ps2x.fxc
+END
+lightmappedreflective.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedreflective.cpp
+END
+cloak_dx9_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/cloak_dx9_helper.cpp
+END
+SDK_VertexLitGeneric_Detail.psh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_Detail.psh
+END
+SDK_LightmappedGeneric_BumpmappedLightmap_blend_ps14.psh
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedLightmap_blend_ps14.psh
+END
+stdshader_dx9-2008.vcproj.KYLE-Q6600.Kyle Gospodnetich.user
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2008.vcproj.KYLE-Q6600.Kyle%20Gospodnetich.user
+END
+worldvertextransition_dx8_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/worldvertextransition_dx8_helper.cpp
+END
+lightmappedadv_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/lightmappedadv_helper.cpp
+END
+eyes_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eyes_dx9.cpp
+END
+commandbuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/commandbuilder.h
+END
+SDK_unlitgeneric_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_ps11.fxc
+END
+UpgradeLog4.XML
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/UpgradeLog4.XML
+END
+eye_refract_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eye_refract_helper.h
+END
+genwaterloop.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/genwaterloop.pl
+END
+SDK_Refract_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_Refract_vs20.fxc
+END
+SDK_vertexlitgeneric_lightingonly_overbright2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_lightingonly_overbright2.psh
+END
+makefile.stdshader_dx9_30
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/makefile.stdshader_dx9_30
+END
+SDK_eye_refract_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eye_refract_ps2x.fxc
+END
+SDK_eyes_flashlight_vs11.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyes_flashlight_vs11.vsh
+END
+SDK_lightmappedgeneric_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_vs20.fxc
+END
+lightmappedadv_flashlight_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedadv_flashlight_vs20.fxc
+END
+SDK_LightmappedGeneric_VertexColor.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_VertexColor.vsh
+END
+SDK_UnlitGeneric_DetailEnvMapMask.psh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_DetailEnvMapMask.psh
+END
+dx8fallbacks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/dx8fallbacks.cpp
+END
+Bloom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/Bloom.cpp
+END
+SDK_WorldVertexTransition_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition_ps2x.fxc
+END
+SDK_LightmappedGeneric_NoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_NoTexture.psh
+END
+SDK_teeth_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_teeth_ps2x.fxc
+END
+worldvertextransition_dx8_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/worldvertextransition_dx8_helper.h
+END
+SDK_teeth_flashlight_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_teeth_flashlight_vs20.fxc
+END
+SDK_unlitgeneric_lightingonly_vs11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_lightingonly_vs11.fxc
+END
+SDK_vertexlitgeneric_selfilluminatedmaskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_selfilluminatedmaskedenvmap.psh
+END
+SDK_LightmappedGeneric_BaseTextureBlend.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BaseTextureBlend.vsh
+END
+filestocopy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/filestocopy.txt
+END
+SDK_lightmappedgeneric_multiplybylightingbasenotexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_multiplybylightingbasenotexture.psh
+END
+SDK_water_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/SDK_water_ps2x.fxc
+END
+SDK_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.psh
+END
+SDK_LightmappedGeneric_AddEnvMapNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_AddEnvMapNoTexture.psh
+END
+common_flashlight_fxc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/common_flashlight_fxc.h
+END
+SDK_VertexLitGeneric_Detail_additive_selfillum.psh
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_Detail_additive_selfillum.psh
+END
+SDK_lightmappedgeneric_inc.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_inc.vsh
+END
+stdshader_dx9_30.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9_30.txt
+END
+SDK_LightmappedGeneric_DetailNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_DetailNoTexture.psh
+END
+SDK_LightmappedGeneric.psh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric.psh
+END
+eyeglint_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eyeglint_dx9.cpp
+END
+SDK_LightmappedGeneric_MaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_MaskedEnvMapV2.psh
+END
+BaseVSShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/BaseVSShader.cpp
+END
+SDK_eyes_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyes_ps2x.fxc
+END
+SDK_LightmappedGeneric_EnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_EnvMapV2.psh
+END
+uniquefilestocopy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/uniquefilestocopy.txt
+END
+SDK_LightmappedGeneric_BaseTexture.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BaseTexture.vsh
+END
+SDK_vertexlit_and_unlit_generic_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlit_and_unlit_generic_ps2x.fxc
+END
+SDK_eyeglint_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyeglint_ps2x.fxc
+END
+skin_dx9_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/skin_dx9_helper.h
+END
+SDK_bloomadd_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_bloomadd_ps2x.fxc
+END
+SDK_LightmappedGeneric_Decal.psh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_Decal.psh
+END
+SDK_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.psh
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.psh
+END
+SDK_lightmappedgeneric_decal_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_decal_ps2x.fxc
+END
+stdshader_dx9-2010.sln
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2010.sln
+END
+SDK_writevertexalphatodestalpha_vs11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_writevertexalphatodestalpha_vs11.fxc
+END
+SDK_UnlitGeneric_EnvMapMaskNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_EnvMapMaskNoTexture.psh
+END
+SDK_cloak_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_cloak_ps2x.fxc
+END
+SDK_LightmappedGeneric_SelfIlluminated.psh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_SelfIlluminated.psh
+END
+worldtwotextureblend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/worldtwotextureblend.cpp
+END
+filelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/filelist.txt
+END
+common_lightmappedgeneric_fxc.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/common_lightmappedgeneric_fxc.h
+END
+refract_dx9_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/refract_dx9_helper.cpp
+END
+lightmappedtwotexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedtwotexture.cpp
+END
+SDK_WorldVertexTransition.psh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition.psh
+END
+SDK_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.psh
+END
+SDK_VertexLitGeneric_SelfIllumOnly.psh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_SelfIllumOnly.psh
+END
+SDK_LightmappedGeneric_SSBumpmappedLightmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_SSBumpmappedLightmap.psh
+END
+makefile.stdshader_dx9_30.copy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/makefile.stdshader_dx9_30.copy
+END
+SDK_WorldVertexTransition_Seamless.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition_Seamless.vsh
+END
+SDK_splinecard_vsxx.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_splinecard_vsxx.fxc
+END
+SDK_vertexlitgeneric_detailbasealphamaskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_detailbasealphamaskedenvmap.psh
+END
+SDK_skin_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_skin_vs20.fxc
+END
+SDK_emissive_scroll_blended_pass_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_emissive_scroll_blended_pass_vs20.fxc
+END
+BaseVSShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/BaseVSShader.h
+END
+lightmappedgeneric_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/lightmappedgeneric_dx9.cpp
+END
+SDK_Bloom_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_Bloom_ps2x.fxc
+END
+SDK_LightmappedGeneric_MultiplyByLighting.psh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_MultiplyByLighting.psh
+END
+SDK_LightmappedGeneric_Detail.psh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_Detail.psh
+END
+SDK_VertexLitGeneric_Detail_additive.psh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_Detail_additive.psh
+END
+cable_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/cable_dx9.cpp
+END
+SDK_WaterCheap_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WaterCheap_vs20.fxc
+END
+SDK_aftershock_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_aftershock_vs20.fxc
+END
+SDK_vertexlitgeneric_envmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_envmap.psh
+END
+SDK_unlitgeneric_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_ps2x.fxc
+END
+stdshader_dx9-2010.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2010.vcproj
+END
+SDK_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.psh
+END
+SDK_vertexlit_and_unlit_generic_bump_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlit_and_unlit_generic_bump_vs20.fxc
+END
+SDK_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vsh
+END
+stdshader_dx9-2008.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2008.vcproj
+END
+SDK_WorldVertexTransition_Editor.psh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition_Editor.psh
+END
+SDK_unlittwotexture_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlittwotexture_vs20.fxc
+END
+chromatic_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/chromatic_vs20.fxc
+END
+flesh_interior_blended_pass_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/flesh_interior_blended_pass_helper.h
+END
+SDK_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.psh
+END
+SDK_vertexlitgeneric_detailselfilluminatedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_detailselfilluminatedenvmap.psh
+END
+SDK_LightmappedGeneric_EnvMapNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_EnvMapNoTexture.psh
+END
+SDK_flesh_interior_blended_pass_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_flesh_interior_blended_pass_ps2x.fxc
+END
+SDK_LightmappedGeneric_BumpmappedEnvmap.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedEnvmap.vsh
+END
+SDK_vortwarp_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vortwarp_vs20.fxc
+END
+stdshader_dx9-2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2010.vcxproj
+END
+vertexlitgeneric_dx95_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/vertexlitgeneric_dx95_helper.h
+END
+NIL
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/124/SourceCode/source/src/materialsystem/stdshaders/NIL
+END
+SDK_teeth_bump_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_teeth_bump_vs20.fxc
+END
+vertexlitgeneric_dx9_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/vertexlitgeneric_dx9_helper.cpp
+END
+UpgradeLog.XML
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/UpgradeLog.XML
+END
+SDK_cloak_blended_pass_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_cloak_blended_pass_ps2x.fxc
+END
+SDK_unlitgeneric_notexture_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_notexture_ps11.fxc
+END
+SDK_vertexlitgeneric_detailmaskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_detailmaskedenvmap.psh
+END
+lightmappedgeneric_dx9_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedgeneric_dx9_helper.cpp
+END
+SDK_lightmappedreflective_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedreflective_vs20.fxc
+END
+eyes_dx8_dx9_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eyes_dx8_dx9_helper.h
+END
+stdshader_dx9-2005 - Copy.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2005%20-%20Copy.vcproj
+END
+SDK_LightmappedGeneric_DetailSelfIlluminated.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_DetailSelfIlluminated.psh
+END
+SDK_WorldVertexTransition_BlendBase2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition_BlendBase2.psh
+END
+lightmappedadv_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedadv_helper.h
+END
+SDK_lightmappedgeneric_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_ps11.fxc
+END
+vortwarp_vs20_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/vortwarp_vs20_helper.h
+END
+water_ps2x_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/water_ps2x_helper.h
+END
+makefile.stdshader_dx9_20b
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/makefile.stdshader_dx9_20b
+END
+SDK_VertexLitGeneric_NoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_NoTexture.psh
+END
+SDK_lightmappedgeneric_envmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_envmap.psh
+END
+eyes_dx8_dx9_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eyes_dx8_dx9_helper.cpp
+END
+stdshader_dx9-2010.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2010.vcxproj.user
+END
+eyeball.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eyeball.cpp
+END
+SDK_LightmappedGeneric_AddEnvMapMaskNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_AddEnvMapMaskNoTexture.psh
+END
+refract_dx9_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/refract_dx9_helper.h
+END
+SDK_LightmappedGeneric_BaseTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BaseTexture.psh
+END
+SDK_unlitgeneric_vs11.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_vs11.vsh
+END
+SDK_eyes_flashlight_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyes_flashlight_vs20.fxc
+END
+lightmappedgeneric_decal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedgeneric_decal.cpp
+END
+shader_constant_register_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/shader_constant_register_map.h
+END
+SDK_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.psh
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.psh
+END
+lightmappedadv_flashlight_2x3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/lightmappedadv_flashlight_2x3.txt
+END
+vignetting_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/vignetting_ps2x.fxc
+END
+worldvertexalpha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/worldvertexalpha.cpp
+END
+SDK_VertexLitGeneric.psh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric.psh
+END
+SDK_VertexLitGeneric_DetailNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_DetailNoTexture.psh
+END
+SDK_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.psh
+END
+SDK_LightmappedGeneric_LightingOnly.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_LightingOnly.vsh
+END
+nudels_blurframe_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/nudels_blurframe_vs20.fxc
+END
+SDK_LightmappedGeneric_BumpmappedEnvmap_ps14.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedEnvmap_ps14.vsh
+END
+macros.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/macros.vsh
+END
+SDK_WorldVertexTransition_Seamless.psh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexTransition_Seamless.psh
+END
+SDK_emissive_scroll_blended_pass_dx8_ps11.psh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_emissive_scroll_blended_pass_dx8_ps11.psh
+END
+SDK_UnlitGeneric_EnvMap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_EnvMap.psh
+END
+SDK_WorldVertexAlpha.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_WorldVertexAlpha.vsh
+END
+unlitgeneric_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/unlitgeneric_dx9.cpp
+END
+SDK_LightmappedGeneric_MaskedEnvMapNoTexture.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_MaskedEnvMapNoTexture.psh
+END
+cleantemps.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/cleantemps.bat
+END
+stdshader_dx9-2008.suo
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/stdshader_dx9-2008.suo
+END
+SDK_cable_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_cable_ps2x.fxc
+END
+SDK_eyes.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_eyes.vsh
+END
+SDK_LightmappedGeneric_SelfIlluminatedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_SelfIlluminatedEnvMapV2.psh
+END
+SDK_spritecard_vsxx.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_spritecard_vsxx.fxc
+END
+aftershock_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/aftershock_helper.cpp
+END
+SDK_vertexlitgeneric_inc.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_vertexlitgeneric_inc.vsh
+END
+SDK_VertexLitGeneric_SelfIlluminated.psh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_SelfIlluminated.psh
+END
+buildsdkshaders.bat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/city17_source/!svn/ver/124/SourceCode/source/src/materialsystem/stdshaders/buildsdkshaders.bat
+END
+SDK_lightmappedgeneric_basealphamaskedenvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_basealphamaskedenvmap.psh
+END
+SDK_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.psh
+END
+SDK_core_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_core_vs20.fxc
+END
+common_vs_fxc.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/common_vs_fxc.h
+END
+vortwarp_dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/vortwarp_dx9.cpp
+END
+SDK_unlitgeneric_notexture_ps2x.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_notexture_ps2x.fxc
+END
+SDK_unlitgeneric_basetimesdetail.psh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_unlitgeneric_basetimesdetail.psh
+END
+SDK_UnlitGeneric_Detail.psh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_Detail.psh
+END
+SDK_LightmappedGeneric_BumpmappedEnvmap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_LightmappedGeneric_BumpmappedEnvmap.psh
+END
+SDK_VertexLitGeneric_EnvmappedBumpmapV2.psh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_VertexLitGeneric_EnvmappedBumpmapV2.psh
+END
+cpp_shader_constant_register_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/cpp_shader_constant_register_map.h
+END
+SDK_lightmappedgeneric_multiplybylightingbasealphamaskedselfillum.psh
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_lightmappedgeneric_multiplybylightingbasealphamaskedselfillum.psh
+END
+eye_refract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/eye_refract.cpp
+END
+UpgradeLog2.XML
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/UpgradeLog2.XML
+END
+lightmappedadv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/134/SourceCode/source/src/materialsystem/stdshaders/lightmappedadv.cpp
+END
+SDK_writevertexalphatodestalpha_ps11.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_writevertexalphatodestalpha_ps11.fxc
+END
+SDK_Water_vs20.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_Water_vs20.fxc
+END
+SDK_UnlitGeneric_BaseAlphaMaskedEnvMap.psh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/materialsystem/stdshaders/SDK_UnlitGeneric_BaseAlphaMaskedEnvMap.psh
+END

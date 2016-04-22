@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0
+END
+progressbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/progressbar.h
+END
+memalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/memalloc.h
+END
+wchartypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/wchartypes.h
+END
+systeminformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/systeminformation.h
+END
+dbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/dbg.h
+END
+fasttimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/fasttimer.h
+END
+vcrmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/vcrmode.h
+END
+l2cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/l2cache.h
+END
+protected_things.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/protected_things.h
+END
+testthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/testthread.h
+END
+valve_off.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/valve_off.h
+END
+pmc360.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/pmc360.h
+END
+PMELib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/PMELib.h
+END
+EventModes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/EventModes.h
+END
+xbox_codeline_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/xbox_codeline_defines.h
+END
+EventMasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/EventMasks.h
+END
+vcr_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/vcr_shared.h
+END
+tslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/tslist.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/platform.h
+END
+validator.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/validator.h
+END
+ia32detect.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/ia32detect.h
+END
+vprof.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/vprof.h
+END
+commonmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/commonmacros.h
+END
+P5P6PerformanceCounters.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/P5P6PerformanceCounters.h
+END
+basetypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/basetypes.h
+END
+icommandline.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/icommandline.h
+END
+afxmem_override.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/afxmem_override.cpp
+END
+valobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/valobject.h
+END
+memoverride.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/memoverride.cpp
+END
+valve_on.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/valve_on.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/mem.h
+END
+valve_minmax_off.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/valve_minmax_off.h
+END
+minidump.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/minidump.h
+END
+valve_minmax_on.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/valve_minmax_on.h
+END
+memdbgoff.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/memdbgoff.h
+END
+dbgflag.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/dbgflag.h
+END
+K8PerformanceCounters.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/K8PerformanceCounters.h
+END
+threadtools.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/threadtools.h
+END
+memdbgon.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/memdbgon.h
+END
+IOCTLCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/IOCTLCodes.h
+END
+P4PerformanceCounters.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public/tier0/P4PerformanceCounters.h
+END

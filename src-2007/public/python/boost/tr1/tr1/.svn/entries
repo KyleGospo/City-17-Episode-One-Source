@@ -1,0 +1,301 @@
+10
+
+dir
+0
+https://kyle-q6600/svn/city17_source/SourceCode/source/src/public/python/boost/tr1/tr1
+https://kyle-q6600/svn/city17_source
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+788d6a98-827f-9b4f-afa2-376c1abb2583
+
+valarray
+file
+
+
+
+add
+
+iostream
+file
+
+
+
+add
+
+algorithm
+file
+
+
+
+add
+
+tuple
+file
+
+
+
+add
+
+bcc32
+dir
+
+
+
+add
+
+iomanip
+file
+
+
+
+add
+
+typeinfo
+file
+
+
+
+add
+
+exception
+file
+
+
+
+add
+
+locale
+file
+
+
+
+add
+
+numeric
+file
+
+
+
+add
+
+vector
+file
+
+
+
+add
+
+stdexcept
+file
+
+
+
+add
+
+deque
+file
+
+
+
+add
+
+utility
+file
+
+
+
+add
+
+type_traits
+file
+
+
+
+add
+
+memory
+file
+
+
+
+add
+
+regex
+file
+
+
+
+add
+
+list
+file
+
+
+
+add
+
+map
+file
+
+
+
+add
+
+random
+file
+
+
+
+add
+
+strstream
+file
+
+
+
+add
+
+queue
+file
+
+
+
+add
+
+streambuf
+file
+
+
+
+add
+
+iterator
+file
+
+
+
+add
+
+new
+file
+
+
+
+add
+
+bitset
+file
+
+
+
+add
+
+ios
+file
+
+
+
+add
+
+set
+file
+
+
+
+add
+
+limits
+file
+
+
+
+add
+
+fstream
+file
+
+
+
+add
+
+functional
+file
+
+
+
+add
+
+istream
+file
+
+
+
+add
+
+stack
+file
+
+
+
+add
+
+sun
+dir
+
+
+
+add
+
+string
+file
+
+
+
+add
+
+complex
+file
+
+
+
+add
+
+ostream
+file
+
+
+
+add
+
+array
+file
+
+
+
+add
+
+sstream
+file
+
+
+
+add
+

@@ -1,0 +1,25 @@
+#include "common_ps_fxc.h"
+
+sampler2D RT				: register( s0 );
+sampler2D FineNoise			: register( s1 );
+sampler2D ColorSpectrum		: register( s2 );
+
+float	time			: register( c0 );
+float	randomFrac		: register( c1 );
+
+float4 main(float2 texCoord  : TEXCOORD0) : COLOR
+{
+	half distToCenter = length((texCoord * 2.0f) - 1.0f);
+	half darken = saturate(1.0f - distToCenter*0.7);   
+	float3 screenColor = tex2D(RT, texCoord).xyz * darken;
+	float2 noiseCoords = texCoord + float2(time * randomFrac, time * randomFrac);
+	screenColor += tex2D(FineNoise, noiseCoords).xyz * darken * 0.15f;
+
+	//Flare-out brighter (whiter) areas
+	float3 outColor = 1.0f - exp(-4.0f * screenColor);
+
+	float lum = dot(outColor, 0.33f);
+	float3 finalColor = tex2D(ColorSpectrum, lum);
+
+	return float4(finalColor, 1.0f);
+}

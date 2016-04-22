@@ -1,0 +1,12 @@
+﻿Build started 5/10/2010 10:47:44 PM.
+     1>Project "C:\Program Files (x86)\Steam\steamapps\SourceMods\city17\Source\SourceCode\source\src\game\server\server_episodic-2005.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug_episodic\Server Episodic.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         Deleting file ".\Debug_episodic\server.pch".
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\fmod\api\inc /I..\..\common /I..\..\public /I..\..\public\tier0 /I..\..\public\tier1 /I.\ /I..\..\game\shared /I..\..\utils\common /I..\..\game\shared\hl2 /I..\..\game\shared\episodic /I.\hl2 /I.\episodic /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _WIN32 /D _DEBUG /D DEBUG /D _WINDOWS /D _USRDLL /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D GAME_DLL /D VECTOR /D VERSION_SAFE_STEAM_API_INTERFACES /D PROTECTED_THINGS_ENABLE /D fopen=dont_use_fopen /D sprintf=use_Q_snprintf_instead_of_sprintf /D strncpy=use_Q_strncpy_instead /D _snprintf=use_Q_snprintf_instead /D HL2_DLL /D HL2_EPISODIC /D SP_SDK /D USES_SAVERESTORE /D _WINDLL /D _MBCS /GF /Gm /RTC1 /MTd /GS- /fp:fast /Zc:wchar_t /Zc:forScope /GR /Yc"cbase.h" /Fp".\Debug_episodic\server.pch" /Fo".\Debug_episodic\\" /Fd".\Debug_episodic\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+     1>Done Building Project "C:\Program Files (x86)\Steam\steamapps\SourceMods\city17\Source\SourceCode\source\src\game\server\server_episodic-2005.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.14

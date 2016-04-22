@@ -1,0 +1,21 @@
+// DYNAMIC: "SQUISH"				"0..1"
+
+// Includes
+#include "common_ps_fxc.h"
+
+sampler2D 		SceneSampler		: register( s0 );
+
+const float4	MinColor		: register( c0 );
+const float4	MaxColor		: register( c1 );
+
+float4 main(float2 iTexCoord : TEXCOORD0) : COLOR
+{   
+	float4 orig = tex2D(SceneSampler, iTexCoord);
+	orig = min(MaxColor,orig);
+	orig = max(MinColor,orig);
+#if SQUISH
+	float4 ColorRange = (MaxColor-MinColor);
+	orig = (orig-MinColor)/ColorRange;
+#endif
+	return orig;
+}

@@ -1,0 +1,27 @@
+sampler			depth			: register( s0 ); //Depth
+sampler			fb				: register( s1 ); //Framebuffer
+
+float2			FarS	: register( c0 );
+float 			Luminance	: register( c1 );
+float 			fWhiteCutoff	: register( c2 );
+float 			fMiddleGray	: register( c3 );
+
+// Main =============================================================================================
+float4 main(float2 texCoord : TEXCOORD0) : COLOR
+{
+	float4 black = float4(1.0, 0.0, 0.0, 0.0);
+	float3 sky = 0;
+
+	float posZ = tex2D(depth, texCoord).a;
+	float depthMask = (2.0f * FarS.x) / (FarS.x + FarS.y - posZ * (FarS.y - FarS.x));
+	depthMask = step(0.99, depthMask);
+ 
+	sky = tex2D(fb, texCoord).rgb * depthMask;
+	sky *= fMiddleGray / ( Luminance + 0.001f );
+	sky *= ( 1.0f + ( sky / ( fWhiteCutoff * fWhiteCutoff ) ) );
+	sky -= 5.0f;
+	sky = max( sky, 0.0f );
+	sky /= ( 10.0f + sky );
+ 
+	return float4(sky,1.0f);
+}

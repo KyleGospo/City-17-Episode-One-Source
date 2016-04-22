@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/city17_source/!svn/ver/123/SourceCode/source/src/lib/public
+END
+raytrace.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/raytrace.lib
+END
+vmpi.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/vmpi.lib
+END
+bitmap.lib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/bitmap.lib
+END
+dmxloader.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/dmxloader.lib
+END
+mathlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/mathlib.lib
+END
+tier0.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/tier0.lib
+END
+tier1.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/tier1.lib
+END
+nvtristrip.lib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/nvtristrip.lib
+END
+tier2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/tier2.lib
+END
+tier3.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/tier3.lib
+END
+particles.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/particles.lib
+END
+choreoobjects.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/choreoobjects.lib
+END
+vgui_controls.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/vgui_controls.lib
+END
+shaderlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/123/SourceCode/source/src/lib/public/shaderlib.lib
+END
+vtf.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/vtf.lib
+END
+steam_api.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/steam_api.lib
+END
+matsys_controls.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/matsys_controls.lib
+END
+vstdlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/lib/public/vstdlib.lib
+END

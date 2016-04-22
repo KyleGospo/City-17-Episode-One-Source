@@ -1,0 +1,1325 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/city17_source/!svn/ver/111/SourceCode/source/src/public
+END
+zip_uncompressed.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/zip_uncompressed.h
+END
+surfinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/surfinfo.h
+END
+phyfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/phyfile.h
+END
+networkvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/networkvar.h
+END
+r_efx.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/r_efx.h
+END
+SoundParametersInternal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/SoundParametersInternal.cpp
+END
+eifaceV21.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/eifaceV21.h
+END
+engine_hlds_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/engine_hlds_api.h
+END
+ienginevgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ienginevgui.h
+END
+nvtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/nvtc.h
+END
+loadcmdline.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/loadcmdline.h
+END
+xzp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/xzp.cpp
+END
+iservernetworkable.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iservernetworkable.h
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/Color.h
+END
+istudiorender.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/istudiorender.h
+END
+jigglebones.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/jigglebones.cpp
+END
+model_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/model_types.h
+END
+XZip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/XZip.cpp
+END
+globalvars_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/globalvars_base.h
+END
+sentence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/sentence.cpp
+END
+ispatialpartition.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ispatialpartition.h
+END
+registry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/registry.cpp
+END
+bone_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bone_setup.h
+END
+UnicodeFileHelpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/UnicodeFileHelpers.cpp
+END
+bone_accessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bone_accessor.h
+END
+loadcmdline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/loadcmdline.cpp
+END
+modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/modes.h
+END
+iachievementmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iachievementmgr.h
+END
+iclientunknown.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iclientunknown.h
+END
+igameevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/igameevents.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/list.h
+END
+collisionutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/collisionutils.h
+END
+gamebspfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/gamebspfile.h
+END
+dt_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_common.h
+END
+vphysics_interfaceV30.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/vphysics_interfaceV30.h
+END
+dt_recv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_recv.cpp
+END
+studio_generic_io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/studio_generic_io.cpp
+END
+ihltv.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ihltv.h
+END
+const.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/const.h
+END
+iclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iclient.h
+END
+dt_shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_shared.cpp
+END
+ScratchPadUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ScratchPadUtils.cpp
+END
+edict.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/edict.h
+END
+XUnzip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/XUnzip.cpp
+END
+map_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/map_utils.cpp
+END
+bsptreedata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bsptreedata.cpp
+END
+rope_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/rope_shared.h
+END
+bone_setup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bone_setup.cpp
+END
+iserverunknown.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iserverunknown.h
+END
+vcollide.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/vcollide.h
+END
+ivraddll.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ivraddll.h
+END
+keyvaluescompiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/keyvaluescompiler.h
+END
+dispcoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dispcoll.cpp
+END
+inetmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/inetmessage.h
+END
+ivoiceserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ivoiceserver.h
+END
+blockingudpsocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/blockingudpsocket.cpp
+END
+rope_physics.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/rope_physics.h
+END
+interpolatortypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/interpolatortypes.h
+END
+chunkfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/chunkfile.h
+END
+isqlwrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/isqlwrapper.h
+END
+iclientrenderable.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iclientrenderable.h
+END
+iserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iserver.h
+END
+measure_section.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/measure_section.cpp
+END
+nvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/nvector.h
+END
+nmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/nmatrix.h
+END
+dt_recv.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_recv.h
+END
+UtlCachedFileData.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/UtlCachedFileData.h
+END
+disp_powerinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/disp_powerinfo.h
+END
+gametrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/gametrace.h
+END
+captioncompiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/captioncompiler.h
+END
+iefx.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iefx.h
+END
+simple_physics.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/simple_physics.h
+END
+vcollide_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/vcollide_parse.h
+END
+dt_utlvector_recv.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_utlvector_recv.h
+END
+PlayerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/PlayerState.h
+END
+bsptreedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bsptreedata.h
+END
+ixboxsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ixboxsystem.h
+END
+wadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/wadtypes.h
+END
+ihandleentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ihandleentity.h
+END
+filesystem_helpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/filesystem_helpers.cpp
+END
+interpolatortypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/interpolatortypes.cpp
+END
+rope_physics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/rope_physics.cpp
+END
+ilaunchabledll.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ilaunchabledll.h
+END
+cmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/cmodel.h
+END
+smooth_average.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/smooth_average.h
+END
+inetmsghandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/inetmsghandler.h
+END
+soundflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/soundflags.h
+END
+filesystem_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/filesystem_init.h
+END
+mouthinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/mouthinfo.h
+END
+con_nprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/con_nprint.h
+END
+blockingudpsocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/blockingudpsocket.h
+END
+dlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dlight.h
+END
+winlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/winlite.h
+END
+posedebugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/posedebugger.h
+END
+eiface.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/eiface.h
+END
+bitvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bitvec.h
+END
+IGameUIFuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/IGameUIFuncs.h
+END
+iregistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iregistry.h
+END
+disp_powerinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/disp_powerinfo.cpp
+END
+phonemeconverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/phonemeconverter.h
+END
+icliententity.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/icliententity.h
+END
+ifilelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ifilelist.h
+END
+simple_physics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/simple_physics.cpp
+END
+studio_virtualmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/studio_virtualmodel.cpp
+END
+string_t.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/string_t.h
+END
+shake.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/shake.h
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/trace.h
+END
+view_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/view_shared.h
+END
+optimize.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/optimize.h
+END
+lumpfiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/lumpfiles.h
+END
+vallocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/vallocator.cpp
+END
+soundcombiner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/soundcombiner.cpp
+END
+filesystem_init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/filesystem_init.cpp
+END
+inetchannelinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/inetchannelinfo.h
+END
+filesystem_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/filesystem_helpers.h
+END
+posedebugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/posedebugger.cpp
+END
+datamap.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/datamap.h
+END
+collisionutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/collisionutils.cpp
+END
+UnicodeFileHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/UnicodeFileHelpers.h
+END
+ivrenderview.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ivrenderview.h
+END
+dispcoll_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dispcoll_common.cpp
+END
+iserverentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iserverentity.h
+END
+imapoverview.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/imapoverview.h
+END
+filesystem_passthru.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/filesystem_passthru.h
+END
+ntree.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ntree.h
+END
+phonemeconverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/phonemeconverter.cpp
+END
+dt_send.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_send.h
+END
+ihltvdirector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ihltvdirector.h
+END
+dt_utlvector_send.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_utlvector_send.h
+END
+cdll_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/cdll_int.h
+END
+minmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/minmax.h
+END
+kevvaluescompiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/kevvaluescompiler.cpp
+END
+map_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/map_utils.h
+END
+savegame_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/savegame_version.h
+END
+event_flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/event_flags.h
+END
+dt_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_shared.h
+END
+ScratchPadUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ScratchPadUtils.h
+END
+texture_group_names.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/texture_group_names.h
+END
+renderparm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/renderparm.h
+END
+irecipientfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/irecipientfilter.h
+END
+inetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/inetwork.h
+END
+BitmapFontFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/BitmapFontFile.h
+END
+chunkfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/chunkfile.cpp
+END
+scratchpad3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/scratchpad3d.h
+END
+idedicatedexports.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/idedicatedexports.h
+END
+arraystack.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/arraystack.h
+END
+soundinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/soundinfo.h
+END
+vallocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/vallocator.h
+END
+disp_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/disp_common.h
+END
+disp_tesselate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/disp_tesselate.h
+END
+dispcoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dispcoll.h
+END
+isaverestore.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/isaverestore.h
+END
+igameresources.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/igameresources.h
+END
+localflexcontroller.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/localflexcontroller.h
+END
+pixelwriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/pixelwriter.h
+END
+isoundcombiner.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/isoundcombiner.h
+END
+worldsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/worldsize.h
+END
+dt_utlvector_send.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_utlvector_send.cpp
+END
+IHammer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/IHammer.h
+END
+measure_section.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/measure_section.h
+END
+OfflineMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/OfflineMode.h
+END
+client_render_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/client_render_handle.h
+END
+inetchannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/inetchannel.h
+END
+jigglebones.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/jigglebones.h
+END
+editor_sendcommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/editor_sendcommand.cpp
+END
+crtmemdebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/crtmemdebug.cpp
+END
+networkstringtabledefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/networkstringtabledefs.h
+END
+ibsppack.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ibsppack.h
+END
+scratchpad3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/scratchpad3d.cpp
+END
+stringregistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/stringregistry.h
+END
+bone_accessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bone_accessor.cpp
+END
+bspflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bspflags.h
+END
+disp_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/disp_common.cpp
+END
+client_class.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/client_class.h
+END
+sentence.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/sentence.h
+END
+studio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/studio.h
+END
+iprediction.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iprediction.h
+END
+iclientthinkable.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iclientthinkable.h
+END
+soundchars.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/soundchars.h
+END
+iscratchpad3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iscratchpad3d.h
+END
+zip_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/zip_utils.cpp
+END
+builddisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/builddisp.h
+END
+icliententitylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/icliententitylist.h
+END
+stdstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/stdstring.h
+END
+dt_utlvector_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_utlvector_common.cpp
+END
+bspfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/bspfile.h
+END
+stringregistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/stringregistry.cpp
+END
+server_class.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/server_class.h
+END
+lumpfiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/lumpfiles.cpp
+END
+networkvar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/networkvar.cpp
+END
+clientstats.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/clientstats.h
+END
+crtmemdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/crtmemdebug.h
+END
+editor_sendcommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/editor_sendcommand.h
+END
+client_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/client_class.cpp
+END
+ivtex.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ivtex.h
+END
+ivguicenterprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ivguicenterprint.h
+END
+coordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/coordsize.h
+END
+studio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/studio.cpp
+END
+icvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/icvar.h
+END
+shattersurfacetypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/shattersurfacetypes.h
+END
+ivoicetweak.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ivoicetweak.h
+END
+raytrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/raytrace.h
+END
+builddisp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/builddisp.cpp
+END
+dt_send.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_send.cpp
+END
+dispcoll_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dispcoll_common.h
+END
+zip_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/zip_utils.h
+END
+ishadercompiledll.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ishadercompiledll.h
+END
+filesystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/filesystem.h
+END
+xwvfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/xwvfile.h
+END
+iclientnetworkable.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/iclientnetworkable.h
+END
+server_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/server_class.cpp
+END
+overlaytext.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/overlaytext.h
+END
+basehandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/basehandle.h
+END
+dt_utlvector_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_utlvector_common.h
+END
+disp_vertindex.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/disp_vertindex.h
+END
+saverestoretypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/saverestoretypes.h
+END
+client_textmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/client_textmessage.h
+END
+ATI_Compress.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/ATI_Compress.h
+END
+vphysics_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/city17_source/!svn/ver/77/SourceCode/source/src/public/vphysics_interface.h
+END
+dt_utlvector_recv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/city17_source/!svn/ver/76/SourceCode/source/src/public/dt_utlvector_recv.cpp
+END

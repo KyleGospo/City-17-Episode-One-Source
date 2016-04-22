@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui
+END
+vgui_rootpanel_sdk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/vgui_rootpanel_sdk.cpp
+END
+sdk_spectatorgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdk_spectatorgui.h
+END
+sdk_classmenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdk_classmenu.h
+END
+sdk_teammenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdk_teammenu.h
+END
+sdkviewport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdkviewport.cpp
+END
+sdk_textwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdk_textwindow.h
+END
+vgui_rootpanel_sdk.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/vgui_rootpanel_sdk.h
+END
+sdkviewport.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdkviewport.h
+END
+sdk_spectatorgui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdk_spectatorgui.cpp
+END
+sdk_classmenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdk_classmenu.cpp
+END
+sdk_teammenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdk_teammenu.cpp
+END
+sdk_textwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/city17_source/!svn/ver/115/SourceCode/source/src/game/client/sdk/vgui/sdk_textwindow.cpp
+END
