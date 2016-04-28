@@ -1,13 +1,5 @@
 # Files to ignore when considering what GIT should commit.
 
-# OSX/Linux build products
-*.mak
-*.mak.vpc_crc
-*.xcodeproj/
-obj*/
-!devtools/*.mak
-!utils/smdlexp/smdlexp.mak
-
 # Specific Source build products
 client.pdb
 client.dll
